@@ -33,6 +33,8 @@ from src.analysis.visualization_utils import pocket_to_rdkit
 from svflow.kinematics import compute_center_of_mass
 from svflow.svgd import compute_svgd_velocity, compute_isotropic_repulsion
 from svflow.time_scheduler import TimeAnnealedScheduler
+from svflow.tangent_projection import compute_com_vdw_gradient, tangent_plane_projection
+from svflow.orthogonal_preservation import orthogonal_preservation
 
 
 class SVFlowSampler:
@@ -60,6 +62,8 @@ class SVFlowSampler:
         d_min: float = 2.0,
         kernel_bandwidth: Optional[float] = None,
         use_svgd_kernel: bool = True,
+        use_tangent_projection: bool = False,
+        use_orthogonal_preservation: bool = False,
         verbose: bool = False,
     ):
         self.model = model
@@ -68,6 +72,8 @@ class SVFlowSampler:
         self.d_min = d_min
         self.kernel_bandwidth = kernel_bandwidth
         self.use_svgd_kernel = use_svgd_kernel
+        self.use_tangent_projection = use_tangent_projection
+        self.use_orthogonal_preservation = use_orthogonal_preservation
         self.verbose = verbose
         self.scheduler = TimeAnnealedScheduler(t_on=t_on, lambda_max=lambda_max)
 
@@ -83,9 +89,9 @@ class SVFlowSampler:
         model = self.model
         device = next(model.parameters()).device
 
-        # Prepare pocket: repeat N times for batched dynamics
-        pocket = self._prepare_pocket(pocket_data)
-        pocket = data_utils.repeat_items(pocket, self.N)
+        # Prepare pocket: save single copy for TP/OP, then repeat N times
+        pocket_single = self._prepare_pocket(pocket_data)
+        pocket = data_utils.repeat_items(pocket_single, self.N)
 
         T = timesteps if timesteps is not None else model.T_sampling
         delta_t = 1.0 / T
@@ -154,7 +160,7 @@ class SVFlowSampler:
                 all_x_hat_0.append(x_hat_0)
                 all_v_com.append(v_i.mean(dim=0))
 
-            # ---- SV-Flow Guidance (simplified: no TP, no OP) ----
+            # ---- SV-Flow Guidance ----
             if lam_t.max() > 0:
                 com_positions = torch.stack([x.mean(dim=0) for x in all_x_hat_0])
 
@@ -169,7 +175,38 @@ class SVFlowSampler:
                         com_positions, d_min=self.d_min
                     )
 
-                # (b) Apply time-annealed guidance directly — no projections
+                # (b) Optional: Tangent Plane Projection (constrain to pocket surface)
+                if self.use_tangent_projection:
+                    pkt_x = pocket_single['x'].to(device)
+                    if pkt_x.numel() > 0:
+                        lig_types = logits_h.argmax(dim=-1)          # (sum(sizes),)
+                        n_pkt = pkt_x.shape[0]
+                        # All pocket atoms treated as Carbon (index 0) for vdW radii
+                        pkt_types = torch.zeros(n_pkt, dtype=torch.long, device=device)
+                        pkt_mask_raw = pocket_single.get('mask')
+                        if pkt_mask_raw is not None:
+                            pkt_mask = pkt_mask_raw.to(device).squeeze(-1) \
+                                if pkt_mask_raw.dim() > 1 else pkt_mask_raw.to(device)
+                        else:
+                            pkt_mask = torch.zeros(n_pkt, dtype=torch.long, device=device)
+
+                        com_gradient = compute_com_vdw_gradient(
+                            ligand_coords=x_cat,
+                            ligand_types=lig_types,
+                            ligand_mask=mask_cat,
+                            pocket_coords=pkt_x,
+                            pocket_types=pkt_types,
+                            pocket_mask=pkt_mask,
+                            ligand_sizes=sizes_list,
+                        )
+                        delta_v = tangent_plane_projection(delta_v, com_gradient)
+
+                # (c) Optional: Orthogonal Kinetic Preservation (preserve KPE manifold)
+                if self.use_orthogonal_preservation:
+                    v_com = torch.stack(all_v_com)  # (N, 3)
+                    delta_v = orthogonal_preservation(delta_v, v_com)
+
+                # (d) Apply time-annealed guidance
                 guidance = lam_t * delta_v  # (N, 3)
             else:
                 guidance = torch.zeros(self.N, 3, device=device)

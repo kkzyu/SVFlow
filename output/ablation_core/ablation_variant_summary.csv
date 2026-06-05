@@ -1,0 +1,8 @@
+,n_valid,n_valid,tanimoto_diversity,tanimoto_diversity,centroid_variance,centroid_variance,mean_pairwise_centroid_distance,mean_pairwise_centroid_distance,qed_mean,qed_mean,sa_mean,sa_mean,clashes_per_mol,clashes_per_mol,bond_anomaly_rate,bond_anomaly_rate,broken_rings_per_mol,broken_rings_per_mol
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+variant,,,,,,,,,,,,,,,,,,
+core,8.2,1.3038,0.873,0.0356,0.0283,0.021,0.3506,0.1653,0.5219,0.075,3.4429,0.7855,10.0889,14.6358,0.0366,0.0189,0.0,0.0
+full,9.0,0.7071,0.8878,0.0265,0.0184,0.0099,0.2812,0.1045,0.5053,0.0448,3.3801,0.2737,8.0444,11.8888,0.0453,0.0186,0.06,0.1342
+isotropic,7.8,2.1679,0.8756,0.0289,4.6033,3.6285,4.2676,1.5484,0.5324,0.0788,3.5532,0.3611,154.5333,107.4341,0.0581,0.0133,0.0,0.0
+wo_op,7.8,1.9235,0.8817,0.0299,0.0982,0.0898,0.674,0.4459,0.5509,0.0843,3.2842,0.4531,20.5222,24.5289,0.0391,0.0147,0.095,0.1624
+wo_tp,7.4,1.1402,0.8815,0.0329,0.0138,0.0091,0.2485,0.0977,0.5414,0.1306,3.2121,0.3853,7.4524,8.2201,0.0451,0.0171,0.0,0.0

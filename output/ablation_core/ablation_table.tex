@@ -1,0 +1,16 @@
+\begin{table}[h]
+\caption{Ablation study results on 5 representative pockets.}
+\centering
+\begin{tabular}{lcccc}
+\hline
+Variant & Tanimoto Div. $\uparrow$ & QED $\uparrow$ & Clashes/mol $\downarrow$ & Spatial Div. vs Core \\
+\hline
+Core (Ours) & 0.873 & 0.522 & 10.09 & 1.00x \\
+FULL (TP+OP) & 0.888 & 0.505 & 8.04 & 0.65x \\
+w/o OP & 0.882 & 0.551 & 20.52 & 3.48x \\
+w/o TP & 0.882 & 0.541 & 7.45 & 0.49x \\
+Isotropic (1/r²) & 0.876 & 0.532 & 154.53 & 162.92x \\
+\hline
+\end{tabular}
+\label{tab:ablation}
+\end{table}

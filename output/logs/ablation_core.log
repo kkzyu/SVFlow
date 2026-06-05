@@ -1,0 +1,63 @@
+/root/miniconda3/lib/python3.12/site-packages/MDAnalysis/topology/tables.py:52: DeprecationWarning: Deprecated in version 2.8.0
+MDAnalysis.topology.tables has been moved to MDAnalysis.guesser.tables. This import point will be removed in MDAnalysis version 3.0.0
+  warnings.warn(wmsg, category=DeprecationWarning)
+Device: cuda:0
+Variants: core,full,wo_op,wo_tp,isotropic
+N=10, T=500
+Loading checkpoint from /root/autodl-tmp/checkpoints/DrugFlow/drugflow.ckpt...
+Marginal Prior MB
+Pockets: 5
+  ✓ ABL2_HUMAN_274_551_0
+  ✓ ACE_HUMAN_650_1230_0
+  ✓ AK1BA_HUMAN_1_316_0
+  ✓ AKT1_HUMAN_1_137_0
+  ✓ AROE_THET8_1_263_0
+
+============================================================
+  Variant: SV-Flow Core (SVGD kernel + time annealing, no TP/OP)
+  Config: {'lambda_max': 1.0, 't_on': 0.5, 'd_min': 2.0, 'use_svgd_kernel': True, 'use_tangent_projection': False, 'use_orthogonal_preservation': False}
+============================================================
+core:   0%|          | 0/5 [00:00<?, ?it/s]core:  20%|██        | 1/5 [00:21<01:27, 21.85s/it]core:  40%|████      | 2/5 [00:43<01:04, 21.48s/it]core:  60%|██████    | 3/5 [01:04<00:42, 21.42s/it]core:  80%|████████  | 4/5 [01:26<00:21, 21.58s/it]core: 100%|██████████| 5/5 [01:47<00:00, 21.56s/it]core: 100%|██████████| 5/5 [01:47<00:00, 21.56s/it]
+  Done in 108s — 50 valid mols across 5/5 pockets
+
+============================================================
+  Variant: SV-Flow FULL (SVGD + TP + OP)
+  Config: {'lambda_max': 1.0, 't_on': 0.5, 'd_min': 2.0, 'use_svgd_kernel': True, 'use_tangent_projection': True, 'use_orthogonal_preservation': True}
+============================================================
+full:   0%|          | 0/5 [00:00<?, ?it/s]full:  20%|██        | 1/5 [00:21<01:25, 21.27s/it]full:  40%|████      | 2/5 [00:42<01:03, 21.13s/it]full:  60%|██████    | 3/5 [01:03<00:42, 21.09s/it]full:  80%|████████  | 4/5 [01:24<00:21, 21.30s/it]full: 100%|██████████| 5/5 [01:46<00:00, 21.30s/it]full: 100%|██████████| 5/5 [01:46<00:00, 21.26s/it]
+  Done in 106s — 50 valid mols across 5/5 pockets
+
+============================================================
+  Variant: SV-Flow w/o OP (SVGD + TP, orthogonal protection removed)
+  Config: {'lambda_max': 1.0, 't_on': 0.5, 'd_min': 2.0, 'use_svgd_kernel': True, 'use_tangent_projection': True, 'use_orthogonal_preservation': False}
+============================================================
+wo_op:   0%|          | 0/5 [00:00<?, ?it/s]wo_op:  20%|██        | 1/5 [00:21<01:25, 21.33s/it]wo_op:  40%|████      | 2/5 [00:42<01:03, 21.15s/it]wo_op:  60%|██████    | 3/5 [01:03<00:42, 21.17s/it]wo_op:  80%|████████  | 4/5 [01:25<00:21, 21.36s/it]wo_op: 100%|██████████| 5/5 [01:46<00:00, 21.31s/it]wo_op: 100%|██████████| 5/5 [01:46<00:00, 21.29s/it]
+  Done in 106s — 50 valid mols across 5/5 pockets
+
+============================================================
+  Variant: SV-Flow w/o TP (SVGD + OP, tangent projection removed)
+  Config: {'lambda_max': 1.0, 't_on': 0.5, 'd_min': 2.0, 'use_svgd_kernel': True, 'use_tangent_projection': False, 'use_orthogonal_preservation': True}
+============================================================
+wo_tp:   0%|          | 0/5 [00:00<?, ?it/s]wo_tp:  20%|██        | 1/5 [00:21<01:25, 21.31s/it]wo_tp:  40%|████      | 2/5 [00:42<01:03, 21.15s/it]wo_tp:  60%|██████    | 3/5 [01:03<00:42, 21.14s/it]wo_tp:  80%|████████  | 4/5 [01:25<00:21, 21.29s/it]wo_tp: 100%|██████████| 5/5 [01:46<00:00, 21.24s/it]wo_tp: 100%|██████████| 5/5 [01:46<00:00, 21.23s/it]
+  Done in 106s — 50 valid mols across 5/5 pockets
+
+============================================================
+  Variant: Isotropic Repulsion (1/r² distance penalty, no SVGD kernel)
+  Config: {'lambda_max': 1.0, 't_on': 0.5, 'd_min': 2.0, 'use_svgd_kernel': False, 'use_tangent_projection': False, 'use_orthogonal_preservation': False}
+============================================================
+isotropic:   0%|          | 0/5 [00:00<?, ?it/s]isotropic:  20%|██        | 1/5 [00:21<01:25, 21.29s/it]isotropic:  40%|████      | 2/5 [00:42<01:03, 21.13s/it]isotropic:  60%|██████    | 3/5 [01:03<00:42, 21.10s/it]isotropic:  80%|████████  | 4/5 [01:24<00:21, 21.23s/it]isotropic: 100%|██████████| 5/5 [01:46<00:00, 21.25s/it]isotropic: 100%|██████████| 5/5 [01:46<00:00, 21.22s/it]
+  Done in 106s — 50 valid mols across 5/5 pockets
+
+✅ Ablation summary saved to /root/SVFlow/output/ablation_core/ablation_summary.json
+
+======================================================================
+ABLATION COMPLETE — Summary
+======================================================================
+Variant               Pockets     Mols     Time
+------------------------------------------------
+core                        5       50     108s
+full                        5       50     106s
+wo_op                       5       50     106s
+wo_tp                       5       50     106s
+isotropic                   5       50     106s
+======================================================================

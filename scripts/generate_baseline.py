@@ -32,7 +32,7 @@ from tqdm import tqdm
 from Bio.PDB import PDBParser
 
 # Fix for PyTorch 2.6+ weights_only=True default
-torch.serialization.add_safe_globals([argparse.Namespace])
+torch.serialization.add_safe_globals([argparse.Namespace, __import__('pathlib').PosixPath])
 
 # Add DrugFlow to path
 basedir = Path(__file__).resolve().parent.parent

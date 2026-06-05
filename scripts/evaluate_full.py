@@ -53,8 +53,8 @@ def compute_qed_values(mols):
 def compute_sa_scores(mols):
     """Compute SA (Synthetic Accessibility) scores."""
     try:
-        from src.analysis.metrics import compute_sa_score
-        return [compute_sa_score(m) for m in mols if m is not None]
+        from src.analysis.metrics import MolecularMetrics
+        return [MolecularMetrics.calculate_sa(m) for m in mols if m is not None]
     except ImportError:
         return []
 

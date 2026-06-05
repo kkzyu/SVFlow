@@ -31,7 +31,7 @@ import torch
 import numpy as np
 
 # Fix for PyTorch 2.6+
-torch.serialization.add_safe_globals([argparse.Namespace])
+torch.serialization.add_safe_globals([argparse.Namespace, __import__('pathlib').PosixPath])
 
 # Add paths
 basedir = Path(__file__).resolve().parent.parent

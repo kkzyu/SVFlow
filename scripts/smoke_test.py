@@ -24,7 +24,7 @@ import torch
 import numpy as np
 
 # Fix for PyTorch 2.6+ weights_only=True default when loading checkpoints
-torch.serialization.add_safe_globals([argparse.Namespace])
+torch.serialization.add_safe_globals([argparse.Namespace, __import__('pathlib').PosixPath])
 
 # Add paths
 drugflow_path = Path('/root/baselines/DrugFlow/code/DrugFlow-main')

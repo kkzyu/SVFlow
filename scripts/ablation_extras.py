@@ -39,7 +39,7 @@ import torch
 import numpy as np
 
 # Fix for PyTorch 2.6+
-torch.serialization.add_safe_globals([argparse.Namespace])
+torch.serialization.add_safe_globals([argparse.Namespace, __import__('pathlib').PosixPath])
 
 basedir = Path(__file__).resolve().parent.parent
 drugflow_path = Path('/root/baselines/DrugFlow/code/DrugFlow-main')

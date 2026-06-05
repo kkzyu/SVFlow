@@ -83,12 +83,9 @@ def maxmin_select(mols, k=10):
     # the molecule with maximum minimum Tanimoto distance to the selected set.
     n_fps = len(fps)
 
-    def dist_func(i, j):
-        return 1.0 - DataStructs.TanimotoSimilarity(fps[i], fps[j])
-
     picker = MaxMinPicker()
     selected_fp_indices = picker.LazyBitVectorPick(
-        lambda i, j: dist_func(i, j),
+        fps,
         poolSize=n_fps,
         pickSize=k,
         seed=42,

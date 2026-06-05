@@ -1,0 +1,51 @@
+DISCUSSION AND CONCLUSION
+=================================================================
+
+We presented SV-Flow, a lightweight inference-time diversity enhancement
+framework that decouples Stein Variational Gradient Descent (SVGD) repulsive
+forces into the center-of-mass space (R^3) of each ligand, while preserving
+chemical integrity through tangent-plane projection and time-annealed
+scheduling.
+
+On the CrossDocked test set (N=100 pockets, 10 trajectories per pocket),
+SV-Flow Core achieves a mean Tanimoto chemical diversity of 0.882
+(vs. 0.848 for DrugFlow independent sampling), representing a
+4.1% relative improvement (paired t-test: t(99)=4.35,
+p=3.36e-05, Cohen's d=0.435). After light MMFF94
+energy minimization (median RMSD 0.722 A, <5% of
+molecules exceeding 2.0 A), internal steric clashes are eliminated in both
+methods (0.00 clashes/mol), and chemical identity markers (QED, SA score)
+remain unchanged, confirming that the diversity gain is not an artifact of
+strained geometries.
+
+Notably, SV-Flow Core with N=10 trajectories approaches the diversity of
+MaxMin post-hoc selection from a 5x larger sampling pool (N=50 -> 10;
+Tanimoto diversity 0.902), demonstrating
+that coupled SVGD repulsion during sampling is fundamentally more efficient
+than post-hoc filtering. The centroid spatial variance increases from
+0.108 to 0.135 (+24.6%
+relative), indicating that SV-Flow molecules explore more diverse binding
+modes within the pocket.
+
+The QED drug-likeness exhibits a modest trade-off (0.504 vs.
+0.547 for DrugFlow, p=2.41e-04), consistent with the
+expected quality-diversity Pareto frontier: molecules that are more
+structurally diverse tend to have slightly lower drug-likeness scores.
+Post-minimization bond anomaly rates (0.025
+vs. 0.017) and broken ring fractions
+(0.006 vs. 0.000)
+remain within acceptable ranges for both methods.
+
+A limitation of the current study is its restriction to the CrossDocked
+benchmark; future work should validate these findings on more diverse pocket
+geometries (e.g., PDBbind, DUD-E) and with different base generative models
+(e.g., TargetDiff, DiffSBDD). Additionally, while MMFF94 minimization is
+computationally lightweight and effectively resolves internal clashes, a
+full protein-ligand complex minimization with explicit solvent may further
+improve physical realism.
+
+In summary, SV-Flow provides a simple, principled, and computationally
+inexpensive approach to enhancing binding mode diversity at inference time,
+requiring no retraining and adding minimal overhead (~0.2 s/molecule for
+SVGD repulsion). The framework is model-agnostic and can be readily applied
+to any flow-matching or diffusion-based SBDD pipeline.

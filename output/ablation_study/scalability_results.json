@@ -1,0 +1,137 @@
+{
+  "N=2": {
+    "results": [
+      {
+        "pocket": "4xli_B_rec",
+        "n_valid": 2,
+        "n_total": 2,
+        "centroid_variance": 0.0007453197939871277,
+        "mean_pairwise_distance": 0.09457186435640112
+      },
+      {
+        "pocket": "3l3n_A_rec",
+        "n_valid": 2,
+        "n_total": 2,
+        "centroid_variance": 0.06494624202988307,
+        "mean_pairwise_distance": 0.8828107975996877
+      },
+      {
+        "pocket": "5liu_X_rec",
+        "n_valid": 2,
+        "n_total": 2,
+        "centroid_variance": 0.00011984785791607838,
+        "mean_pairwise_distance": 0.03792326851674234
+      }
+    ],
+    "time_seconds": 217.3586926460266,
+    "time_per_pocket": 72.45289754867554
+  },
+  "N=4": {
+    "results": [
+      {
+        "pocket": "4xli_B_rec",
+        "n_valid": 4,
+        "n_total": 4,
+        "centroid_variance": 0.00038562091790409625,
+        "mean_pairwise_distance": 0.052816794406577376
+      },
+      {
+        "pocket": "3l3n_A_rec",
+        "n_valid": 4,
+        "n_total": 4,
+        "centroid_variance": 0.08230596594066257,
+        "mean_pairwise_distance": 0.7828521727292465
+      },
+      {
+        "pocket": "5liu_X_rec",
+        "n_valid": 4,
+        "n_total": 4,
+        "centroid_variance": 0.02510213823231339,
+        "mean_pairwise_distance": 0.43095492354565157
+      }
+    ],
+    "time_seconds": 210.9008162021637,
+    "time_per_pocket": 70.3002720673879
+  },
+  "N=8": {
+    "results": [
+      {
+        "pocket": "4xli_B_rec",
+        "n_valid": 8,
+        "n_total": 8,
+        "centroid_variance": 0.08942005566956628,
+        "mean_pairwise_distance": 0.7411880694246591
+      },
+      {
+        "pocket": "3l3n_A_rec",
+        "n_valid": 8,
+        "n_total": 8,
+        "centroid_variance": 0.08497453055381038,
+        "mean_pairwise_distance": 0.7094648101266748
+      },
+      {
+        "pocket": "5liu_X_rec",
+        "n_valid": 8,
+        "n_total": 8,
+        "centroid_variance": 0.023898082369792767,
+        "mean_pairwise_distance": 0.3453006108613769
+      }
+    ],
+    "time_seconds": 250.49742436408997,
+    "time_per_pocket": 83.49914145469666
+  },
+  "N=16": {
+    "results": [
+      {
+        "pocket": "4xli_B_rec",
+        "n_valid": 16,
+        "n_total": 16,
+        "centroid_variance": 0.004852918543339226,
+        "mean_pairwise_distance": 0.14542127999872978
+      },
+      {
+        "pocket": "3l3n_A_rec",
+        "n_valid": 16,
+        "n_total": 16,
+        "centroid_variance": 0.018461248818707057,
+        "mean_pairwise_distance": 0.2982311250486512
+      },
+      {
+        "pocket": "5liu_X_rec",
+        "n_valid": 16,
+        "n_total": 16,
+        "centroid_variance": 0.021555955719535173,
+        "mean_pairwise_distance": 0.3497307671697983
+      }
+    ],
+    "time_seconds": 295.1755619049072,
+    "time_per_pocket": 98.39185396830241
+  },
+  "N=32": {
+    "results": [
+      {
+        "pocket": "4xli_B_rec",
+        "n_valid": 32,
+        "n_total": 32,
+        "centroid_variance": 0.06097446019316191,
+        "mean_pairwise_distance": 0.5447452197704539
+      },
+      {
+        "pocket": "3l3n_A_rec",
+        "n_valid": 32,
+        "n_total": 32,
+        "centroid_variance": 1.3653722567135764,
+        "mean_pairwise_distance": 2.5268568942367504
+      },
+      {
+        "pocket": "5liu_X_rec",
+        "n_valid": 32,
+        "n_total": 32,
+        "centroid_variance": 0.5144260267173878,
+        "mean_pairwise_distance": 1.572643047678255
+      }
+    ],
+    "time_seconds": 190.2777030467987,
+    "time_per_pocket": 63.42590101559957
+  }
+}

@@ -1,0 +1,98 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Evaluating 1 pocket directories...
+Evaluating:   0%|          | 0/1 [00:00<?, ?it/s][11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+[11:46:57] DEPRECATION WARNING: please use MorganGenerator
+Evaluating: 100%|██████████| 1/1 [00:00<00:00,  1.50it/s]Evaluating: 100%|██████████| 1/1 [00:00<00:00,  1.50it/s]
+
+======================================================================
+Method
+======================================================================
+  Valid molecules/pocket                  : 39.0000 ± nan
+  QED                                     : 0.6673 ± nan
+  Tanimoto Diversity                      : 0.9018 ± nan
+  Centroid Variance (Å²)                  : 0.0533 ± nan
+  Mean Pairwise Centroid Dist (Å)         : 0.5205 ± nan
+  Clashes/mol                             : 0.0000 ± nan
+  Bond Anomaly Rate                       : 0.0104 ± nan
+  Broken Rings/mol                        : 0.0000 ± nan
+  Dist to Pocket Center (Å)               : 0.0000 ± nan
+
+Per-pocket results saved to ./output/results/posthoc_per_pocket.csv
+Summary saved to ./output/results/posthoc_summary.json

@@ -1,0 +1,1043 @@
+sdf_file,pocket,mol_name,initial_energy,final_energy,energy_reduction,rmsd,n_atoms_heavy,clashes_before,clashes_after,n_iterations,status,error
+output/svflow_core/14gs_A_rec/mol_00.sdf,14gs_A_rec,mol_00,1252.1230408619645,75.65062248915316,1176.4724183728113,0.48104261607401944,16,6,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_01.sdf,14gs_A_rec,mol_01,54.36081425642523,-7.795031101028644,62.15584535745387,0.7557956230176203,6,0,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_02.sdf,14gs_A_rec,mol_02,157.36629096043865,25.386673431403455,131.97961752903518,0.39306788112277924,14,0,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_03.sdf,14gs_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 5 6 10
+output/svflow_core/14gs_A_rec/mol_04.sdf,14gs_A_rec,mol_04,53.69122811071648,14.747694182163219,38.943533928553265,0.2774676638186364,11,0,1,-1,success,
+output/svflow_core/14gs_A_rec/mol_05.sdf,14gs_A_rec,mol_05,106.71166822676034,16.097642748890145,90.6140254778702,0.8113405316261493,10,1,1,-1,success,
+output/svflow_core/14gs_A_rec/mol_06.sdf,14gs_A_rec,mol_06,1090.0240704420182,45.73364349498111,1044.290426947037,0.37997553510885274,12,12,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_07.sdf,14gs_A_rec,mol_07,24.43713903131834,3.2376511174453357,21.199487913873003,0.42836371738230383,7,0,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_08.sdf,14gs_A_rec,mol_08,122.03791781076796,-2.7800295727747475,124.81794738354272,0.1948635410986736,10,0,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_09.sdf,14gs_A_rec,mol_09,100.36051929423598,-39.89157443073363,140.2520937249696,1.231448914535674,17,1,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_00.sdf,1a2g_A_rec,mol_00,138.8646497647762,8.920089930968636,129.94455983380757,0.49919829819136985,5,0,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_01.sdf,1a2g_A_rec,mol_01,27.444512826814282,21.420078990334854,6.024433836479428,0.0662282906025004,9,2,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_02.sdf,1a2g_A_rec,mol_02,151.9278178203404,-27.163891097613092,179.0917089179535,0.42392284571953937,6,0,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_03.sdf,1a2g_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 14 O, 3, is greater than permitted"
+output/svflow_core/1a2g_A_rec/mol_04.sdf,1a2g_A_rec,mol_04,5.732607701699899,-0.7498366164513128,6.482444318151211,0.03487696836707644,7,0,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_05.sdf,1a2g_A_rec,mol_05,36.692177280181554,-30.578729105716697,67.27090638589826,0.34108178136734296,9,0,0,-1,success,
+output/svflow_core/1a2g_A_rec/mol_06.sdf,1a2g_A_rec,mol_06,15.542030418548082,4.67416626352581,10.867864155022271,0.04956368097024116,8,1,1,-1,success,
+output/svflow_core/1a2g_A_rec/mol_07.sdf,1a2g_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 6 11 12 14 15 16
+output/svflow_core/1a2g_A_rec/mol_08.sdf,1a2g_A_rec,mol_08,54.78605168688853,35.36334814007935,19.422703546809174,0.620715694947358,6,1,2,-1,success,
+output/svflow_core/1a2g_A_rec/mol_09.sdf,1a2g_A_rec,mol_09,41.60042922914905,24.965144156031183,16.635285073117867,0.21460449104484328,6,0,0,-1,success,
+output/svflow_core/1afs_A_rec/mol_00.sdf,1afs_A_rec,mol_00,142.7182208151139,21.171561611462913,121.54665920365099,1.2263898776070883,9,0,1,-1,success,
+output/svflow_core/1afs_A_rec/mol_01.sdf,1afs_A_rec,mol_01,582.9380441104422,-26.202654073977335,609.1406981844195,0.8881745194241579,13,7,3,-1,success,
+output/svflow_core/1afs_A_rec/mol_02.sdf,1afs_A_rec,mol_02,128.84566003709205,22.44911902804177,106.39654100905028,0.5237925097434798,11,4,0,-1,success,
+output/svflow_core/1afs_A_rec/mol_03.sdf,1afs_A_rec,mol_03,337.4456464404857,91.22431592292855,246.22133051755713,0.5286779854188077,18,11,0,-1,success,
+output/svflow_core/1afs_A_rec/mol_04.sdf,1afs_A_rec,mol_04,543.0399863113416,50.719830431911205,492.32015587943044,0.9686200292151477,15,2,1,-1,success,
+output/svflow_core/1afs_A_rec/mol_05.sdf,1afs_A_rec,mol_05,208.27717447701912,80.76781803976303,127.50935643725609,0.9090480024046609,13,7,2,-1,success,
+output/svflow_core/1afs_A_rec/mol_06.sdf,1afs_A_rec,mol_06,,,,,13,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/1afs_A_rec/mol_07.sdf,1afs_A_rec,mol_07,249.88154758416255,-15.027300058523144,264.9088476426857,0.6294261040175879,11,2,0,-1,success,
+output/svflow_core/1afs_A_rec/mol_08.sdf,1afs_A_rec,mol_08,721.5066707504133,66.29143181405097,655.2152389363623,1.1984334551953735,20,6,2,-1,success,
+output/svflow_core/1afs_A_rec/mol_09.sdf,1afs_A_rec,mol_09,2133.0521742742176,20.638582060615857,2112.4135922136015,0.615031255721621,12,7,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_00.sdf,1ai4_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 4 N, 4, is greater than permitted"
+output/svflow_core/1ai4_A_rec/mol_01.sdf,1ai4_A_rec,mol_01,70.86056557941262,39.373272678081484,31.487292901331138,0.23630461313423493,11,3,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_02.sdf,1ai4_A_rec,mol_02,82.69231852510838,-11.717582673412837,94.40990119852121,0.325210650528856,12,1,2,-1,success,
+output/svflow_core/1ai4_A_rec/mol_03.sdf,1ai4_A_rec,mol_03,1552.6942790538747,38.05759311399461,1514.63668593988,0.585320025147228,14,1,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_04.sdf,1ai4_A_rec,mol_04,,,,,0,0,0,0,error,"Explicit valence for atom # 7 C, 5, is greater than permitted"
+output/svflow_core/1ai4_A_rec/mol_05.sdf,1ai4_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 6 11 13
+output/svflow_core/1ai4_A_rec/mol_06.sdf,1ai4_A_rec,mol_06,71.36836040453841,36.763898869439174,34.60446153509923,0.38680592613824355,11,1,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_07.sdf,1ai4_A_rec,mol_07,2.9773764376072194,-33.99369577894241,36.97107221654963,0.32801828142742395,10,0,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_08.sdf,1ai4_A_rec,mol_08,269.9656427725031,17.90090987804332,252.06473289445978,0.32116228120171203,11,2,0,-1,success,
+output/svflow_core/1ai4_A_rec/mol_09.sdf,1ai4_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 5 N, 4, is greater than permitted"
+output/svflow_core/1coy_A_rec/mol_00.sdf,1coy_A_rec,mol_00,201.22411487926925,55.41979594270727,145.80431893656197,0.6547397918553768,14,6,1,-1,success,
+output/svflow_core/1coy_A_rec/mol_01.sdf,1coy_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 13 C, 5, is greater than permitted"
+output/svflow_core/1coy_A_rec/mol_02.sdf,1coy_A_rec,mol_02,223.97314617904226,29.03321862535484,194.93992755368743,0.7073580977356108,18,12,0,-1,success,
+output/svflow_core/1coy_A_rec/mol_03.sdf,1coy_A_rec,mol_03,548.0384948373782,17.316543732017173,530.721951105361,1.3062997725235213,11,4,1,-1,success,
+output/svflow_core/1coy_A_rec/mol_04.sdf,1coy_A_rec,mol_04,553.8503437315359,61.5200461857503,492.3302975457856,0.45996764019479197,18,7,1,-1,success,
+output/svflow_core/1coy_A_rec/mol_05.sdf,1coy_A_rec,mol_05,121.45160897358443,-79.67567537368238,201.12728434726682,0.5459785166575895,11,4,0,-1,success,
+output/svflow_core/1coy_A_rec/mol_06.sdf,1coy_A_rec,mol_06,114.72330947976128,19.061921526611457,95.66138795314983,0.6327383294848581,9,0,1,-1,success,
+output/svflow_core/1coy_A_rec/mol_07.sdf,1coy_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 4 5 6 8
+output/svflow_core/1coy_A_rec/mol_08.sdf,1coy_A_rec,mol_08,687.9861203543044,93.80747016115023,594.1786501931541,0.4896510638907291,16,11,1,-1,success,
+output/svflow_core/1coy_A_rec/mol_09.sdf,1coy_A_rec,mol_09,550.8428755561639,57.55765663673848,493.2852189194254,0.5540546273586884,18,9,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_00.sdf,1d7j_A_rec,mol_00,160.82324445537418,15.631391267926698,145.1918531874475,0.7821622850912577,14,4,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_01.sdf,1d7j_A_rec,mol_01,65.57901158052795,28.024358318155038,37.55465326237291,0.5785598328051328,10,2,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_02.sdf,1d7j_A_rec,mol_02,131.50545898087515,-32.18320261623522,163.68866159711035,0.48350996803755236,11,0,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_03.sdf,1d7j_A_rec,mol_03,87.01615764944678,-12.403331153641762,99.41948880308854,0.3810257915636093,15,1,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_04.sdf,1d7j_A_rec,mol_04,755.3141403708318,71.54665481643312,683.7674855543986,2.1361425822697155,18,6,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_05.sdf,1d7j_A_rec,mol_05,629.0531801444411,66.93663217692895,562.1165479675121,0.4078557858326655,19,9,1,-1,success,
+output/svflow_core/1d7j_A_rec/mol_06.sdf,1d7j_A_rec,mol_06,8.207674603325778,-48.83134608348057,57.039020686806346,0.21203279179733103,11,0,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_07.sdf,1d7j_A_rec,mol_07,28.40212618811664,2.4598481979753943,25.942277990141246,0.16880600128627873,6,0,0,-1,success,
+output/svflow_core/1d7j_A_rec/mol_08.sdf,1d7j_A_rec,mol_08,621.466764001325,6.517045119265228,614.9497188820598,0.8991831897706243,28,6,1,-1,success,
+output/svflow_core/1d7j_A_rec/mol_09.sdf,1d7j_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 4 C, 5, is greater than permitted"
+output/svflow_core/1djy_A_rec/mol_00.sdf,1djy_A_rec,mol_00,564.1707379576517,-12.421967786039744,576.5927057436915,0.6369882245623664,11,4,2,-1,success,
+output/svflow_core/1djy_A_rec/mol_01.sdf,1djy_A_rec,mol_01,1799.610977098921,112.49700381000913,1687.113973288912,1.3200259902965912,31,45,3,-1,success,
+output/svflow_core/1djy_A_rec/mol_02.sdf,1djy_A_rec,mol_02,249.78156157901802,25.142558945409718,224.6390026336083,0.6320540619781443,21,7,3,-1,success,
+output/svflow_core/1djy_A_rec/mol_03.sdf,1djy_A_rec,mol_03,374.1464809377909,35.64907759014965,338.49740334764124,0.5600306106448947,20,7,1,-1,success,
+output/svflow_core/1djy_A_rec/mol_04.sdf,1djy_A_rec,mol_04,1288.8590952118332,127.32376205353063,1161.5353331583026,1.1773349653136767,24,4,2,-1,success,
+output/svflow_core/1djy_A_rec/mol_05.sdf,1djy_A_rec,mol_05,146.89295204498663,-1.1357835890016013,148.02873563398822,1.2575579980713052,18,3,1,-1,success,
+output/svflow_core/1djy_A_rec/mol_06.sdf,1djy_A_rec,mol_06,134.5530342009496,-46.379884225365096,180.9329184263147,0.6711060872555585,13,0,2,-1,success,
+output/svflow_core/1djy_A_rec/mol_07.sdf,1djy_A_rec,mol_07,388.39065740023614,98.55918275658185,289.8314746436543,0.5750471270029026,22,6,1,-1,success,
+output/svflow_core/1djy_A_rec/mol_08.sdf,1djy_A_rec,mol_08,38.10309271609505,-6.355277496263216,44.45837021235826,0.1112220429499855,10,1,0,-1,success,
+output/svflow_core/1djy_A_rec/mol_09.sdf,1djy_A_rec,mol_09,80.58244269753962,34.57491358498885,46.00752911255077,0.26506896290649623,10,7,1,-1,success,
+output/svflow_core/1dxo_C_rec/mol_00.sdf,1dxo_C_rec,mol_00,15.790325535403753,-21.43316945911054,37.2234949945143,0.4265808340032933,9,4,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_01.sdf,1dxo_C_rec,mol_01,220.5910096581993,42.09780748732241,178.49320217087688,0.6800267416702466,15,4,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_02.sdf,1dxo_C_rec,mol_02,70.13458444930059,11.348941520853439,58.78564292844715,0.35694418990054194,10,0,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_03.sdf,1dxo_C_rec,mol_03,210.84201977169272,38.64342726383667,172.19859250785606,1.3300864463201485,19,9,4,-1,success,
+output/svflow_core/1dxo_C_rec/mol_04.sdf,1dxo_C_rec,mol_04,36.29869409064064,-22.56055326775002,58.85924735839066,0.64981582666494,8,1,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_05.sdf,1dxo_C_rec,mol_05,125.72501507858811,9.603479348168822,116.1215357304193,0.8790437327060241,10,5,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_06.sdf,1dxo_C_rec,mol_06,212.77607789989867,30.201828043607442,182.57424985629123,0.3741189521806887,18,2,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_07.sdf,1dxo_C_rec,mol_07,48.65526830445541,4.203493153007779,44.451775151447634,1.2712720280687442,10,0,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_08.sdf,1dxo_C_rec,mol_08,381.7898089140725,70.37417666879652,311.415632245276,0.43355549769215357,11,2,0,-1,success,
+output/svflow_core/1dxo_C_rec/mol_09.sdf,1dxo_C_rec,mol_09,37.337676247462596,-23.512469602355637,60.85014584981823,0.7907689919369688,7,0,0,-1,success,
+output/svflow_core/1e8h_A_rec/mol_00.sdf,1e8h_A_rec,mol_00,-47.947861896619884,-328.2292754724886,280.2814135758687,0.6808340247699601,23,2,1,-1,success,
+output/svflow_core/1e8h_A_rec/mol_01.sdf,1e8h_A_rec,mol_01,399.0473179770791,18.074595062265224,380.97272291481386,1.1051818036682666,22,3,3,-1,success,
+output/svflow_core/1e8h_A_rec/mol_02.sdf,1e8h_A_rec,mol_02,1522.0958301385879,,,,23,3,0,0,error,Cannot create force field for minimization
+output/svflow_core/1e8h_A_rec/mol_03.sdf,1e8h_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 17 O, 3, is greater than permitted"
+output/svflow_core/1e8h_A_rec/mol_04.sdf,1e8h_A_rec,mol_04,567.9901268532906,-103.2158733332794,671.20600018657,1.384713947944361,25,10,3,-1,success,
+output/svflow_core/1e8h_A_rec/mol_05.sdf,1e8h_A_rec,mol_05,574.8289746666765,-43.8512021628123,618.6801768294888,0.9610697687482315,25,5,1,-1,success,
+output/svflow_core/1e8h_A_rec/mol_06.sdf,1e8h_A_rec,mol_06,-106.91007204659908,-262.90171183275737,155.9916397861583,0.37382135313023196,21,1,1,-1,success,
+output/svflow_core/1e8h_A_rec/mol_07.sdf,1e8h_A_rec,mol_07,101.24398208709832,-326.1259277476442,427.36990983474254,0.6862027365361175,22,2,3,-1,success,
+output/svflow_core/1e8h_A_rec/mol_08.sdf,1e8h_A_rec,mol_08,,,,,0,0,0,0,error,"Explicit valence for atom # 11 O, 3, is greater than permitted"
+output/svflow_core/1e8h_A_rec/mol_09.sdf,1e8h_A_rec,mol_09,126.40308731545531,-151.10245741536417,277.50554473081945,1.523115619863429,24,2,1,-1,success,
+output/svflow_core/1fmc_B_rec/mol_00.sdf,1fmc_B_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 15 C, 5, is greater than permitted"
+output/svflow_core/1fmc_B_rec/mol_01.sdf,1fmc_B_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 9 16
+output/svflow_core/1fmc_B_rec/mol_02.sdf,1fmc_B_rec,mol_02,698.7713400575425,-34.85599988925509,733.6273399467975,1.026997317930063,12,2,0,-1,success,
+output/svflow_core/1fmc_B_rec/mol_03.sdf,1fmc_B_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 11 12 15 20
+output/svflow_core/1fmc_B_rec/mol_04.sdf,1fmc_B_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 10 11 17 18
+output/svflow_core/1fmc_B_rec/mol_05.sdf,1fmc_B_rec,mol_05,1050.8388441725542,62.37484931173256,988.4639948608217,0.8741369803148401,24,17,2,-1,success,
+output/svflow_core/1fmc_B_rec/mol_06.sdf,1fmc_B_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 3 7 12 21
+output/svflow_core/1fmc_B_rec/mol_07.sdf,1fmc_B_rec,mol_07,402.77505973543634,112.26789120725482,290.5071685281815,0.8999362144484829,24,28,3,-1,success,
+output/svflow_core/1fmc_B_rec/mol_08.sdf,1fmc_B_rec,mol_08,107.11502452169711,3.4413880107041424,103.67363651099296,0.4452822333731003,12,0,0,-1,success,
+output/svflow_core/1fmc_B_rec/mol_09.sdf,1fmc_B_rec,mol_09,214.75491326445817,30.275730636137,184.47918262832115,0.4019704505641284,16,9,0,-1,success,
+output/svflow_core/1gg5_A_rec/mol_00.sdf,1gg5_A_rec,mol_00,279.99046464049206,78.45270786215744,201.53775677833463,1.4836237150997307,18,4,1,-1,success,
+output/svflow_core/1gg5_A_rec/mol_01.sdf,1gg5_A_rec,mol_01,750.8489122674846,37.464927177191925,713.3839850902926,0.6394359578094686,13,11,0,-1,success,
+output/svflow_core/1gg5_A_rec/mol_02.sdf,1gg5_A_rec,mol_02,512.4980990622549,10.09318123301659,502.40491782923834,0.4536368145397715,22,9,1,-1,success,
+output/svflow_core/1gg5_A_rec/mol_03.sdf,1gg5_A_rec,mol_03,129.64307062830412,4.931686643091355,124.71138398521276,2.2523099268294606,14,2,2,-1,success,
+output/svflow_core/1gg5_A_rec/mol_04.sdf,1gg5_A_rec,mol_04,277.83391632206457,29.626914824089347,248.20700149797523,0.6525525313970036,10,1,0,-1,success,
+output/svflow_core/1gg5_A_rec/mol_05.sdf,1gg5_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 7 11 12 14 15 16 18
+output/svflow_core/1gg5_A_rec/mol_06.sdf,1gg5_A_rec,mol_06,329.89552554353367,-87.42015078463665,417.3156763281703,1.0258828295598443,16,4,0,-1,success,
+output/svflow_core/1gg5_A_rec/mol_07.sdf,1gg5_A_rec,mol_07,1401.125503771832,25.009493392010437,1376.1160103798215,0.7213686087868225,15,8,2,-1,success,
+output/svflow_core/1gg5_A_rec/mol_08.sdf,1gg5_A_rec,mol_08,206.33960481413192,-13.860725328376159,220.20033014250808,1.664131004050301,17,4,0,-1,success,
+output/svflow_core/1gg5_A_rec/mol_09.sdf,1gg5_A_rec,mol_09,616.2070460439575,-8.129164557715317,624.3362106016727,0.7975600339031669,16,7,0,-1,success,
+output/svflow_core/1h0i_A_rec/mol_00.sdf,1h0i_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 6 11 14 18
+output/svflow_core/1h0i_A_rec/mol_01.sdf,1h0i_A_rec,mol_01,929.8615347884573,58.88202547918018,870.9795093092772,0.7134260616511713,31,14,0,-1,success,
+output/svflow_core/1h0i_A_rec/mol_02.sdf,1h0i_A_rec,mol_02,528.1782773953989,46.51140510729686,481.66687228810207,0.28755752433458365,21,2,1,-1,success,
+output/svflow_core/1h0i_A_rec/mol_03.sdf,1h0i_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 14 Cl, 2, is greater than permitted"
+output/svflow_core/1h0i_A_rec/mol_04.sdf,1h0i_A_rec,mol_04,,,,,31,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/1h0i_A_rec/mol_05.sdf,1h0i_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 5 C, 5, is greater than permitted"
+output/svflow_core/1h0i_A_rec/mol_06.sdf,1h0i_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 3 6 13 16 17 25
+output/svflow_core/1h0i_A_rec/mol_07.sdf,1h0i_A_rec,mol_07,346.40257873194315,133.7961157391125,212.60646299283064,1.7155802302759346,24,12,1,-1,success,
+output/svflow_core/1h0i_A_rec/mol_08.sdf,1h0i_A_rec,mol_08,,,,,0,0,0,0,error,"Explicit valence for atom # 28 O, 3, is greater than permitted"
+output/svflow_core/1h0i_A_rec/mol_09.sdf,1h0i_A_rec,mol_09,929.8705855885877,211.51504307878528,718.3555425098024,0.9476333102250503,34,6,5,-1,success,
+output/svflow_core/1h36_A_rec/mol_00.sdf,1h36_A_rec,mol_00,415.2709482488751,117.47380183623662,297.7971464126384,1.9969560331503375,34,11,1,-1,success,
+output/svflow_core/1h36_A_rec/mol_01.sdf,1h36_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 12 13 14 15 17 18
+output/svflow_core/1h36_A_rec/mol_02.sdf,1h36_A_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 2 6 18 21 22
+output/svflow_core/1h36_A_rec/mol_03.sdf,1h36_A_rec,mol_03,255.9298424971085,45.9269684764765,210.002874020632,2.054083088443489,28,8,1,-1,success,
+output/svflow_core/1h36_A_rec/mol_04.sdf,1h36_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 6 22 28
+output/svflow_core/1h36_A_rec/mol_05.sdf,1h36_A_rec,mol_05,345.9135304567542,-35.71354720892798,381.6270776656822,2.5837858623439534,29,8,0,-1,success,
+output/svflow_core/1h36_A_rec/mol_06.sdf,1h36_A_rec,mol_06,1963.5134775707102,71.33969294334945,1892.1737846273606,2.970752282247552,29,7,0,-1,success,
+output/svflow_core/1h36_A_rec/mol_07.sdf,1h36_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 11 N, 4, is greater than permitted"
+output/svflow_core/1h36_A_rec/mol_08.sdf,1h36_A_rec,mol_08,549.4744557440341,43.430419124353165,506.0440366196809,2.347500184189971,27,6,0,-1,success,
+output/svflow_core/1h36_A_rec/mol_09.sdf,1h36_A_rec,mol_09,741.9177154814513,100.77749568252717,641.1402197989241,1.43677264269032,28,3,0,-1,success,
+output/svflow_core/1jn2_P_rec/mol_00.sdf,1jn2_P_rec,mol_00,351.03691866023814,113.89372555251825,237.1431931077199,0.440238454466772,14,8,1,-1,success,
+output/svflow_core/1jn2_P_rec/mol_01.sdf,1jn2_P_rec,mol_01,276.6830878650643,92.89902183807095,183.78406602699334,0.9496738850295435,14,1,1,-1,success,
+output/svflow_core/1jn2_P_rec/mol_02.sdf,1jn2_P_rec,mol_02,12.180445855935371,-19.326804298546552,31.507250154481923,0.4447385980223903,7,1,0,-1,success,
+output/svflow_core/1jn2_P_rec/mol_03.sdf,1jn2_P_rec,mol_03,92.42500677711706,34.02040068708,58.40460609003706,0.6351945224344673,7,1,0,-1,success,
+output/svflow_core/1jn2_P_rec/mol_04.sdf,1jn2_P_rec,mol_04,290.3508241693567,30.826640335330367,259.52418383402636,0.5802255141942056,24,2,3,-1,success,
+output/svflow_core/1jn2_P_rec/mol_05.sdf,1jn2_P_rec,mol_05,126.69166833428962,35.61660801717207,91.07506031711755,0.6486839339501358,9,6,1,-1,success,
+output/svflow_core/1jn2_P_rec/mol_06.sdf,1jn2_P_rec,mol_06,339.05343203455635,78.58110843598323,260.4723235985731,0.980863109005169,10,4,1,-1,success,
+output/svflow_core/1jn2_P_rec/mol_07.sdf,1jn2_P_rec,mol_07,89.64361547839071,45.68926437125616,43.954351107134556,0.7195259396086264,9,1,2,-1,success,
+output/svflow_core/1jn2_P_rec/mol_08.sdf,1jn2_P_rec,mol_08,724.5357712935969,72.32625587367971,652.2095154199171,1.121746126995388,10,7,3,-1,success,
+output/svflow_core/1jn2_P_rec/mol_09.sdf,1jn2_P_rec,mol_09,101.31255555438139,72.16872661183743,29.143828942543962,0.9490102673637066,9,1,1,-1,success,
+output/svflow_core/1k9t_A_rec/mol_00.sdf,1k9t_A_rec,mol_00,376.49460457862324,46.3365138561939,330.15809072242934,0.3271812899202925,9,3,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_01.sdf,1k9t_A_rec,mol_01,5.113153437746622,-1.8176464131584016,6.930799850905023,0.10192251291624688,8,0,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_02.sdf,1k9t_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 0 Cl, 2, is greater than permitted"
+output/svflow_core/1k9t_A_rec/mol_03.sdf,1k9t_A_rec,mol_03,-7.206712164703909,-20.533941673898923,13.327229509195014,0.10458734106618425,4,0,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_04.sdf,1k9t_A_rec,mol_04,59.44309098739558,-27.100083456529184,86.54317444392476,0.4909355813179656,8,7,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_05.sdf,1k9t_A_rec,mol_05,21.816452415125276,-0.43490574613153954,22.251358161256817,0.5178685276705433,5,0,1,-1,success,
+output/svflow_core/1k9t_A_rec/mol_06.sdf,1k9t_A_rec,mol_06,16.34010096163388,1.68409866714536,14.65600229448852,0.1670100311732834,5,1,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_07.sdf,1k9t_A_rec,mol_07,31.664271706345346,-2.4972330691854987,34.161504775530844,0.274665750669877,6,4,0,-1,success,
+output/svflow_core/1k9t_A_rec/mol_08.sdf,1k9t_A_rec,mol_08,-12.346159842828271,-31.40713922542227,19.060979382594,0.10104797442087672,8,0,1,-1,success,
+output/svflow_core/1k9t_A_rec/mol_09.sdf,1k9t_A_rec,mol_09,39.77779836638241,0.9963394340817484,38.781458932300666,0.2958728419914804,4,0,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_00.sdf,1l3l_A_rec,mol_00,86.2047469392077,32.81607048996659,53.3886764492411,0.5283054008948617,13,2,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_01.sdf,1l3l_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 2 8 15 19
+output/svflow_core/1l3l_A_rec/mol_02.sdf,1l3l_A_rec,mol_02,60.083364852220456,9.8142249547507,50.269139897469756,0.41176988475949067,14,5,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_03.sdf,1l3l_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 3 5 8 11
+output/svflow_core/1l3l_A_rec/mol_04.sdf,1l3l_A_rec,mol_04,12857.558796104751,72.78433909802959,12784.774457006723,1.8064867461646112,20,8,1,-1,success,
+output/svflow_core/1l3l_A_rec/mol_05.sdf,1l3l_A_rec,mol_05,146.3808846678798,27.11757181121925,119.26331285666055,0.25577136518152466,15,1,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_06.sdf,1l3l_A_rec,mol_06,216.39915001259746,-21.772279648067634,238.1714296606651,0.938125550480985,13,8,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_07.sdf,1l3l_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 9 16
+output/svflow_core/1l3l_A_rec/mol_08.sdf,1l3l_A_rec,mol_08,313.7109921008958,30.457242502733767,283.253749598162,0.5615827043888308,14,0,0,-1,success,
+output/svflow_core/1l3l_A_rec/mol_09.sdf,1l3l_A_rec,mol_09,224.8590559984622,68.32664104069453,156.53241495776768,0.9120004928205605,16,3,0,-1,success,
+output/svflow_core/1phk_A_rec/mol_00.sdf,1phk_A_rec,mol_00,-96.21063338996595,-377.9943271538384,281.78369376387246,1.310381987504222,24,1,2,-1,success,
+output/svflow_core/1phk_A_rec/mol_01.sdf,1phk_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 1 P, 6, is greater than permitted"
+output/svflow_core/1phk_A_rec/mol_02.sdf,1phk_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 17 C, 6, is greater than permitted"
+output/svflow_core/1phk_A_rec/mol_03.sdf,1phk_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 21 22
+output/svflow_core/1phk_A_rec/mol_04.sdf,1phk_A_rec,mol_04,-98.09820619930176,-355.82819504110165,257.7299888417999,0.9748777620097283,29,10,4,-1,success,
+output/svflow_core/1phk_A_rec/mol_05.sdf,1phk_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 9 10 13 18 19 20 22 24
+output/svflow_core/1phk_A_rec/mol_06.sdf,1phk_A_rec,mol_06,,,,,0,0,0,0,error,"Explicit valence for atom # 14 N, 4, is greater than permitted"
+output/svflow_core/1phk_A_rec/mol_07.sdf,1phk_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 7 9 21 23 24
+output/svflow_core/1phk_A_rec/mol_08.sdf,1phk_A_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 5 21 22 23 25 27
+output/svflow_core/1phk_A_rec/mol_09.sdf,1phk_A_rec,mol_09,90.14448183063737,4.573998439693309,85.57048339094406,1.0986324295923204,16,4,0,-1,success,
+output/svflow_core/1r1h_A_rec/mol_00.sdf,1r1h_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 10 12 14 15 19
+output/svflow_core/1r1h_A_rec/mol_01.sdf,1r1h_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 8 9 10 11 12 14
+output/svflow_core/1r1h_A_rec/mol_02.sdf,1r1h_A_rec,mol_02,435.93373440680966,13.005436785347399,422.92829762146226,1.674527227087702,20,11,0,-1,success,
+output/svflow_core/1r1h_A_rec/mol_03.sdf,1r1h_A_rec,mol_03,499.6228021977271,78.97406025810389,420.64874193962316,2.7239553893629127,24,9,1,-1,success,
+output/svflow_core/1r1h_A_rec/mol_04.sdf,1r1h_A_rec,mol_04,732.7157276317348,-1.678561895599568,734.3942895273344,0.9256897271924821,22,10,0,-1,success,
+output/svflow_core/1r1h_A_rec/mol_05.sdf,1r1h_A_rec,mol_05,1386.5734734738317,-12.696527735370886,1399.2700012092025,0.7900462417622187,20,3,0,-1,success,
+output/svflow_core/1r1h_A_rec/mol_06.sdf,1r1h_A_rec,mol_06,686.2387903477079,129.2775404649372,556.9612498827707,0.7560822947936808,28,11,3,-1,success,
+output/svflow_core/1r1h_A_rec/mol_07.sdf,1r1h_A_rec,mol_07,368.70436729104586,43.13213270957635,325.5722345814695,0.804392935812651,25,1,1,-1,success,
+output/svflow_core/1r1h_A_rec/mol_08.sdf,1r1h_A_rec,mol_08,413.8341750014122,-19.43504627496734,433.26922127637954,1.5530850125116809,20,14,2,-1,success,
+output/svflow_core/1r1h_A_rec/mol_09.sdf,1r1h_A_rec,mol_09,674.3588338046753,75.19343568486944,599.1653981198059,0.698390806620414,24,7,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_00.sdf,1rs9_A_rec,mol_00,480.03097405719296,43.03084096590453,437.00013309128843,0.6569393222810456,20,2,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_01.sdf,1rs9_A_rec,mol_01,329.7143652830202,52.32119524222472,277.39317004079544,0.6205236888211548,21,8,1,-1,success,
+output/svflow_core/1rs9_A_rec/mol_02.sdf,1rs9_A_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 4 12 13 15
+output/svflow_core/1rs9_A_rec/mol_03.sdf,1rs9_A_rec,mol_03,145.7163076497741,3.062063741220504,142.6542439085536,0.4885186806554267,10,0,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_04.sdf,1rs9_A_rec,mol_04,152.68580462011386,-57.88662994492271,210.57243456503656,1.7266765368097714,27,4,1,-1,success,
+output/svflow_core/1rs9_A_rec/mol_05.sdf,1rs9_A_rec,mol_05,123.61784707897402,-13.625735122694692,137.24358220166872,0.30397393574076625,8,0,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_06.sdf,1rs9_A_rec,mol_06,128.58208337307335,-0.8741613832751565,129.4562447563485,0.18228327932019533,8,0,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_07.sdf,1rs9_A_rec,mol_07,122.99423046823411,-1.0939924238549388,124.08822289208905,0.3550070640633476,9,0,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_08.sdf,1rs9_A_rec,mol_08,456.4910486982636,6.671386524265447,449.81966217399815,0.962776173810495,12,5,0,-1,success,
+output/svflow_core/1rs9_A_rec/mol_09.sdf,1rs9_A_rec,mol_09,235.42629257813385,40.03486987744842,195.39142270068544,1.030305236197009,17,5,0,-1,success,
+output/svflow_core/1umd_B_rec/mol_00.sdf,1umd_B_rec,mol_00,328.63190857817983,-335.7616285428722,664.3935371210521,1.3767796673283514,24,4,0,-1,success,
+output/svflow_core/1umd_B_rec/mol_01.sdf,1umd_B_rec,mol_01,102.96931475294076,-259.3332834596276,362.30259821256834,0.4173891668895944,21,3,1,-1,success,
+output/svflow_core/1umd_B_rec/mol_02.sdf,1umd_B_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 9 12 13 14 18
+output/svflow_core/1umd_B_rec/mol_03.sdf,1umd_B_rec,mol_03,330.00848830356875,-231.1829484062921,561.1914367098609,1.5878835717197126,22,11,2,-1,success,
+output/svflow_core/1umd_B_rec/mol_04.sdf,1umd_B_rec,mol_04,,,,,0,0,0,0,error,"Explicit valence for atom # 16 P, 6, is greater than permitted"
+output/svflow_core/1umd_B_rec/mol_05.sdf,1umd_B_rec,mol_05,745.8812032671722,-393.30244727938407,1139.1836505465562,0.9711733952050763,26,14,1,-1,success,
+output/svflow_core/1umd_B_rec/mol_06.sdf,1umd_B_rec,mol_06,78.511073398198,-145.06971256786142,223.5807859660594,1.9643650387644496,22,1,1,-1,success,
+output/svflow_core/1umd_B_rec/mol_07.sdf,1umd_B_rec,mol_07,-136.47665523501982,-324.9105732874428,188.43391805242297,1.129710232179477,26,5,1,-1,success,
+output/svflow_core/1umd_B_rec/mol_08.sdf,1umd_B_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 13 15 16 19 21
+output/svflow_core/1umd_B_rec/mol_09.sdf,1umd_B_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 2 O, 3, is greater than permitted"
+output/svflow_core/2azy_A_rec/mol_00.sdf,2azy_A_rec,mol_00,35.42777521314984,-0.2045154222067751,35.63229063535662,0.22436287806334085,11,1,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_01.sdf,2azy_A_rec,mol_01,695.0044715969807,104.5476061633974,590.4568654335833,0.3131691148204171,19,3,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_02.sdf,2azy_A_rec,mol_02,238.28587463510053,86.74479581892035,151.54107881618017,0.4700710620157193,13,1,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_03.sdf,2azy_A_rec,mol_03,44.05931543255822,-10.695134362338363,54.75444979489659,0.2940168532693062,14,0,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_04.sdf,2azy_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 5 6 7 12
+output/svflow_core/2azy_A_rec/mol_05.sdf,2azy_A_rec,mol_05,119.3552174544387,30.959199173130326,88.39601828130837,0.605561584859013,12,0,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_06.sdf,2azy_A_rec,mol_06,409.76604899601534,57.0916342488988,352.67441474711654,0.8998369471409017,11,9,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_07.sdf,2azy_A_rec,mol_07,50.6615186609668,37.84726667206618,12.814251988900615,0.2220978804019413,16,0,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_08.sdf,2azy_A_rec,mol_08,480.0239692895276,57.625778223758516,422.3981910657691,1.4395833218858534,20,7,0,-1,success,
+output/svflow_core/2azy_A_rec/mol_09.sdf,2azy_A_rec,mol_09,305.8901800402499,-92.30806005620785,398.19824009645777,1.2729359892141578,12,2,0,-1,success,
+output/svflow_core/2cy0_A_rec/mol_00.sdf,2cy0_A_rec,mol_00,141.64064707505332,-2.970126788409466,144.61077386346278,0.5337652611370877,12,1,0,-1,success,
+output/svflow_core/2cy0_A_rec/mol_01.sdf,2cy0_A_rec,mol_01,344.7356872259433,64.42955384321492,280.3061333827284,0.8984246300304828,11,6,1,-1,success,
+output/svflow_core/2cy0_A_rec/mol_02.sdf,2cy0_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 8 C, 5, is greater than permitted"
+output/svflow_core/2cy0_A_rec/mol_03.sdf,2cy0_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 8 C, 5, is greater than permitted"
+output/svflow_core/2cy0_A_rec/mol_04.sdf,2cy0_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 6 8 9 15
+output/svflow_core/2cy0_A_rec/mol_05.sdf,2cy0_A_rec,mol_05,29.25047191503932,-5.679247088813675,34.929719003852995,0.08792078515851584,11,0,1,-1,success,
+output/svflow_core/2cy0_A_rec/mol_06.sdf,2cy0_A_rec,mol_06,35.80127173192052,-66.7620993219148,102.56337105383533,0.16733087814098194,9,0,0,-1,success,
+output/svflow_core/2cy0_A_rec/mol_07.sdf,2cy0_A_rec,mol_07,126.74446461252708,34.665486907112474,92.07897770541462,1.1417887835737885,10,3,2,-1,success,
+output/svflow_core/2cy0_A_rec/mol_08.sdf,2cy0_A_rec,mol_08,579.4490484493281,79.69719868643125,499.7518497628968,0.9005789333130548,17,8,0,-1,success,
+output/svflow_core/2cy0_A_rec/mol_09.sdf,2cy0_A_rec,mol_09,21.042301808522453,-73.84751627971286,94.88981808823532,0.44442268887923214,11,0,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_00.sdf,2e24_A_rec,mol_00,88.7511681278472,-32.664884473608986,121.41605260145619,0.7392798406137857,9,3,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_01.sdf,2e24_A_rec,mol_01,1995.682226291468,-159.66692543844962,2155.3491517299176,1.0191338236960417,32,32,5,-1,success,
+output/svflow_core/2e24_A_rec/mol_02.sdf,2e24_A_rec,mol_02,-4.255829368548028,-75.4880568738533,71.23222750530527,0.5155738617870873,8,0,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_03.sdf,2e24_A_rec,mol_03,189.4304233063941,36.206190113888326,153.22423319250578,0.9912623478224687,11,0,1,-1,success,
+output/svflow_core/2e24_A_rec/mol_04.sdf,2e24_A_rec,mol_04,-116.04820374234086,-222.2248983244995,106.17669458215863,1.3144674603658777,13,4,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_05.sdf,2e24_A_rec,mol_05,81.76665739387026,-29.54818617120903,111.31484356507929,1.2961676295518083,9,4,4,-1,success,
+output/svflow_core/2e24_A_rec/mol_06.sdf,2e24_A_rec,mol_06,-149.38110517774385,-319.2407316300524,169.85962645230853,1.045645982022837,8,1,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_07.sdf,2e24_A_rec,mol_07,129.87654478666033,0.6978329923243507,129.17871179433598,0.8389492005757473,11,4,0,-1,success,
+output/svflow_core/2e24_A_rec/mol_08.sdf,2e24_A_rec,mol_08,186.5881645382211,72.75134226273387,113.83682227548722,0.68941587428006,13,1,3,-1,success,
+output/svflow_core/2e24_A_rec/mol_09.sdf,2e24_A_rec,mol_09,67.54371284566378,-41.43804693339866,108.98175977906243,1.7091460768936426,9,2,2,-1,success,
+output/svflow_core/2e6d_A_rec/mol_00.sdf,2e6d_A_rec,mol_00,30.43837645393837,-15.577340257460552,46.01571671139892,0.40529470922066585,6,0,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_01.sdf,2e6d_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 0 C, 5, is greater than permitted"
+output/svflow_core/2e6d_A_rec/mol_02.sdf,2e6d_A_rec,mol_02,23.939524652296974,-59.454501457719324,83.3940261100163,0.7894167281461929,7,0,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_03.sdf,2e6d_A_rec,mol_03,422.05321293992733,9.955195429764883,412.09801751016244,0.5206106408510259,6,0,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_04.sdf,2e6d_A_rec,mol_04,-24.50137463633162,-51.72707001734367,27.225695381012052,0.7595333352941288,7,0,3,-1,success,
+output/svflow_core/2e6d_A_rec/mol_05.sdf,2e6d_A_rec,mol_05,159.38069479707335,1.666253447991079,157.71444134908228,0.26282718192929533,5,1,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_06.sdf,2e6d_A_rec,mol_06,53.83913673852929,-38.37251951509326,92.21165625362255,0.3764687444493483,6,1,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_07.sdf,2e6d_A_rec,mol_07,219.49273723611117,12.100058333546931,207.39267890256423,0.5959504160773245,13,9,4,-1,success,
+output/svflow_core/2e6d_A_rec/mol_08.sdf,2e6d_A_rec,mol_08,25.70770240459323,-3.8451727491508705,29.5528751537441,0.18919248185245355,6,0,0,-1,success,
+output/svflow_core/2e6d_A_rec/mol_09.sdf,2e6d_A_rec,mol_09,67.57717240757917,22.012681176390565,45.564491231188605,0.7817907523271895,6,0,1,-1,success,
+output/svflow_core/2f2c_B_rec/mol_00.sdf,2f2c_B_rec,mol_00,142.10617734576937,75.2494299217849,66.85674742398447,0.8623068305925478,18,3,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_01.sdf,2f2c_B_rec,mol_01,97.86754503154626,-71.54900840669298,169.41655343823925,0.44795572013728147,17,11,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_02.sdf,2f2c_B_rec,mol_02,28.91139554832056,-2.662080739263457,31.573476287584015,0.3100731943387452,9,2,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_03.sdf,2f2c_B_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 8 15 16 18 20
+output/svflow_core/2f2c_B_rec/mol_04.sdf,2f2c_B_rec,mol_04,380.37533904904683,148.11196477940456,232.26337426964227,0.9290138363360271,25,4,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_05.sdf,2f2c_B_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 18 C, 5, is greater than permitted"
+output/svflow_core/2f2c_B_rec/mol_06.sdf,2f2c_B_rec,mol_06,59.20309944899999,35.471096753838886,23.732002695161107,0.3385323226437719,17,1,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_07.sdf,2f2c_B_rec,mol_07,97.01717323981147,27.808816672150158,69.20835656766131,1.1003834846708138,17,7,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_08.sdf,2f2c_B_rec,mol_08,28.375692658963636,0.8279699832292602,27.547722675734377,0.33771805781052244,8,0,0,-1,success,
+output/svflow_core/2f2c_B_rec/mol_09.sdf,2f2c_B_rec,mol_09,181.72713282539792,10.27339193478884,171.45374089060908,0.6647614754696766,18,1,1,-1,success,
+output/svflow_core/2gns_A_rec/mol_00.sdf,2gns_A_rec,mol_00,145.13443936723263,22.453077290690565,122.68136207654206,0.8527782123086757,14,0,1,-1,success,
+output/svflow_core/2gns_A_rec/mol_01.sdf,2gns_A_rec,mol_01,195.95127529370072,13.20010131424948,182.75117397945124,0.9474724293018425,12,1,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_02.sdf,2gns_A_rec,mol_02,2.003009751158599,-3.901747520558658,5.904757271717257,0.013611858883147422,8,0,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_03.sdf,2gns_A_rec,mol_03,,,,,15,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/2gns_A_rec/mol_04.sdf,2gns_A_rec,mol_04,113.67460417340207,-26.220124558460213,139.8947287318623,0.8699244851322334,12,1,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_05.sdf,2gns_A_rec,mol_05,200.02400436777418,9.372754149060416,190.65125021871376,0.2067627351608629,8,1,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_06.sdf,2gns_A_rec,mol_06,177.71974810609186,45.47898277282907,132.2407653332628,0.297058015436353,15,2,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_07.sdf,2gns_A_rec,mol_07,67.25268457302678,-21.980180086951844,89.23286465997863,0.602479817577508,8,3,0,-1,success,
+output/svflow_core/2gns_A_rec/mol_08.sdf,2gns_A_rec,mol_08,1576.5243524512903,-6.711229360073762,1583.235581811364,0.4887027004129254,8,5,1,-1,success,
+output/svflow_core/2gns_A_rec/mol_09.sdf,2gns_A_rec,mol_09,24.27608371528862,9.372754149049335,14.903329566239286,0.2105407589925319,8,0,0,-1,success,
+output/svflow_core/2hcj_B_rec/mol_00.sdf,2hcj_B_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 8 11 14 15 16 18 19 25
+output/svflow_core/2hcj_B_rec/mol_01.sdf,2hcj_B_rec,mol_01,243.7004578381178,-179.1109694221372,422.811427260255,0.3665021981913376,14,2,0,-1,success,
+output/svflow_core/2hcj_B_rec/mol_02.sdf,2hcj_B_rec,mol_02,493.6336404468745,-170.62463190640153,664.258272353276,0.6476426554282769,22,3,2,-1,success,
+output/svflow_core/2hcj_B_rec/mol_03.sdf,2hcj_B_rec,mol_03,57.758622013562466,-24.492323179426425,82.2509451929889,0.29263693542964897,11,0,0,-1,success,
+output/svflow_core/2hcj_B_rec/mol_04.sdf,2hcj_B_rec,mol_04,52.431416697032546,-124.72849042417911,177.15990712121166,0.33777177376572143,11,1,0,-1,success,
+output/svflow_core/2hcj_B_rec/mol_05.sdf,2hcj_B_rec,mol_05,3.420014317386304,-111.66084272551075,115.08085704289705,0.3276488096698314,11,1,3,-1,success,
+output/svflow_core/2hcj_B_rec/mol_06.sdf,2hcj_B_rec,mol_06,678.4467559000977,-29.40493885839286,707.8516947584906,2.278634436513589,27,3,1,-1,success,
+output/svflow_core/2hcj_B_rec/mol_07.sdf,2hcj_B_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 4 P, 6, is greater than permitted"
+output/svflow_core/2hcj_B_rec/mol_08.sdf,2hcj_B_rec,mol_08,-17.6443954142377,-25.740161998648794,8.095766584411095,0.16053212041624598,6,0,0,-1,success,
+output/svflow_core/2hcj_B_rec/mol_09.sdf,2hcj_B_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 6 8 10 11 14
+output/svflow_core/2jjg_A_rec/mol_00.sdf,2jjg_A_rec,mol_00,58.59836990375335,12.984644993163208,45.61372491059014,0.5132942973998211,11,0,1,-1,success,
+output/svflow_core/2jjg_A_rec/mol_01.sdf,2jjg_A_rec,mol_01,25.426493603055373,-12.164412906691727,37.5909065097471,0.16604231362829902,9,2,1,-1,success,
+output/svflow_core/2jjg_A_rec/mol_02.sdf,2jjg_A_rec,mol_02,665.2211115487505,67.6780481063241,597.5430634424264,0.5818012479784165,11,0,0,-1,success,
+output/svflow_core/2jjg_A_rec/mol_03.sdf,2jjg_A_rec,mol_03,423.7270967796348,44.305632363224774,379.42146441641,0.28236410679051627,20,8,1,-1,success,
+output/svflow_core/2jjg_A_rec/mol_04.sdf,2jjg_A_rec,mol_04,-1.3389164650571672,-58.43722008952516,57.098303624467995,0.5398602562388415,11,3,0,-1,success,
+output/svflow_core/2jjg_A_rec/mol_05.sdf,2jjg_A_rec,mol_05,171.4134116984851,23.70900583074698,147.70440586773813,0.3629242000534387,12,2,0,-1,success,
+output/svflow_core/2jjg_A_rec/mol_06.sdf,2jjg_A_rec,mol_06,190.26871018389912,19.06319956395033,171.2055106199488,0.6745841156880212,10,3,0,-1,success,
+output/svflow_core/2jjg_A_rec/mol_07.sdf,2jjg_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 2 4 9
+output/svflow_core/2jjg_A_rec/mol_08.sdf,2jjg_A_rec,mol_08,69.68760835990912,-39.57297235552238,109.2605807154315,1.234284740134895,11,1,0,-1,success,
+output/svflow_core/2jjg_A_rec/mol_09.sdf,2jjg_A_rec,mol_09,18.982421178948663,-1.2071758483496353,20.189597027298298,0.258087738368401,11,3,1,-1,success,
+output/svflow_core/2pc8_A_rec/mol_00.sdf,2pc8_A_rec,mol_00,178.65094239536995,-72.64564590184628,251.29658829721623,0.9412660666821129,10,4,1,-1,success,
+output/svflow_core/2pc8_A_rec/mol_01.sdf,2pc8_A_rec,mol_01,993.4000630437615,131.75373395257938,861.6463290911821,0.45423861819291944,17,10,0,-1,success,
+output/svflow_core/2pc8_A_rec/mol_02.sdf,2pc8_A_rec,mol_02,22903.917472497018,14.390740669766092,22889.526731827253,1.6306097579050791,10,11,1,-1,success,
+output/svflow_core/2pc8_A_rec/mol_03.sdf,2pc8_A_rec,mol_03,519.6540808338199,-23.167112712897044,542.8211935467169,0.8097646505367301,15,15,0,-1,success,
+output/svflow_core/2pc8_A_rec/mol_04.sdf,2pc8_A_rec,mol_04,70.87044665546026,30.60395802328036,40.2664886321799,0.2543165668556062,8,4,0,-1,success,
+output/svflow_core/2pc8_A_rec/mol_05.sdf,2pc8_A_rec,mol_05,1727.0149033968096,103.6962026447539,1623.3187007520557,1.7809441159222086,20,41,0,-1,success,
+output/svflow_core/2pc8_A_rec/mol_06.sdf,2pc8_A_rec,mol_06,40.29128974612934,14.735920197628499,25.55536954850084,0.28847112939303177,10,1,1,-1,success,
+output/svflow_core/2pc8_A_rec/mol_07.sdf,2pc8_A_rec,mol_07,785.9953743390442,-1.1968093767279662,787.1921837157722,0.938270034676174,14,11,1,-1,success,
+output/svflow_core/2pc8_A_rec/mol_08.sdf,2pc8_A_rec,mol_08,479.2181736806794,26.996474866229594,452.2216988144498,0.2100279945794434,12,5,0,-1,success,
+output/svflow_core/2pc8_A_rec/mol_09.sdf,2pc8_A_rec,mol_09,349.495368493466,-49.461715475770404,398.9570839692364,0.596222370647943,10,7,1,-1,success,
+output/svflow_core/2pqw_A_rec/mol_00.sdf,2pqw_A_rec,mol_00,128.08500137560384,13.755936269902145,114.32906510570169,0.4314212966060849,9,2,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_01.sdf,2pqw_A_rec,mol_01,53.917903600024104,3.5796392249287097,50.33826437509539,0.49168217988403173,9,2,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_02.sdf,2pqw_A_rec,mol_02,25.633269879590223,-23.448463617034687,49.081733496624906,0.46704387604210307,10,3,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_03.sdf,2pqw_A_rec,mol_03,45.565002002126946,-6.401509814777512,51.96651181690446,0.6934114227188677,9,0,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_04.sdf,2pqw_A_rec,mol_04,186.81886637684335,28.792896541066447,158.0259698357769,0.6630239855166351,9,3,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_05.sdf,2pqw_A_rec,mol_05,128.2353662607011,25.25957087442527,102.97579538627585,0.5459895277531334,10,5,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_06.sdf,2pqw_A_rec,mol_06,35.24609094743958,-4.110165583132358,39.35625653057194,0.48143627250064663,6,0,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_07.sdf,2pqw_A_rec,mol_07,20.98201160844726,-2.6226550499716623,23.60466665841892,0.415434981797671,8,0,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_08.sdf,2pqw_A_rec,mol_08,90.3016808684342,2.0103611618577792,88.29131970657643,0.40783903209327205,5,0,0,-1,success,
+output/svflow_core/2pqw_A_rec/mol_09.sdf,2pqw_A_rec,mol_09,112.24978684373292,-107.87987250812758,220.12965935186048,0.3726858697876213,9,7,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_00.sdf,2rhy_A_rec,mol_00,535.8182087115288,8.068766631557937,527.7494420799708,0.8558875931050577,5,0,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_01.sdf,2rhy_A_rec,mol_01,70.71910696446125,25.223791650635455,45.49531531382579,0.5547412345473953,5,1,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_02.sdf,2rhy_A_rec,mol_02,17.200407229414665,-1.0705291428735126,18.270936372288176,0.2410715596779716,5,0,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_03.sdf,2rhy_A_rec,mol_03,119.12146456698648,-4.441838199264666,123.56330276625114,0.41805234510062156,5,6,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_04.sdf,2rhy_A_rec,mol_04,281.85685415034374,-6.531600572402077,288.3884547227458,0.7318615482821169,4,0,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_05.sdf,2rhy_A_rec,mol_05,-6.98911670209327,-121.01403009719486,114.02491339510159,0.5001969671753039,8,1,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_06.sdf,2rhy_A_rec,mol_06,211.5559081106191,3.878330831916592,207.6775772787025,0.29985209968485477,4,0,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_07.sdf,2rhy_A_rec,mol_07,4121.2777444711655,-50.744591515363204,4172.022335986529,1.265822988164353,13,6,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_08.sdf,2rhy_A_rec,mol_08,-10.606901249622247,-37.42116428951119,26.814263039888942,0.5654783428332665,5,0,0,-1,success,
+output/svflow_core/2rhy_A_rec/mol_09.sdf,2rhy_A_rec,mol_09,48.0991326177556,21.411447584455534,26.687685033300067,0.17638912834914117,4,0,0,-1,success,
+output/svflow_core/2rma_A_rec/mol_00.sdf,2rma_A_rec,mol_00,441.98745991597895,-121.60443049683869,563.5918904128176,2.8741655875767917,23,10,2,-1,success,
+output/svflow_core/2rma_A_rec/mol_01.sdf,2rma_A_rec,mol_01,435.16082250140994,124.56073605923544,310.60008644217453,0.7015834142917058,22,4,3,-1,success,
+output/svflow_core/2rma_A_rec/mol_02.sdf,2rma_A_rec,mol_02,153.68624110744736,-14.426137250116275,168.11237835756364,0.8935998656294579,23,7,2,-1,success,
+output/svflow_core/2rma_A_rec/mol_03.sdf,2rma_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 10 C, 5, is greater than permitted"
+output/svflow_core/2rma_A_rec/mol_04.sdf,2rma_A_rec,mol_04,73.02957072141865,34.21058285588819,38.81898786553046,0.5272404035690976,10,0,1,-1,success,
+output/svflow_core/2rma_A_rec/mol_05.sdf,2rma_A_rec,mol_05,159.49963848478473,25.02789040335099,134.47174808143373,0.37228725422811926,12,1,1,-1,success,
+output/svflow_core/2rma_A_rec/mol_06.sdf,2rma_A_rec,mol_06,287.2162604119836,-0.1588691938571518,287.37512960584075,1.9283592154349098,11,0,0,-1,success,
+output/svflow_core/2rma_A_rec/mol_07.sdf,2rma_A_rec,mol_07,224.7762347583052,-29.03056866115635,253.80680341946157,1.1850885337927102,12,2,0,-1,success,
+output/svflow_core/2rma_A_rec/mol_08.sdf,2rma_A_rec,mol_08,417.6720630787455,11.909818029829168,405.7622450489163,1.2122080035292404,12,2,0,-1,success,
+output/svflow_core/2rma_A_rec/mol_09.sdf,2rma_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 7 10 13 20
+output/svflow_core/2v3r_A_rec/mol_00.sdf,2v3r_A_rec,mol_00,210.7104155881306,19.55532106227348,191.1550945258571,1.7507878360742515,18,3,0,-1,success,
+output/svflow_core/2v3r_A_rec/mol_01.sdf,2v3r_A_rec,mol_01,344.0876020781071,31.35301972070457,312.73458235740253,1.9551141829081071,19,15,2,-1,success,
+output/svflow_core/2v3r_A_rec/mol_02.sdf,2v3r_A_rec,mol_02,333.20989473620756,14.327782988050805,318.8821117481568,0.47374786577262756,16,4,1,-1,success,
+output/svflow_core/2v3r_A_rec/mol_03.sdf,2v3r_A_rec,mol_03,644.4163959204745,58.83444169631332,585.5819542241612,2.020039292610584,18,7,3,-1,success,
+output/svflow_core/2v3r_A_rec/mol_04.sdf,2v3r_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 4 16 22 23
+output/svflow_core/2v3r_A_rec/mol_05.sdf,2v3r_A_rec,mol_05,271.95488232827245,-76.88273575743642,348.83761808570887,1.2049175518256459,15,10,1,-1,success,
+output/svflow_core/2v3r_A_rec/mol_06.sdf,2v3r_A_rec,mol_06,94.0351824014679,-27.168809735856996,121.2039921373249,0.7386605792905607,16,1,0,-1,success,
+output/svflow_core/2v3r_A_rec/mol_07.sdf,2v3r_A_rec,mol_07,459.60768765989235,95.31387481809445,364.2938128417979,0.5796887393732382,14,5,4,-1,success,
+output/svflow_core/2v3r_A_rec/mol_08.sdf,2v3r_A_rec,mol_08,322.8890551262359,65.67783675752202,257.2112183687139,1.5070817537134413,15,1,2,-1,success,
+output/svflow_core/2v3r_A_rec/mol_09.sdf,2v3r_A_rec,mol_09,597.9920301666193,-91.89835965580586,689.8903898224252,0.8356558131570647,15,11,0,-1,success,
+output/svflow_core/2z3h_A_rec/mol_00.sdf,2z3h_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 8 11 12
+output/svflow_core/2z3h_A_rec/mol_01.sdf,2z3h_A_rec,mol_01,1005.1091007684099,40.16808683046481,964.9410139379451,1.3168695113382636,18,10,1,-1,success,
+output/svflow_core/2z3h_A_rec/mol_02.sdf,2z3h_A_rec,mol_02,290.6797725577311,86.07927528571989,204.6004972720112,0.47168091527971456,15,0,0,-1,success,
+output/svflow_core/2z3h_A_rec/mol_03.sdf,2z3h_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 4 6 10 11
+output/svflow_core/2z3h_A_rec/mol_04.sdf,2z3h_A_rec,mol_04,538.1819075237565,51.189101146401704,486.99280637735484,1.4018999474080964,17,7,1,-1,success,
+output/svflow_core/2z3h_A_rec/mol_05.sdf,2z3h_A_rec,mol_05,56.29265693488463,-14.771558281501457,71.06421521638609,0.4580049353957192,17,5,1,-1,success,
+output/svflow_core/2z3h_A_rec/mol_06.sdf,2z3h_A_rec,mol_06,204.89865230620157,7.198868532777775,197.6997837734238,0.6004385872883583,10,0,0,-1,success,
+output/svflow_core/2z3h_A_rec/mol_07.sdf,2z3h_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 6 12
+output/svflow_core/2z3h_A_rec/mol_08.sdf,2z3h_A_rec,mol_08,57.592990180363266,-59.841676582164645,117.43466676252791,0.5206944660117466,10,0,0,-1,success,
+output/svflow_core/2z3h_A_rec/mol_09.sdf,2z3h_A_rec,mol_09,167.17549232953488,-4.928918918725928,172.10441124826082,0.5541166820241746,13,1,0,-1,success,
+output/svflow_core/2zen_A_rec/mol_00.sdf,2zen_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 4 O, 3, is greater than permitted"
+output/svflow_core/2zen_A_rec/mol_01.sdf,2zen_A_rec,mol_01,-7.632633340760119,-23.538852249504174,15.906218908744055,0.396540728809937,6,0,0,-1,success,
+output/svflow_core/2zen_A_rec/mol_02.sdf,2zen_A_rec,mol_02,205.05183762364635,47.8262550383943,157.22558258525206,1.008763203112439,8,4,2,-1,success,
+output/svflow_core/2zen_A_rec/mol_03.sdf,2zen_A_rec,mol_03,176.036905885135,22.4679190549509,153.56898683018412,0.931820725241128,10,7,1,-1,success,
+output/svflow_core/2zen_A_rec/mol_04.sdf,2zen_A_rec,mol_04,302.9139649224244,28.905185275473244,274.00877964695115,0.7802002244641322,9,1,1,-1,success,
+output/svflow_core/2zen_A_rec/mol_05.sdf,2zen_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 4 C, 5, is greater than permitted"
+output/svflow_core/2zen_A_rec/mol_06.sdf,2zen_A_rec,mol_06,77.6374931888519,16.00919022732132,61.628302961530586,1.3524583012988278,8,3,2,-1,success,
+output/svflow_core/2zen_A_rec/mol_07.sdf,2zen_A_rec,mol_07,59.058599328216474,17.323734030200924,41.73486529801555,0.8180252694946065,8,4,2,-1,success,
+output/svflow_core/2zen_A_rec/mol_08.sdf,2zen_A_rec,mol_08,362.98180302282753,8.653437084141004,354.32836593868655,0.7600870706437295,9,5,1,-1,success,
+output/svflow_core/2zen_A_rec/mol_09.sdf,2zen_A_rec,mol_09,89.90839271756701,48.17533229982935,41.73306041773766,0.7300673313350367,8,3,0,-1,success,
+output/svflow_core/3af2_A_rec/mol_00.sdf,3af2_A_rec,mol_00,-35.74174384723344,-134.91853248919443,99.176788641961,0.5019475209583991,11,1,0,-1,success,
+output/svflow_core/3af2_A_rec/mol_01.sdf,3af2_A_rec,mol_01,239.8817106765938,-242.23252704026675,482.11423771686054,1.4067719013131816,24,10,2,-1,success,
+output/svflow_core/3af2_A_rec/mol_02.sdf,3af2_A_rec,mol_02,294.5144222250483,-266.3287549982179,560.8431772232661,0.6283821850642222,25,7,3,-1,success,
+output/svflow_core/3af2_A_rec/mol_03.sdf,3af2_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 26 P, 6, is greater than permitted"
+output/svflow_core/3af2_A_rec/mol_04.sdf,3af2_A_rec,mol_04,-267.6002088960181,-378.8884525074973,111.28824361147917,0.6879387514245385,22,2,0,-1,success,
+output/svflow_core/3af2_A_rec/mol_05.sdf,3af2_A_rec,mol_05,3858.878372971846,-149.34061647748334,4008.2189894493295,1.0745530523313054,22,2,2,-1,success,
+output/svflow_core/3af2_A_rec/mol_06.sdf,3af2_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 4 15 19 20
+output/svflow_core/3af2_A_rec/mol_07.sdf,3af2_A_rec,mol_07,-181.22391266906342,-400.36919137790943,219.145278708846,1.3064579669749965,25,11,5,-1,success,
+output/svflow_core/3af2_A_rec/mol_08.sdf,3af2_A_rec,mol_08,693377.7775543365,,,,19,3,0,0,error,Cannot create force field for minimization
+output/svflow_core/3af2_A_rec/mol_09.sdf,3af2_A_rec,mol_09,-297.80608871002863,-385.34951871294567,87.54343000291703,0.8059323583855892,22,2,2,-1,success,
+output/svflow_core/3b6h_A_rec/mol_00.sdf,3b6h_A_rec,mol_00,44.91816521908105,-2.393637150721071,47.311802369802116,0.14579821634928752,8,0,1,-1,success,
+output/svflow_core/3b6h_A_rec/mol_01.sdf,3b6h_A_rec,mol_01,75.94368118521575,21.95107880421609,53.992602380999664,0.4749046905223643,11,3,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_02.sdf,3b6h_A_rec,mol_02,154.72941871428498,2.7484923080268624,151.9809264062581,0.48509714820305644,9,1,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_03.sdf,3b6h_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 22 C, 5, is greater than permitted"
+output/svflow_core/3b6h_A_rec/mol_04.sdf,3b6h_A_rec,mol_04,66.13134179433854,10.34743756404347,55.783904230295065,0.7215932443828963,14,4,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_05.sdf,3b6h_A_rec,mol_05,227.65906631928374,27.802255212567808,199.85681110671592,0.6385531184536405,12,5,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_06.sdf,3b6h_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 6 7 10 11 13 15
+output/svflow_core/3b6h_A_rec/mol_07.sdf,3b6h_A_rec,mol_07,918.2580164188814,82.36936975686068,835.8886466620207,0.5621071768861938,17,11,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_08.sdf,3b6h_A_rec,mol_08,1125.9404138573404,65.16635730232336,1060.774056555017,0.7487427020971611,19,19,0,-1,success,
+output/svflow_core/3b6h_A_rec/mol_09.sdf,3b6h_A_rec,mol_09,478.61146764494356,12.102864364927935,466.5086032800156,0.29305001834623495,11,3,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_00.sdf,3chc_B_rec,mol_00,1267.1823647006213,38.20985592131452,1228.9725087793067,0.6879870561914485,12,12,1,-1,success,
+output/svflow_core/3chc_B_rec/mol_01.sdf,3chc_B_rec,mol_01,83.53275627077262,2.0182895788069297,81.5144666919657,0.24843811073154695,8,4,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_02.sdf,3chc_B_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 1 O, 3, is greater than permitted"
+output/svflow_core/3chc_B_rec/mol_03.sdf,3chc_B_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 5 O, 3, is greater than permitted"
+output/svflow_core/3chc_B_rec/mol_04.sdf,3chc_B_rec,mol_04,5.324533252286898,-45.298433902898154,50.62296715518505,1.1363969059312657,10,0,1,-1,success,
+output/svflow_core/3chc_B_rec/mol_05.sdf,3chc_B_rec,mol_05,514.716300408317,-1.6834841592364285,516.3997845675534,0.5360541270746739,17,2,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_06.sdf,3chc_B_rec,mol_06,152.9705096853708,8.726877303950591,144.2436323814202,0.6644986504265509,11,6,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_07.sdf,3chc_B_rec,mol_07,131.9086472816847,31.15548646071483,100.75316082096987,0.3774716293763729,9,1,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_08.sdf,3chc_B_rec,mol_08,238.42692872804452,27.34889092014083,211.07803780790368,0.44823144725252306,12,2,0,-1,success,
+output/svflow_core/3chc_B_rec/mol_09.sdf,3chc_B_rec,mol_09,65.53647813253626,36.64593551230365,28.89054262023261,0.3221669162492999,7,2,0,-1,success,
+output/svflow_core/3daf_A_rec/mol_00.sdf,3daf_A_rec,mol_00,557.7546426638178,71.59212268592185,486.16251997789595,1.2358668203438905,31,7,1,-1,success,
+output/svflow_core/3daf_A_rec/mol_01.sdf,3daf_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 27 O, 3, is greater than permitted"
+output/svflow_core/3daf_A_rec/mol_02.sdf,3daf_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 19 C, 5, is greater than permitted"
+output/svflow_core/3daf_A_rec/mol_03.sdf,3daf_A_rec,mol_03,1197.5275630884348,92.13366255779836,1105.3939005306365,0.9210625333808192,32,10,2,-1,success,
+output/svflow_core/3daf_A_rec/mol_04.sdf,3daf_A_rec,mol_04,637.8970189422482,37.6811662033934,600.2158527388548,1.113952628111131,28,3,0,-1,success,
+output/svflow_core/3daf_A_rec/mol_05.sdf,3daf_A_rec,mol_05,235.85350926914697,-203.6315234660335,439.4850327351805,0.4932595698412496,23,12,0,-1,success,
+output/svflow_core/3daf_A_rec/mol_06.sdf,3daf_A_rec,mol_06,377.9962555160801,46.26200719147398,331.73424832460614,0.6782764888526123,27,8,2,-1,success,
+output/svflow_core/3daf_A_rec/mol_07.sdf,3daf_A_rec,mol_07,588.8152845551085,39.560873560239514,549.254410994869,0.8586638812293259,21,11,0,-1,success,
+output/svflow_core/3daf_A_rec/mol_08.sdf,3daf_A_rec,mol_08,1074.8874938225335,25.667979949368302,1049.2195138731652,2.7510781381308087,32,17,6,-1,success,
+output/svflow_core/3daf_A_rec/mol_09.sdf,3daf_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 16 23 25 31
+output/svflow_core/3dzh_A_rec/mol_00.sdf,3dzh_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 12 F, 2, is greater than permitted"
+output/svflow_core/3dzh_A_rec/mol_01.sdf,3dzh_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 13 17
+output/svflow_core/3dzh_A_rec/mol_02.sdf,3dzh_A_rec,mol_02,-46.570044463863525,-263.4320821496832,216.86203768581967,1.4940461042326425,22,0,0,-1,success,
+output/svflow_core/3dzh_A_rec/mol_03.sdf,3dzh_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 4 N, 4, is greater than permitted"
+output/svflow_core/3dzh_A_rec/mol_04.sdf,3dzh_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 11 17 19 23
+output/svflow_core/3dzh_A_rec/mol_05.sdf,3dzh_A_rec,mol_05,136.78174171894693,-85.55389530051457,222.3356370194615,1.3292109187669159,22,3,1,-1,success,
+output/svflow_core/3dzh_A_rec/mol_06.sdf,3dzh_A_rec,mol_06,408.0548248293835,-30.470057153109664,438.5248819824932,0.6382502976294825,28,24,2,-1,success,
+output/svflow_core/3dzh_A_rec/mol_07.sdf,3dzh_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 0 P, 6, is greater than permitted"
+output/svflow_core/3dzh_A_rec/mol_08.sdf,3dzh_A_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 5 13 17 24
+output/svflow_core/3dzh_A_rec/mol_09.sdf,3dzh_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 22 C, 7, is greater than permitted"
+output/svflow_core/3ej8_A_rec/mol_00.sdf,3ej8_A_rec,mol_00,61.45621675476351,30.652582594157195,30.803634160606315,0.37812771744624146,8,1,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_01.sdf,3ej8_A_rec,mol_01,28.6596453825522,8.00477682979486,20.65486855275734,0.47441838648857854,5,0,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_02.sdf,3ej8_A_rec,mol_02,34.707200522396775,22.654351372760523,12.052849149636252,0.21136325768102848,6,0,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_03.sdf,3ej8_A_rec,mol_03,91.54567079103563,23.450012922499713,68.09565786853592,0.4879743096858974,7,2,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_04.sdf,3ej8_A_rec,mol_04,56.831673308507376,13.04361885701595,43.788054451491426,0.47815629149156647,8,1,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_05.sdf,3ej8_A_rec,mol_05,19.810257405047324,14.286756892015948,5.523500513031376,0.16936842952167272,7,1,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_06.sdf,3ej8_A_rec,mol_06,-117.19911408087586,-146.29377578451644,29.094661703640583,0.13569691765959685,7,0,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_07.sdf,3ej8_A_rec,mol_07,475.8195620168559,69.60589939262047,406.21366262423544,0.7616656922278795,10,1,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_08.sdf,3ej8_A_rec,mol_08,68.39929293500363,25.950095971236074,42.449196963767555,0.6953643226823386,10,2,0,-1,success,
+output/svflow_core/3ej8_A_rec/mol_09.sdf,3ej8_A_rec,mol_09,28.841194211175377,-58.58056878080929,87.42176299198466,0.12255765893619261,10,1,0,-1,success,
+output/svflow_core/3g51_A_rec/mol_00.sdf,3g51_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 4 5 11 14 16 18
+output/svflow_core/3g51_A_rec/mol_01.sdf,3g51_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 10 11 17 21
+output/svflow_core/3g51_A_rec/mol_02.sdf,3g51_A_rec,mol_02,-41.498348698149144,-84.27732867323502,42.778979975085875,0.960864083606175,16,0,0,-1,success,
+output/svflow_core/3g51_A_rec/mol_03.sdf,3g51_A_rec,mol_03,280.1990379691901,-211.47212850302947,491.67116647221957,1.3818236658099592,21,0,1,-1,success,
+output/svflow_core/3g51_A_rec/mol_04.sdf,3g51_A_rec,mol_04,21.343471097373282,-137.72816446238298,159.07163555975626,0.6298110503388327,18,1,0,-1,success,
+output/svflow_core/3g51_A_rec/mol_05.sdf,3g51_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 4 6 8 11 12 14 15 19
+output/svflow_core/3g51_A_rec/mol_06.sdf,3g51_A_rec,mol_06,1124.84199063948,-90.59366844702751,1215.4356590865075,0.5224244676840738,16,2,2,-1,success,
+output/svflow_core/3g51_A_rec/mol_07.sdf,3g51_A_rec,mol_07,49.05727908415071,-101.76188119658615,150.81916028073687,0.8722514844806085,22,1,1,-1,success,
+output/svflow_core/3g51_A_rec/mol_08.sdf,3g51_A_rec,mol_08,120666.89887958617,,,,21,1,0,0,error,Cannot create force field for minimization
+output/svflow_core/3g51_A_rec/mol_09.sdf,3g51_A_rec,mol_09,178.7768599967011,89.77881389824883,88.99804609845226,0.9486367607604658,14,4,2,-1,success,
+output/svflow_core/3gs6_A_rec/mol_00.sdf,3gs6_A_rec,mol_00,708.9002327958497,115.40245470951236,593.4977780863373,1.5896858727990753,14,11,1,-1,success,
+output/svflow_core/3gs6_A_rec/mol_01.sdf,3gs6_A_rec,mol_01,452.6502617141441,-91.66687990574432,544.3171416198884,1.4979615270276767,12,0,0,-1,success,
+output/svflow_core/3gs6_A_rec/mol_02.sdf,3gs6_A_rec,mol_02,987.1530404998745,-15.934176920262999,1003.0872174201374,1.7710412690488349,18,7,2,-1,success,
+output/svflow_core/3gs6_A_rec/mol_03.sdf,3gs6_A_rec,mol_03,76.54525948456002,-39.99859988126199,116.54385936582202,0.9478041171964079,7,0,1,-1,success,
+output/svflow_core/3gs6_A_rec/mol_04.sdf,3gs6_A_rec,mol_04,,,,,25,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/3gs6_A_rec/mol_05.sdf,3gs6_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 1 O, 3, is greater than permitted"
+output/svflow_core/3gs6_A_rec/mol_06.sdf,3gs6_A_rec,mol_06,43.69281838029288,8.510786743951614,35.182031636341264,0.5984570153298358,10,0,0,-1,success,
+output/svflow_core/3gs6_A_rec/mol_07.sdf,3gs6_A_rec,mol_07,338.82953339686276,23.916019272277982,314.91351412458476,1.176461796638018,11,3,4,-1,success,
+output/svflow_core/3gs6_A_rec/mol_08.sdf,3gs6_A_rec,mol_08,85.3684667522501,22.500522632644216,62.86794411960588,0.25616743501821554,11,0,2,-1,success,
+output/svflow_core/3gs6_A_rec/mol_09.sdf,3gs6_A_rec,mol_09,212.88907273515812,16.214272478995408,196.6748002561627,0.5459438376851985,11,2,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_00.sdf,3hy9_B_rec,mol_00,180.7874968034013,80.89092500705078,99.89657179635051,1.4358029707260536,19,5,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_01.sdf,3hy9_B_rec,mol_01,87.34101476466988,-9.054914756778752,96.39592952144864,1.130954517365029,7,0,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_02.sdf,3hy9_B_rec,mol_02,17.3933733256235,-37.81447039300947,55.20784371863297,0.6082554885317016,12,0,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_03.sdf,3hy9_B_rec,mol_03,472.5006664620284,-12.239401889397856,484.74006835142626,0.7663411692464182,14,5,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_04.sdf,3hy9_B_rec,mol_04,161.37012402520426,13.799629369576605,147.57049465562767,1.3602161309590517,17,3,5,-1,success,
+output/svflow_core/3hy9_B_rec/mol_05.sdf,3hy9_B_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 9 13 14 15 16
+output/svflow_core/3hy9_B_rec/mol_06.sdf,3hy9_B_rec,mol_06,206.5774677484765,-46.31783636793622,252.89530411641272,1.7898629250352973,11,4,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_07.sdf,3hy9_B_rec,mol_07,110.851078791991,4.905088826595483,105.94598996539551,0.3935919749887756,16,5,0,-1,success,
+output/svflow_core/3hy9_B_rec/mol_08.sdf,3hy9_B_rec,mol_08,773.4031442380916,16.13623302474452,757.266911213347,1.1009898126630524,27,8,1,-1,success,
+output/svflow_core/3hy9_B_rec/mol_09.sdf,3hy9_B_rec,mol_09,66.03641779404762,-39.056216190839656,105.09263398488727,1.0064755455543701,19,1,0,-1,success,
+output/svflow_core/3jyh_A_rec/mol_00.sdf,3jyh_A_rec,mol_00,1061.721346403654,-5.92637805739772,1067.6477244610517,0.9285534584653776,22,16,0,-1,success,
+output/svflow_core/3jyh_A_rec/mol_01.sdf,3jyh_A_rec,mol_01,1253.1187051158302,55.76048895517569,1197.3582161606544,0.7759866494408479,13,9,1,-1,success,
+output/svflow_core/3jyh_A_rec/mol_02.sdf,3jyh_A_rec,mol_02,190.05555679347447,68.51401260329973,121.54154419017473,0.7248781595865412,11,7,1,-1,success,
+output/svflow_core/3jyh_A_rec/mol_03.sdf,3jyh_A_rec,mol_03,73.22510484951992,4.65951185121059,68.56559299830933,0.28451862484181384,10,2,0,-1,success,
+output/svflow_core/3jyh_A_rec/mol_04.sdf,3jyh_A_rec,mol_04,147.57294864318985,22.883885013829627,124.68906362936022,0.9083306527858577,10,0,0,-1,success,
+output/svflow_core/3jyh_A_rec/mol_05.sdf,3jyh_A_rec,mol_05,85.89294984221846,39.25861052806891,46.63433931414955,0.6982765574509858,10,3,1,-1,success,
+output/svflow_core/3jyh_A_rec/mol_06.sdf,3jyh_A_rec,mol_06,441.4601456725492,52.63491389252015,388.825231780029,0.8987723156462576,11,7,3,-1,success,
+output/svflow_core/3jyh_A_rec/mol_07.sdf,3jyh_A_rec,mol_07,115.02576339267193,27.63923049349406,87.38653289917787,0.888391584581794,10,3,2,-1,success,
+output/svflow_core/3jyh_A_rec/mol_08.sdf,3jyh_A_rec,mol_08,176.48957405903076,-11.141264274419058,187.63083833344982,0.7275285809922837,20,8,1,-1,success,
+output/svflow_core/3jyh_A_rec/mol_09.sdf,3jyh_A_rec,mol_09,157.29675610681383,72.96818028161309,84.32857582520074,1.349677914623744,11,6,3,-1,success,
+output/svflow_core/3kc1_A_rec/mol_00.sdf,3kc1_A_rec,mol_00,-125.9119970708351,-211.70656730081853,85.79457022998344,1.5724935119041465,17,1,1,-1,success,
+output/svflow_core/3kc1_A_rec/mol_01.sdf,3kc1_A_rec,mol_01,78006.15807416107,11.580988945780973,77994.5770852153,1.8253307867449091,13,19,2,-1,success,
+output/svflow_core/3kc1_A_rec/mol_02.sdf,3kc1_A_rec,mol_02,28.370643080291362,-4.39117067503687,32.761813755328234,0.4166843450902996,6,0,0,-1,success,
+output/svflow_core/3kc1_A_rec/mol_03.sdf,3kc1_A_rec,mol_03,44.42105996256791,-130.2043661578118,174.6254261203797,0.316227927520672,9,1,0,-1,success,
+output/svflow_core/3kc1_A_rec/mol_04.sdf,3kc1_A_rec,mol_04,-52.06304030112834,-246.2413642245851,194.1783239234568,0.7636967591410484,16,3,0,-1,success,
+output/svflow_core/3kc1_A_rec/mol_05.sdf,3kc1_A_rec,mol_05,183.48498422534286,-134.53124822718544,318.0162324525283,0.9187706657076298,26,7,4,-1,success,
+output/svflow_core/3kc1_A_rec/mol_06.sdf,3kc1_A_rec,mol_06,33.90603566202671,-93.60443932928507,127.51047499131178,0.6238520025161216,18,2,1,-1,success,
+output/svflow_core/3kc1_A_rec/mol_07.sdf,3kc1_A_rec,mol_07,106.27097971326765,-8.036342701722544,114.3073224149902,0.7745061144488511,9,0,0,-1,success,
+output/svflow_core/3kc1_A_rec/mol_08.sdf,3kc1_A_rec,mol_08,28.28907601574123,-22.852091649109624,51.141167664850855,0.4872294888912445,12,8,0,-1,success,
+output/svflow_core/3kc1_A_rec/mol_09.sdf,3kc1_A_rec,mol_09,98.29566921862667,-40.858571725305374,139.15424094393205,0.6643202833118301,9,0,0,-1,success,
+output/svflow_core/3l3n_A_rec/mol_00.sdf,3l3n_A_rec,mol_00,129.3954258723116,-33.90422958161483,163.29965545392642,0.9340253161043022,9,5,3,-1,success,
+output/svflow_core/3l3n_A_rec/mol_01.sdf,3l3n_A_rec,mol_01,-55.41344445010141,-108.74298777691762,53.32954332681621,0.7555721523943741,11,0,5,-1,success,
+output/svflow_core/3l3n_A_rec/mol_02.sdf,3l3n_A_rec,mol_02,-24.12306225516309,-91.23960792460525,67.11654566944216,0.4504093619719128,9,0,0,-1,success,
+output/svflow_core/3l3n_A_rec/mol_03.sdf,3l3n_A_rec,mol_03,5604.772793004698,21.85550683324444,5582.917286171453,1.2951298612875055,9,6,0,-1,success,
+output/svflow_core/3l3n_A_rec/mol_04.sdf,3l3n_A_rec,mol_04,90.86942064728187,19.22250831120526,71.64691233607661,0.6833631958897174,12,1,1,-1,success,
+output/svflow_core/3l3n_A_rec/mol_05.sdf,3l3n_A_rec,mol_05,83.20938847407885,30.144252241508912,53.06513623256994,0.9205874091012421,6,0,0,-1,success,
+output/svflow_core/3l3n_A_rec/mol_06.sdf,3l3n_A_rec,mol_06,124.56550533399205,-4.094192648781833,128.65969798277388,0.5760000502908005,8,3,1,-1,success,
+output/svflow_core/3l3n_A_rec/mol_07.sdf,3l3n_A_rec,mol_07,135.71582053217918,-1.7541842811157888,137.47000481329496,0.5001612127857642,8,0,0,-1,success,
+output/svflow_core/3l3n_A_rec/mol_08.sdf,3l3n_A_rec,mol_08,496.2190396842662,21.429392211477097,474.7896474727891,1.3340906982037362,12,4,2,-1,success,
+output/svflow_core/3l3n_A_rec/mol_09.sdf,3l3n_A_rec,mol_09,263.39173895655125,10.992077192136747,252.3996617644145,1.4135410998640083,14,1,2,-1,success,
+output/svflow_core/3li4_A_rec/mol_00.sdf,3li4_A_rec,mol_00,168.77302513191518,54.52548613773658,114.2475389941786,0.8080633024774135,14,5,3,-1,success,
+output/svflow_core/3li4_A_rec/mol_01.sdf,3li4_A_rec,mol_01,450.0041105540597,84.61169156664157,365.3924189874181,0.8037223254579501,20,12,1,-1,success,
+output/svflow_core/3li4_A_rec/mol_02.sdf,3li4_A_rec,mol_02,641.0451527753092,17.02745475932638,624.0176980159829,0.897409422465937,20,25,4,-1,success,
+output/svflow_core/3li4_A_rec/mol_03.sdf,3li4_A_rec,mol_03,185.13520885341111,27.178525988779484,157.95668286463163,0.4864992150627018,14,5,0,-1,success,
+output/svflow_core/3li4_A_rec/mol_04.sdf,3li4_A_rec,mol_04,443.72957163789914,61.16099446588851,382.56857717201063,0.3823876246429994,16,3,1,-1,success,
+output/svflow_core/3li4_A_rec/mol_05.sdf,3li4_A_rec,mol_05,244.16126735468214,79.191011975312,164.97025537937014,1.3606438377479295,18,8,1,-1,success,
+output/svflow_core/3li4_A_rec/mol_06.sdf,3li4_A_rec,mol_06,643.445203648975,14.578846156318496,628.8663574926566,1.255127134797156,12,3,1,-1,success,
+output/svflow_core/3li4_A_rec/mol_07.sdf,3li4_A_rec,mol_07,59.494947701241784,16.750796910054348,42.74415079118744,0.512427124759589,10,2,1,-1,success,
+output/svflow_core/3li4_A_rec/mol_08.sdf,3li4_A_rec,mol_08,,,,,0,0,0,0,error,"Explicit valence for atom # 1 C, 5, is greater than permitted"
+output/svflow_core/3li4_A_rec/mol_09.sdf,3li4_A_rec,mol_09,303.09048747941756,-9.385434315388013,312.4759217948056,1.3996803662485975,15,5,1,-1,success,
+output/svflow_core/3nfb_A_rec/mol_00.sdf,3nfb_A_rec,mol_00,137.0792730554195,-42.36175057942897,179.44102363484848,0.5082213070725139,17,2,0,-1,success,
+output/svflow_core/3nfb_A_rec/mol_01.sdf,3nfb_A_rec,mol_01,209.5327783633613,0.3239944222756761,209.2087839410856,1.2440098817772716,16,4,1,-1,success,
+output/svflow_core/3nfb_A_rec/mol_02.sdf,3nfb_A_rec,mol_02,218.9005936034314,54.98977132645629,163.9108222769751,1.2780085532826906,14,2,0,-1,success,
+output/svflow_core/3nfb_A_rec/mol_03.sdf,3nfb_A_rec,mol_03,145.67806990320133,13.253317116156182,132.42475278704515,1.3220328371253944,17,8,1,-1,success,
+output/svflow_core/3nfb_A_rec/mol_04.sdf,3nfb_A_rec,mol_04,477.2745902282053,27.87179386788353,449.40279636032176,2.101850642811882,18,1,0,-1,success,
+output/svflow_core/3nfb_A_rec/mol_05.sdf,3nfb_A_rec,mol_05,151.77783353796767,33.270918576169564,118.5069149617981,0.4718153480125358,12,0,1,-1,success,
+output/svflow_core/3nfb_A_rec/mol_06.sdf,3nfb_A_rec,mol_06,-16.365073017256492,-171.0513529512136,154.6862799339571,0.9287607653828055,16,6,0,-1,success,
+output/svflow_core/3nfb_A_rec/mol_07.sdf,3nfb_A_rec,mol_07,396.64366939604093,-28.01588507014825,424.6595544661892,1.32414952251531,12,2,3,-1,success,
+output/svflow_core/3nfb_A_rec/mol_08.sdf,3nfb_A_rec,mol_08,196.98280261561908,49.5259596357782,147.45684297984087,1.3118249234080603,16,3,0,-1,success,
+output/svflow_core/3nfb_A_rec/mol_09.sdf,3nfb_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 2 Cl, 2, is greater than permitted"
+output/svflow_core/3o96_A_rec/mol_00.sdf,3o96_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 4 8 9 16 17 19 21 22 23 24 26 28
+output/svflow_core/3o96_A_rec/mol_01.sdf,3o96_A_rec,mol_01,445.44510421544004,107.18680659616933,338.2582976192707,1.4005946750372893,32,16,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_02.sdf,3o96_A_rec,mol_02,317.48892925457153,36.55946463447461,280.92946462009695,0.7889852118201747,32,7,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_03.sdf,3o96_A_rec,mol_03,85137.3027155941,62.03107209406156,85075.27164350003,0.7909776499162512,28,8,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_04.sdf,3o96_A_rec,mol_04,,,,,0,0,0,0,error,"Explicit valence for atom # 13 O, 5, is greater than permitted"
+output/svflow_core/3o96_A_rec/mol_05.sdf,3o96_A_rec,mol_05,213.39599937878228,85.03215164984834,128.36384772893393,0.8721232515237227,29,5,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_06.sdf,3o96_A_rec,mol_06,155.46829964605377,53.377612133828045,102.09068751222571,0.5020104060528419,25,4,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_07.sdf,3o96_A_rec,mol_07,810.3389660954144,86.7690666787405,723.5698994166739,3.269595972897575,34,8,1,-1,success,
+output/svflow_core/3o96_A_rec/mol_08.sdf,3o96_A_rec,mol_08,207.1386050744776,81.96327352717013,125.17533154730747,0.5716326086646508,30,4,0,-1,success,
+output/svflow_core/3o96_A_rec/mol_09.sdf,3o96_A_rec,mol_09,305.6177397713658,6.038679444366835,299.57906032699896,0.21730503512724333,25,1,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_00.sdf,3pdh_A_rec,mol_00,295.55249997772523,31.861932444227463,263.69056753349776,1.0812704882946609,13,4,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_01.sdf,3pdh_A_rec,mol_01,286.70907136101465,-55.43223646166537,342.14130782268,1.532934185021058,15,16,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_02.sdf,3pdh_A_rec,mol_02,125.65371191222961,13.893620482602742,111.76009142962687,0.9677383085057573,21,4,1,-1,success,
+output/svflow_core/3pdh_A_rec/mol_03.sdf,3pdh_A_rec,mol_03,525.2161710230412,82.66624887018341,442.5499221528578,2.124731625253215,14,1,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_04.sdf,3pdh_A_rec,mol_04,83.1454940543571,-24.8900167865404,108.0355108408975,0.3232921887997771,16,4,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_05.sdf,3pdh_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 15 O, 3, is greater than permitted"
+output/svflow_core/3pdh_A_rec/mol_06.sdf,3pdh_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 4 6 15
+output/svflow_core/3pdh_A_rec/mol_07.sdf,3pdh_A_rec,mol_07,22.805112025474706,-4.309596964429424,27.11470898990413,0.31466279321546015,14,0,0,-1,success,
+output/svflow_core/3pdh_A_rec/mol_08.sdf,3pdh_A_rec,mol_08,941.5038440894621,30.0082764634886,911.4955676259734,1.2990928668215056,13,9,1,-1,success,
+output/svflow_core/3pdh_A_rec/mol_09.sdf,3pdh_A_rec,mol_09,656.241774257638,141.02925133504033,515.2125229225976,1.1927253236593491,27,27,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_00.sdf,3pnm_A_rec,mol_00,26.16053827907539,9.941705770762622,16.218832508312765,0.496245735407977,5,0,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_01.sdf,3pnm_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 15 O, 3, is greater than permitted"
+output/svflow_core/3pnm_A_rec/mol_02.sdf,3pnm_A_rec,mol_02,78.60542085238671,36.737115057887294,41.86830579449942,0.14775283734367303,6,2,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_03.sdf,3pnm_A_rec,mol_03,26.10966712406516,-22.74508146949548,48.85474859356064,1.0156090096308334,6,4,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_04.sdf,3pnm_A_rec,mol_04,76.25786894247875,0.2664931740505443,75.99137576842821,1.004278703619198,6,1,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_05.sdf,3pnm_A_rec,mol_05,564.6825618168928,-0.5743603840288265,565.2569222009216,0.32849518124267907,5,10,0,-1,success,
+output/svflow_core/3pnm_A_rec/mol_06.sdf,3pnm_A_rec,mol_06,35.195590570724484,3.2248677374991424,31.97072283322534,1.1303476224745055,5,0,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_07.sdf,3pnm_A_rec,mol_07,16804.57037825627,-3.735088501149975,16808.30546675742,0.8591159612914767,7,6,1,-1,success,
+output/svflow_core/3pnm_A_rec/mol_08.sdf,3pnm_A_rec,mol_08,-59.96159410719204,-86.62289443872328,26.661300331531237,0.0748846237791389,4,0,0,-1,success,
+output/svflow_core/3pnm_A_rec/mol_09.sdf,3pnm_A_rec,mol_09,214.26105725486025,43.05067556698287,171.21038168787737,1.1293192824453477,7,5,2,-1,success,
+output/svflow_core/3tym_A_rec/mol_00.sdf,3tym_A_rec,mol_00,-132.18077393932487,-228.02168690410562,95.84091296478076,0.2599513053091504,9,0,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_01.sdf,3tym_A_rec,mol_01,,,,,17,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/3tym_A_rec/mol_02.sdf,3tym_A_rec,mol_02,62.77091663808526,-30.71099528394842,93.48191192203367,0.565344444261617,10,5,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_03.sdf,3tym_A_rec,mol_03,17.425652725364138,-52.3852797813092,69.81093250667334,0.30580621045664924,16,0,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_04.sdf,3tym_A_rec,mol_04,-54.17748011215505,-113.57903248615732,59.401552374002264,0.30717769825694874,13,0,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_05.sdf,3tym_A_rec,mol_05,391.4402247406967,31.509876306186115,359.93034843451056,0.9718569390788876,18,9,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_06.sdf,3tym_A_rec,mol_06,418.5731853935205,-130.59063546832172,549.1638208618422,0.5355244217511544,18,3,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_07.sdf,3tym_A_rec,mol_07,486.6736368301665,45.279697485097195,441.3939393450693,0.5256093694072795,29,15,1,-1,success,
+output/svflow_core/3tym_A_rec/mol_08.sdf,3tym_A_rec,mol_08,675.2410114786124,2.5735652483164078,672.667446230296,0.4341959751145491,13,1,0,-1,success,
+output/svflow_core/3tym_A_rec/mol_09.sdf,3tym_A_rec,mol_09,409.74110569582194,114.1018409385984,295.63926475722354,1.9126148940766858,24,3,1,-1,success,
+output/svflow_core/3u5y_B_rec/mol_00.sdf,3u5y_B_rec,mol_00,317.03574989516875,62.04323202881024,254.99251786635853,0.622040314454543,18,3,1,-1,success,
+output/svflow_core/3u5y_B_rec/mol_01.sdf,3u5y_B_rec,mol_01,477.2228349348425,-42.79447913019304,520.0173140650355,0.2539745163822358,22,3,0,-1,success,
+output/svflow_core/3u5y_B_rec/mol_02.sdf,3u5y_B_rec,mol_02,239.78109391877223,44.261922729339275,195.51917118943294,0.6541367058243432,22,6,3,-1,success,
+output/svflow_core/3u5y_B_rec/mol_03.sdf,3u5y_B_rec,mol_03,132.6020203062435,7.021440999191238,125.58057930705226,0.37659452603092447,10,2,0,-1,success,
+output/svflow_core/3u5y_B_rec/mol_04.sdf,3u5y_B_rec,mol_04,817.615573588997,70.2949261975019,747.3206473914951,1.2699799537583352,20,7,0,-1,success,
+output/svflow_core/3u5y_B_rec/mol_05.sdf,3u5y_B_rec,mol_05,708.5982811307624,89.63796407043176,618.9603170603307,0.7247043614238743,22,19,1,-1,success,
+output/svflow_core/3u5y_B_rec/mol_06.sdf,3u5y_B_rec,mol_06,846.8961672099248,109.72010891784163,737.1760582920831,1.0291074228762156,19,9,2,-1,success,
+output/svflow_core/3u5y_B_rec/mol_07.sdf,3u5y_B_rec,mol_07,290.257209570485,47.17295765457907,243.0842519159059,1.0508233822653223,17,7,3,-1,success,
+output/svflow_core/3u5y_B_rec/mol_08.sdf,3u5y_B_rec,mol_08,172.69286877296636,-14.125345170798239,186.8182139437646,0.2950760245366083,14,2,0,-1,success,
+output/svflow_core/3u5y_B_rec/mol_09.sdf,3u5y_B_rec,mol_09,935.3894555105301,104.95364569256446,830.4358098179656,1.0300337029672346,20,13,2,-1,success,
+output/svflow_core/3u9f_C_rec/mol_00.sdf,3u9f_C_rec,mol_00,68.1643239366975,-82.13204608120574,150.29637001790326,1.6758060466986144,15,0,2,-1,success,
+output/svflow_core/3u9f_C_rec/mol_01.sdf,3u9f_C_rec,mol_01,750.1143931492093,71.48699470365601,678.6273984455532,1.2366455487863295,18,17,0,-1,success,
+output/svflow_core/3u9f_C_rec/mol_02.sdf,3u9f_C_rec,mol_02,216.97928765343335,15.202416579838504,201.77687107359483,1.6262080382021562,17,2,0,-1,success,
+output/svflow_core/3u9f_C_rec/mol_03.sdf,3u9f_C_rec,mol_03,460.6601639194238,32.52132435261123,428.1388395668125,0.5113154998354625,21,15,1,-1,success,
+output/svflow_core/3u9f_C_rec/mol_04.sdf,3u9f_C_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 4 8 12 13 14
+output/svflow_core/3u9f_C_rec/mol_05.sdf,3u9f_C_rec,mol_05,147.28439467075088,61.975209425301564,85.30918524544933,0.7219283777753454,12,1,0,-1,success,
+output/svflow_core/3u9f_C_rec/mol_06.sdf,3u9f_C_rec,mol_06,169.7064867305591,5.325992306214339,164.38049442434476,1.0233075441359725,24,14,3,-1,success,
+output/svflow_core/3u9f_C_rec/mol_07.sdf,3u9f_C_rec,mol_07,501.2314046659245,53.61609858586013,447.6153060800644,1.0369079446973157,18,3,0,-1,success,
+output/svflow_core/3u9f_C_rec/mol_08.sdf,3u9f_C_rec,mol_08,81.76410864081575,28.84729272952069,52.91681591129506,0.6009941627891527,15,3,0,-1,success,
+output/svflow_core/3u9f_C_rec/mol_09.sdf,3u9f_C_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 5 6 7 9
+output/svflow_core/3v4t_A_rec/mol_00.sdf,3v4t_A_rec,mol_00,184.34357880668517,-91.5862775106626,275.9298563173478,2.076671119216795,20,7,3,-1,success,
+output/svflow_core/3v4t_A_rec/mol_01.sdf,3v4t_A_rec,mol_01,294.59456101734986,13.216026425753746,281.3785345915961,0.5093184767750182,22,9,5,-1,success,
+output/svflow_core/3v4t_A_rec/mol_02.sdf,3v4t_A_rec,mol_02,711.7209666732691,-277.46707449464003,989.1880411679092,0.7119396496743843,22,8,1,-1,success,
+output/svflow_core/3v4t_A_rec/mol_03.sdf,3v4t_A_rec,mol_03,434.5673526166877,37.560883411308396,397.0064692053793,1.7266667509437774,17,0,1,-1,success,
+output/svflow_core/3v4t_A_rec/mol_04.sdf,3v4t_A_rec,mol_04,275.0631304640265,4.610794983673803,270.45233548035264,2.147167323649921,14,3,1,-1,success,
+output/svflow_core/3v4t_A_rec/mol_05.sdf,3v4t_A_rec,mol_05,190.19741534432788,-26.475907241795483,216.67332258612336,2.3418915380650396,19,3,2,-1,success,
+output/svflow_core/3v4t_A_rec/mol_06.sdf,3v4t_A_rec,mol_06,,,,,0,0,0,0,error,"Explicit valence for atom # 13 O, 3, is greater than permitted"
+output/svflow_core/3v4t_A_rec/mol_07.sdf,3v4t_A_rec,mol_07,14.071292575370956,-20.19587904770124,34.267171623072194,0.5027692513043246,12,3,0,-1,success,
+output/svflow_core/3v4t_A_rec/mol_08.sdf,3v4t_A_rec,mol_08,421.8788673358074,106.81050488621719,315.0683624495902,1.215163374187826,18,11,1,-1,success,
+output/svflow_core/3v4t_A_rec/mol_09.sdf,3v4t_A_rec,mol_09,115.57540982638763,10.522600461692702,105.05280936469492,0.4314949261432656,11,0,0,-1,success,
+output/svflow_core/3w83_B_rec/mol_00.sdf,3w83_B_rec,mol_00,45.30999202493314,21.288390629343432,24.021601395589705,0.11387908621910162,5,0,0,-1,success,
+output/svflow_core/3w83_B_rec/mol_01.sdf,3w83_B_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 2 C, 5, is greater than permitted"
+output/svflow_core/3w83_B_rec/mol_02.sdf,3w83_B_rec,mol_02,31.335266101103926,-17.753559158132312,49.08882525923624,0.42546534447229845,9,3,3,-1,success,
+output/svflow_core/3w83_B_rec/mol_03.sdf,3w83_B_rec,mol_03,68.74625931355992,-20.3597504473959,89.10600976095581,1.47645703423926,10,9,1,-1,success,
+output/svflow_core/3w83_B_rec/mol_04.sdf,3w83_B_rec,mol_04,-13.239939709089182,-26.997517237624997,13.757577528535816,0.1529141724390324,5,0,0,-1,success,
+output/svflow_core/3w83_B_rec/mol_05.sdf,3w83_B_rec,mol_05,-20.619797824205833,-51.7270700174069,31.10727219320107,0.6629249264224059,7,0,3,-1,success,
+output/svflow_core/3w83_B_rec/mol_06.sdf,3w83_B_rec,mol_06,225.44269434816357,78.85386274229006,146.5888316058735,0.6086209623598149,8,2,2,-1,success,
+output/svflow_core/3w83_B_rec/mol_07.sdf,3w83_B_rec,mol_07,217.31704248477791,53.8236466194332,163.49339586534472,1.0988816197730218,6,1,0,-1,success,
+output/svflow_core/3w83_B_rec/mol_08.sdf,3w83_B_rec,mol_08,8.27709293642026,-28.459675501734964,36.736768438155224,0.8989576720137774,6,2,1,-1,success,
+output/svflow_core/3w83_B_rec/mol_09.sdf,3w83_B_rec,mol_09,13.024912174496183,-4.237587798605989,17.262499973102173,0.11166689711663413,6,1,1,-1,success,
+output/svflow_core/4aaw_A_rec/mol_00.sdf,4aaw_A_rec,mol_00,59.813781595028274,-73.69817807495576,133.51195966998404,0.2762988647450546,7,2,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_01.sdf,4aaw_A_rec,mol_01,180.71928607683535,-84.07817459700138,264.7974606738367,0.18786531560438965,10,0,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_02.sdf,4aaw_A_rec,mol_02,53.58843372233555,24.482634449554297,29.105799272781255,0.4601551916619605,8,5,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_03.sdf,4aaw_A_rec,mol_03,67.97907765493224,-3.68683864713727,71.6659163020695,0.5402046511800733,8,2,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_04.sdf,4aaw_A_rec,mol_04,7375.884767168569,37.46500899509182,7338.419758173477,0.8126663145749842,13,24,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_05.sdf,4aaw_A_rec,mol_05,884.8053962264187,87.3870277916283,797.4183684347904,1.67668889751737,17,4,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_06.sdf,4aaw_A_rec,mol_06,204.69456622325595,53.888218730296465,150.80634749295947,0.6308696544692368,9,2,2,-1,success,
+output/svflow_core/4aaw_A_rec/mol_07.sdf,4aaw_A_rec,mol_07,476.7642479023592,64.58542005942115,412.17882784293806,0.5936422650520304,8,0,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_08.sdf,4aaw_A_rec,mol_08,401.5174450860768,15.194991066708834,386.32245401936797,0.5773968302121968,11,6,0,-1,success,
+output/svflow_core/4aaw_A_rec/mol_09.sdf,4aaw_A_rec,mol_09,133.6751117850855,53.7810129128191,79.8940988722664,0.3966134266924448,10,1,1,-1,success,
+output/svflow_core/4aua_A_rec/mol_00.sdf,4aua_A_rec,mol_00,216.51785230196847,30.413805240938437,186.10404706103003,0.43977526165015296,18,3,0,-1,success,
+output/svflow_core/4aua_A_rec/mol_01.sdf,4aua_A_rec,mol_01,67.25864187119006,2.8001091153486555,64.4585327558414,0.7696933828097764,11,0,0,-1,success,
+output/svflow_core/4aua_A_rec/mol_02.sdf,4aua_A_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 6 7 9 12 15 21 22 23
+output/svflow_core/4aua_A_rec/mol_03.sdf,4aua_A_rec,mol_03,32.334288441654984,-22.074950564086755,54.40923900574174,0.18495230712404162,13,0,0,-1,success,
+output/svflow_core/4aua_A_rec/mol_04.sdf,4aua_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 2 8 9 11
+output/svflow_core/4aua_A_rec/mol_05.sdf,4aua_A_rec,mol_05,80.95600120617402,15.615169135848683,65.34083207032533,0.3914598539717387,16,0,1,-1,success,
+output/svflow_core/4aua_A_rec/mol_06.sdf,4aua_A_rec,mol_06,263.4389240585288,4.3781945319922055,259.0607295265366,0.6223552285163128,13,5,0,-1,success,
+output/svflow_core/4aua_A_rec/mol_07.sdf,4aua_A_rec,mol_07,49.35251295366237,19.812514184456468,29.5399987692059,0.6587270268596885,11,1,0,-1,success,
+output/svflow_core/4aua_A_rec/mol_08.sdf,4aua_A_rec,mol_08,3645.219525135762,18.14705113036772,3627.0724740053943,0.8250106724184821,22,17,5,-1,success,
+output/svflow_core/4aua_A_rec/mol_09.sdf,4aua_A_rec,mol_09,173.2207785139837,18.25265237207572,154.968126141908,0.42522702091204356,16,2,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_00.sdf,4azf_A_rec,mol_00,275.8640063266571,7.243264845436315,268.62074148122076,0.800209099523336,23,4,3,-1,success,
+output/svflow_core/4azf_A_rec/mol_01.sdf,4azf_A_rec,mol_01,403.6409882026004,36.56670568740984,367.07428251519053,0.5630273450834007,19,3,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_02.sdf,4azf_A_rec,mol_02,85.08702385622685,2.6403364086814847,82.44668744754537,0.7663485876535437,19,10,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_03.sdf,4azf_A_rec,mol_03,477.41069064150463,-15.492241751699005,492.9029323932036,0.9503659465038429,15,3,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_04.sdf,4azf_A_rec,mol_04,-3.079948856634374,-52.53975504250539,49.45980618587102,0.7509758291390679,12,1,1,-1,success,
+output/svflow_core/4azf_A_rec/mol_05.sdf,4azf_A_rec,mol_05,153.11019253277337,41.20074380041409,111.90944873235928,0.14005998752041335,21,1,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_06.sdf,4azf_A_rec,mol_06,0.5443437885473159,-40.26137737435402,40.805721162901335,0.5472140534906514,17,1,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_07.sdf,4azf_A_rec,mol_07,40.46021474130225,21.25795470207007,19.202260039232183,0.1406194256986288,10,0,0,-1,success,
+output/svflow_core/4azf_A_rec/mol_08.sdf,4azf_A_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 4 5 6
+output/svflow_core/4azf_A_rec/mol_09.sdf,4azf_A_rec,mol_09,17.501149732340377,-6.53395895640433,24.035108688744707,0.2743537431081977,10,1,0,-1,success,
+output/svflow_core/4bel_A_rec/mol_00.sdf,4bel_A_rec,mol_00,350.0957978185342,-105.57996573995574,455.67576355848996,1.694264782449401,21,11,1,-1,success,
+output/svflow_core/4bel_A_rec/mol_01.sdf,4bel_A_rec,mol_01,188.4828332510496,46.89303858524552,141.5897946658041,1.5057230106091992,23,6,0,-1,success,
+output/svflow_core/4bel_A_rec/mol_02.sdf,4bel_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 0 C, 5, is greater than permitted"
+output/svflow_core/4bel_A_rec/mol_03.sdf,4bel_A_rec,mol_03,558027.5181332673,,,,27,13,0,0,error,Cannot create force field for minimization
+output/svflow_core/4bel_A_rec/mol_04.sdf,4bel_A_rec,mol_04,444.89968438732785,46.62256594506624,398.2771184422616,1.2522990131607907,27,16,1,-1,success,
+output/svflow_core/4bel_A_rec/mol_05.sdf,4bel_A_rec,mol_05,493.89882854554645,-67.38174248890273,561.2805710344492,0.8941057107066175,33,15,2,-1,success,
+output/svflow_core/4bel_A_rec/mol_06.sdf,4bel_A_rec,mol_06,446.03064284669966,23.75970352159145,422.2709393251082,0.9487017983338873,26,9,5,-1,success,
+output/svflow_core/4bel_A_rec/mol_07.sdf,4bel_A_rec,mol_07,390.53443784929465,100.09950586736701,290.43493198192766,1.671708194269665,24,4,0,-1,success,
+output/svflow_core/4bel_A_rec/mol_08.sdf,4bel_A_rec,mol_08,211.9238640724099,55.58598143452535,156.33788263788455,1.3676959516442353,24,0,0,-1,success,
+output/svflow_core/4bel_A_rec/mol_09.sdf,4bel_A_rec,mol_09,468.21644252116334,93.93870899326397,374.2777335278994,2.0402903790680655,32,13,2,-1,success,
+output/svflow_core/4d7o_A_rec/mol_00.sdf,4d7o_A_rec,mol_00,169.29728530776958,30.516461150598637,138.78082415717094,0.7147485122619576,19,0,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_01.sdf,4d7o_A_rec,mol_01,581.2636844905827,-72.74386341453018,654.0075479051129,3.6961609628099032,23,7,1,-1,success,
+output/svflow_core/4d7o_A_rec/mol_02.sdf,4d7o_A_rec,mol_02,120.27894958596431,63.516211081977474,56.76273850398684,0.5683805218092611,24,2,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_03.sdf,4d7o_A_rec,mol_03,83.26270904787408,-8.391931737500972,91.65464078537505,0.5295426862474807,16,3,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_04.sdf,4d7o_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 2 8 9 11 18 22
+output/svflow_core/4d7o_A_rec/mol_05.sdf,4d7o_A_rec,mol_05,0.2408857944930105,-78.33810519549522,78.57899098998823,0.8457392625873921,19,2,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_06.sdf,4d7o_A_rec,mol_06,,,,,0,0,0,0,error,"Explicit valence for atom # 27 O, 3, is greater than permitted"
+output/svflow_core/4d7o_A_rec/mol_07.sdf,4d7o_A_rec,mol_07,120.60750284737176,23.231020022636812,97.37648282473495,0.9574637395292387,15,5,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_08.sdf,4d7o_A_rec,mol_08,215.9779799757739,34.97782542726994,181.00015454850396,0.6922342379865354,20,7,0,-1,success,
+output/svflow_core/4d7o_A_rec/mol_09.sdf,4d7o_A_rec,mol_09,114.14841308754606,2.8342834717624967,111.31412961578357,1.1630255530002667,22,0,0,-1,success,
+output/svflow_core/4f1m_A_rec/mol_00.sdf,4f1m_A_rec,mol_00,1748.1138473202652,52.9815116163937,1695.1323357038716,0.9905465566106046,31,13,0,-1,success,
+output/svflow_core/4f1m_A_rec/mol_01.sdf,4f1m_A_rec,mol_01,99.07044786769302,-530.7138818386542,629.7843297063472,1.5485880573419903,28,10,1,-1,success,
+output/svflow_core/4f1m_A_rec/mol_02.sdf,4f1m_A_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 4 5 10 13 15 16 17
+output/svflow_core/4f1m_A_rec/mol_03.sdf,4f1m_A_rec,mol_03,112.63839668693626,-241.8135543741941,354.45195106113033,0.8068719017917023,20,5,0,-1,success,
+output/svflow_core/4f1m_A_rec/mol_04.sdf,4f1m_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 4 9 15 18 19 21
+output/svflow_core/4f1m_A_rec/mol_05.sdf,4f1m_A_rec,mol_05,139.29472176858627,-379.57309570313606,518.8678174717223,1.3886554828593625,24,4,1,-1,success,
+output/svflow_core/4f1m_A_rec/mol_06.sdf,4f1m_A_rec,mol_06,48.890600641597004,-35.81257980946868,84.70318045106569,1.9913968491769318,12,0,0,-1,success,
+output/svflow_core/4f1m_A_rec/mol_07.sdf,4f1m_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 7 Cl, 2, is greater than permitted"
+output/svflow_core/4f1m_A_rec/mol_08.sdf,4f1m_A_rec,mol_08,81653.77886855445,,,,29,6,0,0,error,Cannot create force field for minimization
+output/svflow_core/4f1m_A_rec/mol_09.sdf,4f1m_A_rec,mol_09,151.26169660221936,1.622830739454261,149.6388658627651,0.29854646742205665,9,0,0,-1,success,
+output/svflow_core/4g3d_B_rec/mol_00.sdf,4g3d_B_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 11 C, 6, is greater than permitted"
+output/svflow_core/4g3d_B_rec/mol_01.sdf,4g3d_B_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 14 C, 5, is greater than permitted"
+output/svflow_core/4g3d_B_rec/mol_02.sdf,4g3d_B_rec,mol_02,67.6074199003887,41.7777185486189,25.829701351769806,0.640283916793416,20,0,0,-1,success,
+output/svflow_core/4g3d_B_rec/mol_03.sdf,4g3d_B_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 6 O, 3, is greater than permitted"
+output/svflow_core/4g3d_B_rec/mol_04.sdf,4g3d_B_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 16 18
+output/svflow_core/4g3d_B_rec/mol_05.sdf,4g3d_B_rec,mol_05,77.96134602893171,50.786761628795404,27.17458440013631,0.606007634286644,22,1,1,-1,success,
+output/svflow_core/4g3d_B_rec/mol_06.sdf,4g3d_B_rec,mol_06,497.9713751400968,47.42493893966865,450.54643620042816,1.138359348735679,22,9,1,-1,success,
+output/svflow_core/4g3d_B_rec/mol_07.sdf,4g3d_B_rec,mol_07,537.9354015177054,157.02574873328263,380.90965278442275,4.68328480428751,28,9,1,-1,success,
+output/svflow_core/4g3d_B_rec/mol_08.sdf,4g3d_B_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 6 18 19 24
+output/svflow_core/4g3d_B_rec/mol_09.sdf,4g3d_B_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 5 13 19 20
+output/svflow_core/4gvd_A_rec/mol_00.sdf,4gvd_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 9 C, 5, is greater than permitted"
+output/svflow_core/4gvd_A_rec/mol_01.sdf,4gvd_A_rec,mol_01,215.21485224900314,13.204741173600333,202.01011107540282,0.6446801719222823,11,6,0,-1,success,
+output/svflow_core/4gvd_A_rec/mol_02.sdf,4gvd_A_rec,mol_02,50.448470379072496,-13.404159861117055,63.852630240189555,0.31563827529051286,9,0,0,-1,success,
+output/svflow_core/4gvd_A_rec/mol_03.sdf,4gvd_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 1 N, 4, is greater than permitted"
+output/svflow_core/4gvd_A_rec/mol_04.sdf,4gvd_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 3 4 6 8 10
+output/svflow_core/4gvd_A_rec/mol_05.sdf,4gvd_A_rec,mol_05,81.43875376130032,5.222688906741939,76.21606485455838,0.570955598768075,12,4,0,-1,success,
+output/svflow_core/4gvd_A_rec/mol_06.sdf,4gvd_A_rec,mol_06,58.53214957217148,22.559026956407973,35.9731226157635,0.9378802770824379,9,1,1,-1,success,
+output/svflow_core/4gvd_A_rec/mol_07.sdf,4gvd_A_rec,mol_07,164.15652133995462,28.883993637372793,135.27252770258184,0.5155474610255276,13,1,0,-1,success,
+output/svflow_core/4gvd_A_rec/mol_08.sdf,4gvd_A_rec,mol_08,170.7511014588847,16.680382368932833,154.07071908995187,0.7797830137850954,9,1,1,-1,success,
+output/svflow_core/4gvd_A_rec/mol_09.sdf,4gvd_A_rec,mol_09,66.60543288853142,-64.8248181520268,131.43025104055823,0.2884710369095835,9,3,1,-1,success,
+output/svflow_core/4h3c_A_rec/mol_00.sdf,4h3c_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 5 C, 5, is greater than permitted"
+output/svflow_core/4h3c_A_rec/mol_01.sdf,4h3c_A_rec,mol_01,608.1529784157424,32.17018417400736,575.9827942417351,1.1306502008823263,41,12,3,-1,success,
+output/svflow_core/4h3c_A_rec/mol_02.sdf,4h3c_A_rec,mol_02,102.68341225600258,52.0212796376037,50.662132618398886,1.4135203745802274,15,1,0,-1,success,
+output/svflow_core/4h3c_A_rec/mol_03.sdf,4h3c_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 6 7 8 9 11 14 15 16
+output/svflow_core/4h3c_A_rec/mol_04.sdf,4h3c_A_rec,mol_04,,,,,0,0,0,0,error,"Explicit valence for atom # 11 Cl, 2, is greater than permitted"
+output/svflow_core/4h3c_A_rec/mol_05.sdf,4h3c_A_rec,mol_05,72.52316824148558,4.112345058945772,68.4108231825398,0.5189448647377429,9,0,0,-1,success,
+output/svflow_core/4h3c_A_rec/mol_06.sdf,4h3c_A_rec,mol_06,369.862691139131,117.76747448242993,252.0952166567011,0.2817439923852482,18,3,0,-1,success,
+output/svflow_core/4h3c_A_rec/mol_07.sdf,4h3c_A_rec,mol_07,148.64766072973475,45.25640599047278,103.39125473926197,0.18169028615710187,12,3,0,-1,success,
+output/svflow_core/4h3c_A_rec/mol_08.sdf,4h3c_A_rec,mol_08,74.11164318378717,31.97293218137233,42.13871100241484,0.12022747308519229,12,0,0,-1,success,
+output/svflow_core/4h3c_A_rec/mol_09.sdf,4h3c_A_rec,mol_09,592.8021851707301,59.38199274256378,533.4201924281664,0.8698321512819466,21,14,1,-1,success,
+output/svflow_core/4iiy_A_rec/mol_00.sdf,4iiy_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 12 P, 6, is greater than permitted"
+output/svflow_core/4iiy_A_rec/mol_01.sdf,4iiy_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 9 C, 6, is greater than permitted"
+output/svflow_core/4iiy_A_rec/mol_02.sdf,4iiy_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 15 O, 3, is greater than permitted"
+output/svflow_core/4iiy_A_rec/mol_03.sdf,4iiy_A_rec,mol_03,330.30429919034975,-380.6656767199798,710.9699759103296,1.3977974709087038,29,6,2,-1,success,
+output/svflow_core/4iiy_A_rec/mol_04.sdf,4iiy_A_rec,mol_04,,,,,20,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/4iiy_A_rec/mol_05.sdf,4iiy_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 9 O, 3, is greater than permitted"
+output/svflow_core/4iiy_A_rec/mol_06.sdf,4iiy_A_rec,mol_06,158.9183309397313,24.951730948539524,133.96659999119177,0.697808017301493,22,3,0,-1,success,
+output/svflow_core/4iiy_A_rec/mol_07.sdf,4iiy_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 6 13 15 19
+output/svflow_core/4iiy_A_rec/mol_08.sdf,4iiy_A_rec,mol_08,484.3225915833928,-9.737562400860512,494.0601539842533,0.5760313595939185,26,6,1,-1,success,
+output/svflow_core/4iiy_A_rec/mol_09.sdf,4iiy_A_rec,mol_09,28.592445159224553,-432.30863270800813,460.9010778672327,0.8981337930148011,24,6,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_00.sdf,4iwq_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 21 O, 3, is greater than permitted"
+output/svflow_core/4iwq_A_rec/mol_01.sdf,4iwq_A_rec,mol_01,274.9987907333633,102.68593017501742,172.3128605583459,1.1919660811798112,17,4,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_02.sdf,4iwq_A_rec,mol_02,169.73837963922864,86.72991640441067,83.00846323481797,0.5135341910424841,16,1,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_03.sdf,4iwq_A_rec,mol_03,110.37539925975709,39.72132644114214,70.65407281861495,0.22780752022568226,19,0,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_04.sdf,4iwq_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 5 6 8 11 12 14 18 19 21 23 27 28
+output/svflow_core/4iwq_A_rec/mol_05.sdf,4iwq_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 7 11 12 14 17 19
+output/svflow_core/4iwq_A_rec/mol_06.sdf,4iwq_A_rec,mol_06,39.01453561533804,11.371124458099757,27.643411157238283,0.29626138098173516,12,0,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_07.sdf,4iwq_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 7 9 10 11
+output/svflow_core/4iwq_A_rec/mol_08.sdf,4iwq_A_rec,mol_08,84.46873426751254,38.25134263242909,46.21739163508345,0.8089886014103771,9,0,0,-1,success,
+output/svflow_core/4iwq_A_rec/mol_09.sdf,4iwq_A_rec,mol_09,110.42417867789683,-34.37344390703103,144.79762258492786,0.5717353669073476,17,9,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_00.sdf,4ja8_B_rec,mol_00,360.65526664721426,20.868914697222294,339.78635194999197,2.6383731912620014,26,8,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_01.sdf,4ja8_B_rec,mol_01,698.803572586228,61.04459238769712,637.7589801985309,1.7970580953854363,27,7,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_02.sdf,4ja8_B_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 6 13 17 18 20 24
+output/svflow_core/4ja8_B_rec/mol_03.sdf,4ja8_B_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 26 C, 5, is greater than permitted"
+output/svflow_core/4ja8_B_rec/mol_04.sdf,4ja8_B_rec,mol_04,1711.8735459834418,106.31067655246314,1605.5628694309787,1.777847015903873,30,18,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_05.sdf,4ja8_B_rec,mol_05,1557.687372323955,81.52159918077946,1476.1657731431756,1.4345693158614905,35,30,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_06.sdf,4ja8_B_rec,mol_06,477.2740699712349,48.38906148234287,428.885008488892,2.280321416730611,28,11,1,-1,success,
+output/svflow_core/4ja8_B_rec/mol_07.sdf,4ja8_B_rec,mol_07,1309.145718455376,107.09379117419101,1202.051927281185,1.6046563142745185,30,22,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_08.sdf,4ja8_B_rec,mol_08,657.6780346647395,49.08088897661681,608.5971456881226,1.8448388567981155,30,24,0,-1,success,
+output/svflow_core/4ja8_B_rec/mol_09.sdf,4ja8_B_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 13 N, 4, is greater than permitted"
+output/svflow_core/4kcq_A_rec/mol_00.sdf,4kcq_A_rec,mol_00,456.264378914334,-22.897686393927906,479.1620653082619,1.5517738486951798,22,10,1,-1,success,
+output/svflow_core/4kcq_A_rec/mol_01.sdf,4kcq_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 6 9 24
+output/svflow_core/4kcq_A_rec/mol_02.sdf,4kcq_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 11 O, 3, is greater than permitted"
+output/svflow_core/4kcq_A_rec/mol_03.sdf,4kcq_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 2 11 13 15
+output/svflow_core/4kcq_A_rec/mol_04.sdf,4kcq_A_rec,mol_04,27.709278326223075,-13.444960493085091,41.15423881930816,0.4318414316392572,9,0,0,-1,success,
+output/svflow_core/4kcq_A_rec/mol_05.sdf,4kcq_A_rec,mol_05,167.16987877706674,3.255469515786224,163.91440926128053,0.4492440122699587,10,0,0,-1,success,
+output/svflow_core/4kcq_A_rec/mol_06.sdf,4kcq_A_rec,mol_06,87.88737537494285,-3.456701689191238,91.34407706413408,0.6170204053587599,12,3,0,-1,success,
+output/svflow_core/4kcq_A_rec/mol_07.sdf,4kcq_A_rec,mol_07,164.78268871493157,-2.828740215888951,167.61142893082052,0.5368419808278362,19,4,0,-1,success,
+output/svflow_core/4kcq_A_rec/mol_08.sdf,4kcq_A_rec,mol_08,366.48568809445067,-58.24084903303531,424.726537127486,1.4278705126558875,19,5,2,-1,success,
+output/svflow_core/4kcq_A_rec/mol_09.sdf,4kcq_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 8 13 14 15 17
+output/svflow_core/4keu_A_rec/mol_00.sdf,4keu_A_rec,mol_00,777.3425855574533,17.38623154220115,759.9563540152521,0.47447570415652296,18,3,0,-1,success,
+output/svflow_core/4keu_A_rec/mol_01.sdf,4keu_A_rec,mol_01,2550.3977231009094,77.95924880317443,2472.438474297735,1.5655452541447938,21,29,1,-1,success,
+output/svflow_core/4keu_A_rec/mol_02.sdf,4keu_A_rec,mol_02,67.64085391759187,6.107876615411642,61.53297730218023,0.33330610079635364,12,2,0,-1,success,
+output/svflow_core/4keu_A_rec/mol_03.sdf,4keu_A_rec,mol_03,32.51886973864201,-12.030061036072677,44.54893077471469,0.6919037998580945,11,3,0,-1,success,
+output/svflow_core/4keu_A_rec/mol_04.sdf,4keu_A_rec,mol_04,179.01608682492815,-16.90334128592962,195.91942811085778,2.0707705625787223,15,6,0,-1,success,
+output/svflow_core/4keu_A_rec/mol_05.sdf,4keu_A_rec,mol_05,374.22980914169955,69.5855335208513,304.64427562084825,0.48441782844242154,22,9,0,-1,success,
+output/svflow_core/4keu_A_rec/mol_06.sdf,4keu_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 2 4 5 6 7 10
+output/svflow_core/4keu_A_rec/mol_07.sdf,4keu_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 7 C, 5, is greater than permitted"
+output/svflow_core/4keu_A_rec/mol_08.sdf,4keu_A_rec,mol_08,,,,,0,0,0,0,error,"Explicit valence for atom # 9 C, 5, is greater than permitted"
+output/svflow_core/4keu_A_rec/mol_09.sdf,4keu_A_rec,mol_09,397.44681357938543,56.38742483259229,341.05938874679316,1.7656118391219713,18,6,1,-1,success,
+output/svflow_core/4lfu_A_rec/mol_00.sdf,4lfu_A_rec,mol_00,65.77466429352842,18.00474381281402,47.7699204807144,0.15314023239576374,15,0,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_01.sdf,4lfu_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 3 12 15
+output/svflow_core/4lfu_A_rec/mol_02.sdf,4lfu_A_rec,mol_02,331.7610665371249,-74.31939960064068,406.0804661377656,0.6816356749834243,15,4,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_03.sdf,4lfu_A_rec,mol_03,44.80112619144175,-27.816951794091022,72.61807798553278,0.7621297180215802,9,0,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_04.sdf,4lfu_A_rec,mol_04,149.40469943016853,29.827625230925708,119.57707419924283,1.5868384469524377,13,3,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_05.sdf,4lfu_A_rec,mol_05,28.266154757530966,-0.4440941752256471,28.710248932756613,0.3707554811086856,9,1,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_06.sdf,4lfu_A_rec,mol_06,40.36754928584945,-0.41048302844902285,40.77803231429847,0.4538903659427542,9,1,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_07.sdf,4lfu_A_rec,mol_07,5233.420677330062,-74.81069454689239,5308.231371876955,0.6913986435076505,18,11,6,-1,success,
+output/svflow_core/4lfu_A_rec/mol_08.sdf,4lfu_A_rec,mol_08,110.59082171317893,-22.781954179629217,133.37277589280814,0.582761565818865,10,2,0,-1,success,
+output/svflow_core/4lfu_A_rec/mol_09.sdf,4lfu_A_rec,mol_09,163.48707020265698,41.71504631220688,121.7720238904501,0.9527532338079838,11,3,0,-1,success,
+output/svflow_core/4m7t_A_rec/mol_00.sdf,4m7t_A_rec,mol_00,184.2080203329527,64.70812073298569,119.49989959996702,0.39194341777413333,21,10,0,-1,success,
+output/svflow_core/4m7t_A_rec/mol_01.sdf,4m7t_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 8 C, 5, is greater than permitted"
+output/svflow_core/4m7t_A_rec/mol_02.sdf,4m7t_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 2 C, 5, is greater than permitted"
+output/svflow_core/4m7t_A_rec/mol_03.sdf,4m7t_A_rec,mol_03,214.2988658230213,70.59892765966214,143.69993816335915,1.179349165474598,17,1,3,-1,success,
+output/svflow_core/4m7t_A_rec/mol_04.sdf,4m7t_A_rec,mol_04,548.3808410532662,132.82806558593524,415.55277546733095,1.3975899796429236,24,10,0,-1,success,
+output/svflow_core/4m7t_A_rec/mol_05.sdf,4m7t_A_rec,mol_05,33742.37925086345,62.75259224699709,33679.62665861646,0.7818879151959233,22,14,0,-1,success,
+output/svflow_core/4m7t_A_rec/mol_06.sdf,4m7t_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 8 10 13 17 19
+output/svflow_core/4m7t_A_rec/mol_07.sdf,4m7t_A_rec,mol_07,,,,,28,0,0,0,error,"Pre-condition Violation
+	bad params pointer
+	Violation occurred on line 79 in file Code/ForceField/UFF/AngleBend.cpp
+	Failed Expression: at2Params
+	RDKIT: 2026.03.1
+	BOOST: 1_85
+"
+output/svflow_core/4m7t_A_rec/mol_08.sdf,4m7t_A_rec,mol_08,211.5942578901417,42.438218649057404,169.1560392410843,0.41715928424041765,21,1,1,-1,success,
+output/svflow_core/4m7t_A_rec/mol_09.sdf,4m7t_A_rec,mol_09,176.12366844912748,41.18062350170088,134.94304494742659,0.5721560984861732,20,4,2,-1,success,
+output/svflow_core/4p6p_A_rec/mol_00.sdf,4p6p_A_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 13 O, 4, is greater than permitted"
+output/svflow_core/4p6p_A_rec/mol_01.sdf,4p6p_A_rec,mol_01,32.033253766696106,-25.82553756849974,57.858791335195846,1.1687428803515585,11,5,0,-1,success,
+output/svflow_core/4p6p_A_rec/mol_02.sdf,4p6p_A_rec,mol_02,1803.6196560995058,-196.98343860524085,2000.6030947047466,2.1820347140206504,17,7,0,-1,success,
+output/svflow_core/4p6p_A_rec/mol_03.sdf,4p6p_A_rec,mol_03,136.93225802886695,35.17851858171049,101.75373944715646,0.9541419573291279,11,0,2,-1,success,
+output/svflow_core/4p6p_A_rec/mol_04.sdf,4p6p_A_rec,mol_04,209.66158996938088,-36.520137876193786,246.18172784557467,1.1364467232227664,10,4,1,-1,success,
+output/svflow_core/4p6p_A_rec/mol_05.sdf,4p6p_A_rec,mol_05,-77.46347846257119,-183.66127616438652,106.19779770181533,0.9523863487968423,11,1,2,-1,success,
+output/svflow_core/4p6p_A_rec/mol_06.sdf,4p6p_A_rec,mol_06,105.88643109472102,-179.49019961075126,285.3766307054723,1.5475027493165026,16,18,3,-1,success,
+output/svflow_core/4p6p_A_rec/mol_07.sdf,4p6p_A_rec,mol_07,237.18636165856793,-0.6310914846240436,237.81745314319198,0.5465188234543626,10,4,0,-1,success,
+output/svflow_core/4p6p_A_rec/mol_08.sdf,4p6p_A_rec,mol_08,91.0585643941242,32.059202917322835,58.99936147680137,0.8199354911819119,12,6,3,-1,success,
+output/svflow_core/4p6p_A_rec/mol_09.sdf,4p6p_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 7 P, 6, is greater than permitted"
+output/svflow_core/4pxz_A_rec/mol_00.sdf,4pxz_A_rec,mol_00,-10.901318215005347,-106.0887274965644,95.18740928155906,0.7485764741235318,22,4,1,-1,success,
+output/svflow_core/4pxz_A_rec/mol_01.sdf,4pxz_A_rec,mol_01,,,,,0,0,0,0,error,"Explicit valence for atom # 7 C, 5, is greater than permitted"
+output/svflow_core/4pxz_A_rec/mol_02.sdf,4pxz_A_rec,mol_02,137900.51672055759,,,,27,8,0,0,error,Cannot create force field for minimization
+output/svflow_core/4pxz_A_rec/mol_03.sdf,4pxz_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 5 C, 5, is greater than permitted"
+output/svflow_core/4pxz_A_rec/mol_04.sdf,4pxz_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 2 3 7 12 14 15
+output/svflow_core/4pxz_A_rec/mol_05.sdf,4pxz_A_rec,mol_05,247.0180387752265,40.193307047231514,206.824731727995,0.8746338605344246,23,2,0,-1,success,
+output/svflow_core/4pxz_A_rec/mol_06.sdf,4pxz_A_rec,mol_06,1344.733279373257,-7.545903849261725,1352.2791832225187,0.7370705323517615,27,9,4,-1,success,
+output/svflow_core/4pxz_A_rec/mol_07.sdf,4pxz_A_rec,mol_07,3.6173992367858716,-158.90793894161607,162.52533817840194,1.2872890536524602,26,2,0,-1,success,
+output/svflow_core/4pxz_A_rec/mol_08.sdf,4pxz_A_rec,mol_08,161607.85500689285,,,,25,8,0,0,error,Cannot create force field for minimization
+output/svflow_core/4pxz_A_rec/mol_09.sdf,4pxz_A_rec,mol_09,,,,,0,0,0,0,error,"Explicit valence for atom # 19 N, 4, is greater than permitted"
+output/svflow_core/4q8b_B_rec/mol_00.sdf,4q8b_B_rec,mol_00,33.9615800413974,-80.59361403784268,114.55519407924008,0.7387920194308646,16,3,1,-1,success,
+output/svflow_core/4q8b_B_rec/mol_01.sdf,4q8b_B_rec,mol_01,65.4681858796022,-11.17117865708327,76.63936453668548,0.2035617612089646,10,1,1,-1,success,
+output/svflow_core/4q8b_B_rec/mol_02.sdf,4q8b_B_rec,mol_02,268.64625372453077,60.38579495350797,208.2604587710228,0.38046571801077905,12,0,1,-1,success,
+output/svflow_core/4q8b_B_rec/mol_03.sdf,4q8b_B_rec,mol_03,47.880024614291514,16.887132635243912,30.992891979047602,0.24014976831113888,13,0,0,-1,success,
+output/svflow_core/4q8b_B_rec/mol_04.sdf,4q8b_B_rec,mol_04,1505.7228203128461,-22.47619603340623,1528.1990163462524,0.7449690991902924,9,4,0,-1,success,
+output/svflow_core/4q8b_B_rec/mol_05.sdf,4q8b_B_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 10 C, 6, is greater than permitted"
+output/svflow_core/4q8b_B_rec/mol_06.sdf,4q8b_B_rec,mol_06,214.30389658471768,45.883918985873876,168.4199775988438,0.6508522572393716,18,7,2,-1,success,
+output/svflow_core/4q8b_B_rec/mol_07.sdf,4q8b_B_rec,mol_07,58.312354068962236,32.71406549776131,25.598288571200925,0.636931139634083,13,0,1,-1,success,
+output/svflow_core/4q8b_B_rec/mol_08.sdf,4q8b_B_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 4 5 7 8 10 12
+output/svflow_core/4q8b_B_rec/mol_09.sdf,4q8b_B_rec,mol_09,163.1509311566811,17.05532623837443,146.0956049183067,0.49435183136456146,9,3,0,-1,success,
+output/svflow_core/4qlk_A_rec/mol_00.sdf,4qlk_A_rec,mol_00,593.206412000626,23.643046875869185,569.5633651247567,2.0652276656898665,28,13,2,-1,success,
+output/svflow_core/4qlk_A_rec/mol_01.sdf,4qlk_A_rec,mol_01,1189.5091402297203,210.28532361129103,979.2238166184293,1.265910951096072,38,14,6,-1,success,
+output/svflow_core/4qlk_A_rec/mol_02.sdf,4qlk_A_rec,mol_02,408.16984613581985,76.08740998130511,332.08243615451477,0.6166941493651045,29,18,0,-1,success,
+output/svflow_core/4qlk_A_rec/mol_03.sdf,4qlk_A_rec,mol_03,243.2692330090866,101.87838823983239,141.39084476925422,0.8634832066434874,26,9,1,-1,success,
+output/svflow_core/4qlk_A_rec/mol_04.sdf,4qlk_A_rec,mol_04,693.5736457694298,10.036994488654024,683.5366512807758,0.5668263025589536,25,21,1,-1,success,
+output/svflow_core/4qlk_A_rec/mol_05.sdf,4qlk_A_rec,mol_05,,,,,0,0,0,0,error,"Explicit valence for atom # 3 O, 3, is greater than permitted"
+output/svflow_core/4qlk_A_rec/mol_06.sdf,4qlk_A_rec,mol_06,428.04195470687006,-35.92618508989199,463.96813979676205,2.0379391031195526,32,10,0,-1,success,
+output/svflow_core/4qlk_A_rec/mol_07.sdf,4qlk_A_rec,mol_07,149.09798795260582,-3.950971462817324,153.04895941542316,0.935840741620778,23,3,0,-1,success,
+output/svflow_core/4qlk_A_rec/mol_08.sdf,4qlk_A_rec,mol_08,161.66213821631018,47.96190312775413,113.70023508855606,0.30734297022348633,26,4,3,-1,success,
+output/svflow_core/4qlk_A_rec/mol_09.sdf,4qlk_A_rec,mol_09,602.1270183595486,9.306932945966844,592.8200854135818,1.1359652684917048,24,11,1,-1,success,
+output/svflow_core/4rlu_A_rec/mol_00.sdf,4rlu_A_rec,mol_00,55.65409307340328,-35.797573058457196,91.45166613186048,0.17424874962202622,17,0,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_01.sdf,4rlu_A_rec,mol_01,408.45742709299896,33.719296480609,374.73813061238997,0.37466884546594115,20,6,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_02.sdf,4rlu_A_rec,mol_02,451.21064648727884,86.84111005248934,364.3695364347895,0.9152393288547223,20,4,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_03.sdf,4rlu_A_rec,mol_03,196.6365603913173,72.41964909950642,124.21691129181087,0.4522858916283761,16,3,1,-1,success,
+output/svflow_core/4rlu_A_rec/mol_04.sdf,4rlu_A_rec,mol_04,310.5007318104971,30.363304055566065,280.137427754931,1.1187123617823955,20,10,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_05.sdf,4rlu_A_rec,mol_05,253.21368319823955,18.813975068847107,234.39970812939245,0.5547841364502458,18,4,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_06.sdf,4rlu_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 4 5 8 11 12 16
+output/svflow_core/4rlu_A_rec/mol_07.sdf,4rlu_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 6 7 10 20 29 30
+output/svflow_core/4rlu_A_rec/mol_08.sdf,4rlu_A_rec,mol_08,105.05720001921708,-40.88381758100802,145.9410176002251,1.3086118807312377,18,3,0,-1,success,
+output/svflow_core/4rlu_A_rec/mol_09.sdf,4rlu_A_rec,mol_09,90.75795586937866,-45.90400579163397,136.66196166101264,1.8861099083422237,17,2,2,-1,success,
+output/svflow_core/4rn0_B_rec/mol_00.sdf,4rn0_B_rec,mol_00,26.69942246859644,-12.84895957452199,39.54838204311843,0.464940556870277,9,1,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_01.sdf,4rn0_B_rec,mol_01,-108.01832117955693,-211.22265989157464,103.2043387120177,0.6629111770994605,9,2,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_02.sdf,4rn0_B_rec,mol_02,94.00182544189948,-1.0136677369943454,95.01549317889383,0.36284145791653605,6,0,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_03.sdf,4rn0_B_rec,mol_03,18.502290336755955,-26.3470952762543,44.849385613010256,0.5163957743707648,7,2,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_04.sdf,4rn0_B_rec,mol_04,203.36475975871778,-21.138359408779795,224.50311916749757,0.5419404597216072,19,6,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_05.sdf,4rn0_B_rec,mol_05,18.895633493701496,-127.3257186932859,146.22135218698742,0.680333456198482,9,0,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_06.sdf,4rn0_B_rec,mol_06,465.4962928671954,69.5547497506389,395.9415431165565,0.3650100174225433,19,10,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_07.sdf,4rn0_B_rec,mol_07,15.700328965953219,-100.25378520164368,115.9541141675969,0.2210423718617703,10,0,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_08.sdf,4rn0_B_rec,mol_08,120.3660019121085,-13.889857288315097,134.2558592004236,0.5941752790621799,9,1,0,-1,success,
+output/svflow_core/4rn0_B_rec/mol_09.sdf,4rn0_B_rec,mol_09,-12.418052897493753,-27.286388584266028,14.868335686772275,0.3179435225117134,6,0,0,-1,success,
+output/svflow_core/4rv4_A_rec/mol_00.sdf,4rv4_A_rec,mol_00,-233.15943671996968,-326.83848609515604,93.67904937518637,0.3924931806902514,19,1,3,-1,success,
+output/svflow_core/4rv4_A_rec/mol_01.sdf,4rv4_A_rec,mol_01,136.4288269017796,42.96055106972873,93.46827583205086,0.6905428770514936,11,1,1,-1,success,
+output/svflow_core/4rv4_A_rec/mol_02.sdf,4rv4_A_rec,mol_02,73.7276095593418,-151.92898393314977,225.65659349249157,1.165702139165246,18,11,0,-1,success,
+output/svflow_core/4rv4_A_rec/mol_03.sdf,4rv4_A_rec,mol_03,86.40661040033143,-79.46935925209414,165.87596965242557,0.42332362601172574,11,1,0,-1,success,
+output/svflow_core/4rv4_A_rec/mol_04.sdf,4rv4_A_rec,mol_04,102.53378263108885,22.621687574197775,79.91209505689108,1.1607854498148145,11,2,1,-1,success,
+output/svflow_core/4rv4_A_rec/mol_05.sdf,4rv4_A_rec,mol_05,-74.21268636409087,-317.56941998157737,243.3567336174865,1.0402165130319483,18,2,1,-1,success,
+output/svflow_core/4rv4_A_rec/mol_06.sdf,4rv4_A_rec,mol_06,-56.390602618100985,-297.43288387774754,241.04228125964656,1.2860552161431764,19,1,1,-1,success,
+output/svflow_core/4rv4_A_rec/mol_07.sdf,4rv4_A_rec,mol_07,542.7143549223424,29.184453508479532,513.5299014138628,2.429742215823516,19,10,5,-1,success,
+output/svflow_core/4rv4_A_rec/mol_08.sdf,4rv4_A_rec,mol_08,32.93763695709606,-138.53212944945338,171.46976640654944,1.7294522823660483,18,5,5,-1,success,
+output/svflow_core/4rv4_A_rec/mol_09.sdf,4rv4_A_rec,mol_09,121.12598979354382,-209.58224003618216,330.70822982972595,0.5023189586784884,13,0,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_00.sdf,4tos_A_rec,mol_00,256.85166971894773,0.0806968364377898,256.77097288250997,0.94104149396643,28,8,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_01.sdf,4tos_A_rec,mol_01,651.9115325907023,91.96729529937473,559.9442372913276,0.8216248561359532,28,15,1,-1,success,
+output/svflow_core/4tos_A_rec/mol_02.sdf,4tos_A_rec,mol_02,1064.2533359556076,-11.758113666911536,1076.0114496225192,1.3718522301173632,22,8,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_03.sdf,4tos_A_rec,mol_03,235.48969022476808,9.769522388518523,225.72016783624957,0.7360766194770973,23,1,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_04.sdf,4tos_A_rec,mol_04,282.7804789390407,-25.204171146682384,307.98465008572305,0.9662655796962941,20,1,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_05.sdf,4tos_A_rec,mol_05,287.701764506958,96.07045465668733,191.63130985027067,0.8590765163842097,25,7,1,-1,success,
+output/svflow_core/4tos_A_rec/mol_06.sdf,4tos_A_rec,mol_06,256.9936553722393,75.60515502025201,181.38850035198726,0.48143067956980784,27,1,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_07.sdf,4tos_A_rec,mol_07,217.25556096532915,37.37220476045551,179.88335620487365,0.999967253085412,26,6,6,-1,success,
+output/svflow_core/4tos_A_rec/mol_08.sdf,4tos_A_rec,mol_08,299.357194945816,-29.57341120074725,328.93060614656326,0.7324105465756251,27,10,0,-1,success,
+output/svflow_core/4tos_A_rec/mol_09.sdf,4tos_A_rec,mol_09,123.49174034002748,-32.52105178507698,156.01279212510445,0.8405556154475813,25,0,1,-1,success,
+output/svflow_core/4tqr_A_rec/mol_00.sdf,4tqr_A_rec,mol_00,45.97965025528909,-14.220608023696693,60.20025827898578,1.1777024866384325,8,1,1,-1,success,
+output/svflow_core/4tqr_A_rec/mol_01.sdf,4tqr_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 8
+output/svflow_core/4tqr_A_rec/mol_02.sdf,4tqr_A_rec,mol_02,173.3731470528947,-61.037705754553016,234.41085280744772,0.7941341143030105,10,0,2,-1,success,
+output/svflow_core/4tqr_A_rec/mol_03.sdf,4tqr_A_rec,mol_03,-0.22861128733787695,-61.238337702340154,61.00972641500228,0.5511145443083134,10,2,0,-1,success,
+output/svflow_core/4tqr_A_rec/mol_04.sdf,4tqr_A_rec,mol_04,164.27044644889918,106.08797085656508,58.1824755923341,0.8863662476073225,10,0,1,-1,success,
+output/svflow_core/4tqr_A_rec/mol_05.sdf,4tqr_A_rec,mol_05,91.48950261086308,-23.872199634824426,115.36170224568751,0.732728263156475,9,3,2,-1,success,
+output/svflow_core/4tqr_A_rec/mol_06.sdf,4tqr_A_rec,mol_06,-75.14377972190672,-141.7749185148129,66.63113879290617,1.6265276720332351,14,4,3,-1,success,
+output/svflow_core/4tqr_A_rec/mol_07.sdf,4tqr_A_rec,mol_07,184.49359576882716,7.0454701182015675,177.4481256506256,1.4643602043116137,13,6,4,-1,success,
+output/svflow_core/4tqr_A_rec/mol_08.sdf,4tqr_A_rec,mol_08,-94.62475369874575,-153.15973819776923,58.53498449902348,1.172776749797529,9,2,1,-1,success,
+output/svflow_core/4tqr_A_rec/mol_09.sdf,4tqr_A_rec,mol_09,342.2335840173441,-2.0335184662675196,344.26710248361167,0.7689609937726226,12,3,1,-1,success,
+output/svflow_core/4u5s_A_rec/mol_00.sdf,4u5s_A_rec,mol_00,416.3272318471619,40.2683089789988,376.0589228681631,0.7419356272346508,12,5,1,-1,success,
+output/svflow_core/4u5s_A_rec/mol_01.sdf,4u5s_A_rec,mol_01,38.527041065485456,10.859978398594063,27.667062666891393,0.29682436967806747,10,2,0,-1,success,
+output/svflow_core/4u5s_A_rec/mol_02.sdf,4u5s_A_rec,mol_02,128.87006872261531,76.71768485383679,52.15238386877853,0.7700946784879861,13,1,1,-1,success,
+output/svflow_core/4u5s_A_rec/mol_03.sdf,4u5s_A_rec,mol_03,275.235196269589,16.737784868929296,258.4974114006597,1.1328241199858862,14,1,0,-1,success,
+output/svflow_core/4u5s_A_rec/mol_04.sdf,4u5s_A_rec,mol_04,305.3449523811065,59.17089958339228,246.17405279771424,0.8473242450647969,12,6,0,-1,success,
+output/svflow_core/4u5s_A_rec/mol_05.sdf,4u5s_A_rec,mol_05,37.22641500478963,-18.464657448750625,55.69107245354026,0.6020214466380862,10,1,1,-1,success,
+output/svflow_core/4u5s_A_rec/mol_06.sdf,4u5s_A_rec,mol_06,39.637704888259044,10.140548461159685,29.49715642709936,0.9188350733937374,10,4,3,-1,success,
+output/svflow_core/4u5s_A_rec/mol_07.sdf,4u5s_A_rec,mol_07,108.08752248669883,2.7101988684955907,105.37732361820323,0.9753196738753018,10,4,0,-1,success,
+output/svflow_core/4u5s_A_rec/mol_08.sdf,4u5s_A_rec,mol_08,92.8928948212562,10.286840286855947,82.60605453440026,1.1637199023723654,11,6,3,-1,success,
+output/svflow_core/4u5s_A_rec/mol_09.sdf,4u5s_A_rec,mol_09,388.15911080525905,41.687246487607965,346.47186431765107,1.0785683035662892,11,7,1,-1,success,
+output/svflow_core/4xli_B_rec/mol_00.sdf,4xli_B_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 11 14 17
+output/svflow_core/4xli_B_rec/mol_01.sdf,4xli_B_rec,mol_01,732.2638733416072,-19.6840500874427,751.94792342905,0.2735775664775236,25,1,1,-1,success,
+output/svflow_core/4xli_B_rec/mol_02.sdf,4xli_B_rec,mol_02,98.69832550281157,2.2254173629559837,96.47290813985559,0.4115104237102722,11,0,0,-1,success,
+output/svflow_core/4xli_B_rec/mol_03.sdf,4xli_B_rec,mol_03,158.39670225153768,65.19117347623619,93.20552877530149,0.5172617763616185,22,0,0,-1,success,
+output/svflow_core/4xli_B_rec/mol_04.sdf,4xli_B_rec,mol_04,53.165931079658954,-5.342953626641462,58.508884706300414,0.31306419624684606,10,0,0,-1,success,
+output/svflow_core/4xli_B_rec/mol_05.sdf,4xli_B_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 2 8 10 11 12 14 16 17 19 22 24 27
+output/svflow_core/4xli_B_rec/mol_06.sdf,4xli_B_rec,mol_06,431.672260558727,37.84562052015998,393.826640038567,0.690338502655376,25,5,1,-1,success,
+output/svflow_core/4xli_B_rec/mol_07.sdf,4xli_B_rec,mol_07,321.9474341224283,53.87618854497748,268.07124557745084,0.4890712982260472,20,6,1,-1,success,
+output/svflow_core/4xli_B_rec/mol_08.sdf,4xli_B_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 4 11 14 17 18 22
+output/svflow_core/4xli_B_rec/mol_09.sdf,4xli_B_rec,mol_09,1.4340357124730012,-22.9358486806079,24.369884393080902,0.2599295228775611,11,0,0,-1,success,
+output/svflow_core/4yhj_A_rec/mol_00.sdf,4yhj_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 2 3 10 19 20 21 24 25
+output/svflow_core/4yhj_A_rec/mol_01.sdf,4yhj_A_rec,mol_01,4.501009924883903,-75.96597021756335,80.46698014244726,1.6366261723660558,22,1,0,-1,success,
+output/svflow_core/4yhj_A_rec/mol_02.sdf,4yhj_A_rec,mol_02,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 10 12 14 15 18 23
+output/svflow_core/4yhj_A_rec/mol_03.sdf,4yhj_A_rec,mol_03,,,,,0,0,0,0,error,"Explicit valence for atom # 8 C, 5, is greater than permitted"
+output/svflow_core/4yhj_A_rec/mol_04.sdf,4yhj_A_rec,mol_04,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 6 8 20 21 24
+output/svflow_core/4yhj_A_rec/mol_05.sdf,4yhj_A_rec,mol_05,194.83212035046168,-54.06844504835415,248.90056539881584,0.5366507812303637,19,6,1,-1,success,
+output/svflow_core/4yhj_A_rec/mol_06.sdf,4yhj_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 4 14 16 17
+output/svflow_core/4yhj_A_rec/mol_07.sdf,4yhj_A_rec,mol_07,469.68895605560465,-32.07541163690358,501.76436769250824,0.7905366250414829,26,3,0,-1,success,
+output/svflow_core/4yhj_A_rec/mol_08.sdf,4yhj_A_rec,mol_08,-189.6087045583221,-244.6989782942363,55.090273735914195,1.2982506369492823,25,2,0,-1,success,
+output/svflow_core/4yhj_A_rec/mol_09.sdf,4yhj_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 7 18 19
+output/svflow_core/4z2g_A_rec/mol_00.sdf,4z2g_A_rec,mol_00,986.514990585149,28.54472720639244,957.9702633787566,2.1240384591247583,26,17,2,-1,success,
+output/svflow_core/4z2g_A_rec/mol_01.sdf,4z2g_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 14 21 22 30
+output/svflow_core/4z2g_A_rec/mol_02.sdf,4z2g_A_rec,mol_02,347.2678500623442,150.52987810619345,196.73797195615077,3.2591050024903185,28,6,2,-1,success,
+output/svflow_core/4z2g_A_rec/mol_03.sdf,4z2g_A_rec,mol_03,691.2646940851396,8.7010183319373,682.5636757532022,0.9046737067784988,28,6,0,-1,success,
+output/svflow_core/4z2g_A_rec/mol_04.sdf,4z2g_A_rec,mol_04,668.3110636425389,202.86991865047634,465.44114499206256,0.851606595773808,33,5,2,-1,success,
+output/svflow_core/4z2g_A_rec/mol_05.sdf,4z2g_A_rec,mol_05,426.19423047994917,152.60838962752882,273.58584085242035,1.925441294262737,30,11,1,-1,success,
+output/svflow_core/4z2g_A_rec/mol_06.sdf,4z2g_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 10 11 15
+output/svflow_core/4z2g_A_rec/mol_07.sdf,4z2g_A_rec,mol_07,389.1594656417438,100.40837846417458,288.7510871775692,0.6516144243257627,20,3,2,-1,success,
+output/svflow_core/4z2g_A_rec/mol_08.sdf,4z2g_A_rec,mol_08,1564.0141209620058,93.7773698884906,1470.2367510735153,0.7399755279650634,40,12,2,-1,success,
+output/svflow_core/4z2g_A_rec/mol_09.sdf,4z2g_A_rec,mol_09,579.9869841295277,49.192415258476416,530.7945688710513,3.204539159023199,34,11,4,-1,success,
+output/svflow_core/4zfa_A_rec/mol_00.sdf,4zfa_A_rec,mol_00,90.40074432966975,21.717210070864592,68.68353425880515,1.5360589260672353,18,2,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_01.sdf,4zfa_A_rec,mol_01,165.7175523957251,9.850468130984638,155.86708426474047,1.14799825675894,19,2,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_02.sdf,4zfa_A_rec,mol_02,541.6311620957354,34.323612067333215,507.30755002840215,2.2378833648508962,19,5,1,-1,success,
+output/svflow_core/4zfa_A_rec/mol_03.sdf,4zfa_A_rec,mol_03,136.79378897790673,40.54331989860408,96.25046907930265,1.0704106170370495,21,1,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_04.sdf,4zfa_A_rec,mol_04,102.88173312681307,32.66984357553836,70.21188955127471,3.755932769894562,18,2,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_05.sdf,4zfa_A_rec,mol_05,379.54074119791414,78.74750043682423,300.7932407610899,2.0686470378281863,30,8,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_06.sdf,4zfa_A_rec,mol_06,200.4692308796082,47.18587006345931,153.2833608161489,1.0973487869169019,23,3,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_07.sdf,4zfa_A_rec,mol_07,75.9164827341727,23.798223646836703,52.118259087336,0.4353692314237289,18,1,0,-1,success,
+output/svflow_core/4zfa_A_rec/mol_08.sdf,4zfa_A_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 4 5 12 18
+output/svflow_core/4zfa_A_rec/mol_09.sdf,4zfa_A_rec,mol_09,429.1443272792171,26.600842252623075,402.54348502659406,1.2593052647927938,21,3,0,-1,success,
+output/svflow_core/5aeh_A_rec/mol_00.sdf,5aeh_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 6 26 27 29
+output/svflow_core/5aeh_A_rec/mol_01.sdf,5aeh_A_rec,mol_01,348.4847163959553,70.84119891599363,277.64351747996164,2.672157687683737,20,9,4,-1,success,
+output/svflow_core/5aeh_A_rec/mol_02.sdf,5aeh_A_rec,mol_02,34.325749094814526,-34.348605293173314,68.67435438798785,0.3898990641470319,16,2,0,-1,success,
+output/svflow_core/5aeh_A_rec/mol_03.sdf,5aeh_A_rec,mol_03,166.33222119267973,64.83980233866103,101.4924188540187,0.569736043157828,21,1,1,-1,success,
+output/svflow_core/5aeh_A_rec/mol_04.sdf,5aeh_A_rec,mol_04,532.5994226820917,,,,20,2,0,0,error,Cannot create force field for minimization
+output/svflow_core/5aeh_A_rec/mol_05.sdf,5aeh_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 3 8 9 10
+output/svflow_core/5aeh_A_rec/mol_06.sdf,5aeh_A_rec,mol_06,159.67392996633586,7.41238312923163,152.26154683710422,1.0236984985463093,15,1,0,-1,success,
+output/svflow_core/5aeh_A_rec/mol_07.sdf,5aeh_A_rec,mol_07,457.3691215621089,-13.601167715417596,470.9702892775265,0.5795814455618261,16,4,0,-1,success,
+output/svflow_core/5aeh_A_rec/mol_08.sdf,5aeh_A_rec,mol_08,62.10303161252709,-66.94403976195093,129.04707137447804,0.5580458058181794,18,2,0,-1,success,
+output/svflow_core/5aeh_A_rec/mol_09.sdf,5aeh_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 4 5 10 13 14 17
+output/svflow_core/5b08_A_rec/mol_00.sdf,5b08_A_rec,mol_00,170.65894893067866,6.541673804284249,164.11727512639442,1.1224595772904744,12,4,0,-1,success,
+output/svflow_core/5b08_A_rec/mol_01.sdf,5b08_A_rec,mol_01,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 5 7 8 9 11 13 14 16 17 18
+output/svflow_core/5b08_A_rec/mol_02.sdf,5b08_A_rec,mol_02,435.37071816548337,47.59246962316493,387.77824854231847,0.5005845211898451,10,0,0,-1,success,
+output/svflow_core/5b08_A_rec/mol_03.sdf,5b08_A_rec,mol_03,569.0992617866201,0.10681046451102993,568.9924513221091,0.7815528807777944,14,12,0,-1,success,
+output/svflow_core/5b08_A_rec/mol_04.sdf,5b08_A_rec,mol_04,172.49599392313525,-11.68219390960672,184.17818783274197,0.5489281396175841,13,2,1,-1,success,
+output/svflow_core/5b08_A_rec/mol_05.sdf,5b08_A_rec,mol_05,35.174466776899706,7.6509660517116025,27.523500725188104,0.20564847394410185,11,0,0,-1,success,
+output/svflow_core/5b08_A_rec/mol_06.sdf,5b08_A_rec,mol_06,456.490515616993,77.71195701744522,378.77855859954775,0.8215323636220008,18,3,1,-1,success,
+output/svflow_core/5b08_A_rec/mol_07.sdf,5b08_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 13 C, 5, is greater than permitted"
+output/svflow_core/5b08_A_rec/mol_08.sdf,5b08_A_rec,mol_08,139.458289624602,-14.095791895006982,153.55408151960899,1.827518081469183,13,13,0,-1,success,
+output/svflow_core/5b08_A_rec/mol_09.sdf,5b08_A_rec,mol_09,-5.978767308531651,-42.94378643274298,36.96501912421133,0.37105397860646927,7,1,0,-1,success,
+output/svflow_core/5bur_A_rec/mol_00.sdf,5bur_A_rec,mol_00,170.44051085122007,-234.0476589242037,404.4881697754238,1.9291073552938867,24,4,3,-1,success,
+output/svflow_core/5bur_A_rec/mol_01.sdf,5bur_A_rec,mol_01,272.09862436584945,-201.96888488470498,474.0675092505544,0.8571444075291631,23,9,0,-1,success,
+output/svflow_core/5bur_A_rec/mol_02.sdf,5bur_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 18 C, 5, is greater than permitted"
+output/svflow_core/5bur_A_rec/mol_03.sdf,5bur_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 6 8 9 16 23
+output/svflow_core/5bur_A_rec/mol_04.sdf,5bur_A_rec,mol_04,564.3680883695208,62.40524267766742,501.96284569185343,0.9690684850331935,23,2,2,-1,success,
+output/svflow_core/5bur_A_rec/mol_05.sdf,5bur_A_rec,mol_05,230.0196676229385,-52.331467291691574,282.35113491463005,1.2051374350947472,16,6,0,-1,success,
+output/svflow_core/5bur_A_rec/mol_06.sdf,5bur_A_rec,mol_06,402.9513503303264,-75.78006362502335,478.73141395534975,1.2188621396514863,24,6,1,-1,success,
+output/svflow_core/5bur_A_rec/mol_07.sdf,5bur_A_rec,mol_07,126.88489307205661,-57.57888023265245,184.46377330470906,1.3001885994298548,22,2,2,-1,success,
+output/svflow_core/5bur_A_rec/mol_08.sdf,5bur_A_rec,mol_08,57.081531418524946,-320.48572009622046,377.5672515147454,2.074892462973572,26,7,2,-1,success,
+output/svflow_core/5bur_A_rec/mol_09.sdf,5bur_A_rec,mol_09,-88.71912926959432,-223.6391425258318,134.9200132562375,0.4582841657531797,16,2,0,-1,success,
+output/svflow_core/5d7n_D_rec/mol_00.sdf,5d7n_D_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 12 O, 3, is greater than permitted"
+output/svflow_core/5d7n_D_rec/mol_01.sdf,5d7n_D_rec,mol_01,184.12310121518922,61.89190250161464,122.23119871357459,0.8398334541828698,21,3,0,-1,success,
+output/svflow_core/5d7n_D_rec/mol_02.sdf,5d7n_D_rec,mol_02,134.76879122581713,-29.07810979994331,163.84690102576045,1.6148530759742805,22,9,4,-1,success,
+output/svflow_core/5d7n_D_rec/mol_03.sdf,5d7n_D_rec,mol_03,411.4708776063126,35.39064488408851,376.08023272222414,0.9131186238253316,20,2,0,-1,success,
+output/svflow_core/5d7n_D_rec/mol_04.sdf,5d7n_D_rec,mol_04,730.6045231199226,35.10453523706702,695.4999878828556,2.407063120530126,24,8,0,-1,success,
+output/svflow_core/5d7n_D_rec/mol_05.sdf,5d7n_D_rec,mol_05,48.081353498345166,-5.835925115061382,53.91727861340655,0.7907746100557369,12,1,0,-1,success,
+output/svflow_core/5d7n_D_rec/mol_06.sdf,5d7n_D_rec,mol_06,475.116329528919,80.48967066938624,394.62665885953277,1.093995861593469,18,0,1,-1,success,
+output/svflow_core/5d7n_D_rec/mol_07.sdf,5d7n_D_rec,mol_07,182.54031893692846,37.34312711708501,145.19719181984345,0.961575387983547,15,6,2,-1,success,
+output/svflow_core/5d7n_D_rec/mol_08.sdf,5d7n_D_rec,mol_08,,,,,0,0,0,0,error,"Explicit valence for atom # 20 N, 4, is greater than permitted"
+output/svflow_core/5d7n_D_rec/mol_09.sdf,5d7n_D_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 5 9 15 16 19
+output/svflow_core/5i0b_A_rec/mol_00.sdf,5i0b_A_rec,mol_00,442.16941000054203,2.6839330728593156,439.4854769276827,1.4574430805714038,13,9,0,-1,success,
+output/svflow_core/5i0b_A_rec/mol_01.sdf,5i0b_A_rec,mol_01,501.008011567113,-73.09547999505641,574.1034915621694,0.6093708455504613,22,8,1,-1,success,
+output/svflow_core/5i0b_A_rec/mol_02.sdf,5i0b_A_rec,mol_02,88.48735496861627,49.57228343966048,38.91507152895579,0.8596449623412532,17,3,1,-1,success,
+output/svflow_core/5i0b_A_rec/mol_03.sdf,5i0b_A_rec,mol_03,21.892333761849834,-13.586611703075178,35.47894546492501,0.26127802265891426,7,0,0,-1,success,
+output/svflow_core/5i0b_A_rec/mol_04.sdf,5i0b_A_rec,mol_04,75.99224921772924,-0.10072686783688312,76.09297608556612,0.4007232441294234,11,0,0,-1,success,
+output/svflow_core/5i0b_A_rec/mol_05.sdf,5i0b_A_rec,mol_05,1623.3243876028569,60.437300153955356,1562.8870874489014,0.8468862434316557,20,18,0,-1,success,
+output/svflow_core/5i0b_A_rec/mol_06.sdf,5i0b_A_rec,mol_06,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 5 9 16 17
+output/svflow_core/5i0b_A_rec/mol_07.sdf,5i0b_A_rec,mol_07,280.08082682482785,85.73118738995649,194.34963943487136,0.7408789051470303,22,8,1,-1,success,
+output/svflow_core/5i0b_A_rec/mol_08.sdf,5i0b_A_rec,mol_08,41.53441183497895,13.5981535667651,27.936258268213848,0.3357721183711865,10,0,0,-1,success,
+output/svflow_core/5i0b_A_rec/mol_09.sdf,5i0b_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 8 15 16 17 19 23
+output/svflow_core/5l1v_A_rec/mol_00.sdf,5l1v_A_rec,mol_00,494.102041608714,37.535266104587464,456.56677550412655,0.7989964613229324,11,5,0,-1,success,
+output/svflow_core/5l1v_A_rec/mol_01.sdf,5l1v_A_rec,mol_01,304.0947740101657,19.998255857477616,284.0965181526881,0.843018442185435,10,1,0,-1,success,
+output/svflow_core/5l1v_A_rec/mol_02.sdf,5l1v_A_rec,mol_02,,,,,0,0,0,0,error,"Explicit valence for atom # 20 N, 4, is greater than permitted"
+output/svflow_core/5l1v_A_rec/mol_03.sdf,5l1v_A_rec,mol_03,184.67895263659935,54.925971754948684,129.75298088165067,0.7554285278889223,20,1,0,-1,success,
+output/svflow_core/5l1v_A_rec/mol_04.sdf,5l1v_A_rec,mol_04,121.65919418411437,-3.1038414377557295,124.7630356218701,0.7918123325335757,15,1,0,-1,success,
+output/svflow_core/5l1v_A_rec/mol_05.sdf,5l1v_A_rec,mol_05,174.83050674987936,-10.141660890022333,184.9721676399017,0.5382812933669963,15,2,0,-1,success,
+output/svflow_core/5l1v_A_rec/mol_06.sdf,5l1v_A_rec,mol_06,157.48649476764263,37.80136343288942,119.68513133475321,0.6009573423907856,16,3,1,-1,success,
+output/svflow_core/5l1v_A_rec/mol_07.sdf,5l1v_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 11 C, 5, is greater than permitted"
+output/svflow_core/5l1v_A_rec/mol_08.sdf,5l1v_A_rec,mol_08,66.33335202759886,-58.635270145274696,124.96862217287355,0.4739121481624876,16,3,2,-1,success,
+output/svflow_core/5l1v_A_rec/mol_09.sdf,5l1v_A_rec,mol_09,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 2 6 9 11 19
+output/svflow_core/5liu_X_rec/mol_00.sdf,5liu_X_rec,mol_00,,,,,0,0,0,0,error,"Explicit valence for atom # 6 N, 4, is greater than permitted"
+output/svflow_core/5liu_X_rec/mol_01.sdf,5liu_X_rec,mol_01,12.01463198859446,-23.082519745501713,35.09715173409617,0.4223562659879121,11,0,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_02.sdf,5liu_X_rec,mol_02,76.16592155891296,7.1162259588607295,69.04969560005223,0.5511826553614785,11,0,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_03.sdf,5liu_X_rec,mol_03,86.63016283188861,-4.231963784522509,90.86212661641112,0.23288137995964775,16,2,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_04.sdf,5liu_X_rec,mol_04,43.181583347024144,24.08502895424021,19.096554392783933,0.24553384740458536,10,0,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_05.sdf,5liu_X_rec,mol_05,105.53691747292652,12.284835376981196,93.25208209594533,1.5438443913134685,10,1,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_06.sdf,5liu_X_rec,mol_06,58.62649401090455,-2.0451954283469114,60.671689439251466,0.5887047479696332,10,1,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_07.sdf,5liu_X_rec,mol_07,7887.521122934843,41.260647759500884,7846.260475175342,0.6920955203565928,17,30,1,-1,success,
+output/svflow_core/5liu_X_rec/mol_08.sdf,5liu_X_rec,mol_08,116.1693827946934,-40.65104829591206,156.82043109060547,0.45955219106129297,13,0,0,-1,success,
+output/svflow_core/5liu_X_rec/mol_09.sdf,5liu_X_rec,mol_09,0.5487196227042652,-10.790576183955801,11.339295806660067,0.12591756319784847,7,0,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_00.sdf,5mgl_A_rec,mol_00,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 4 6 7 8 9
+output/svflow_core/5mgl_A_rec/mol_01.sdf,5mgl_A_rec,mol_01,178.02571039961074,63.69708067176401,114.32862972784673,0.725077755238546,11,1,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_02.sdf,5mgl_A_rec,mol_02,31.22721337180827,-40.63809680205286,71.86531017386113,0.1817826357125329,6,0,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_03.sdf,5mgl_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 4 5
+output/svflow_core/5mgl_A_rec/mol_04.sdf,5mgl_A_rec,mol_04,59.8753434353964,26.094450263741066,33.780893171655336,0.9327464512672304,7,1,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_05.sdf,5mgl_A_rec,mol_05,14.909048953594882,7.3686090055810265,7.540439948013855,0.1449226922031186,4,1,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_06.sdf,5mgl_A_rec,mol_06,36.64857099172935,-21.243766438953756,57.89233743068311,0.20826592586387332,14,0,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_07.sdf,5mgl_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 3 4 8 10 11
+output/svflow_core/5mgl_A_rec/mol_08.sdf,5mgl_A_rec,mol_08,1334.111978965601,35.71343951174906,1298.398539453852,0.9637502163958346,11,10,0,-1,success,
+output/svflow_core/5mgl_A_rec/mol_09.sdf,5mgl_A_rec,mol_09,44.247488701561096,7.269302957951225,36.97818574360987,0.265124212723985,6,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_00.sdf,5mma_A_rec,mol_00,384.834058791737,34.908421796056516,349.92563699568046,0.7493138321339279,11,2,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_01.sdf,5mma_A_rec,mol_01,178.51092125057787,-24.704134285523253,203.21505553610112,0.8752865984942728,9,1,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_02.sdf,5mma_A_rec,mol_02,373.00736458255005,45.69624766795808,327.311116914592,0.7662220596540382,11,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_03.sdf,5mma_A_rec,mol_03,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 1 5 8 11 13
+output/svflow_core/5mma_A_rec/mol_04.sdf,5mma_A_rec,mol_04,193.54145109200178,16.03449811141799,177.50695298058378,0.3886902487400694,15,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_05.sdf,5mma_A_rec,mol_05,143.9246787087115,-6.988205296448852,150.91288400516035,0.41002639234031246,6,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_06.sdf,5mma_A_rec,mol_06,115.93880743135958,-43.84811440641601,159.7869218377756,0.4903867897390416,8,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_07.sdf,5mma_A_rec,mol_07,218.71850851678346,24.308285871360518,194.41022264542295,1.1484669191945653,11,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_08.sdf,5mma_A_rec,mol_08,321.191659712618,53.01716488271218,268.1744948299058,0.5741951891118203,16,0,0,-1,success,
+output/svflow_core/5mma_A_rec/mol_09.sdf,5mma_A_rec,mol_09,129.455076834305,-11.850669630456018,141.30574646476103,0.5679856226103339,11,0,1,-1,success,
+output/svflow_core/5ngz_A_rec/mol_00.sdf,5ngz_A_rec,mol_00,112.42295727915165,22.25833569815139,90.16462158100026,0.49948077493901305,16,4,0,-1,success,
+output/svflow_core/5ngz_A_rec/mol_01.sdf,5ngz_A_rec,mol_01,-24.079211757337255,-47.257286478561426,23.17807472122417,0.5974511294923335,8,0,0,-1,success,
+output/svflow_core/5ngz_A_rec/mol_02.sdf,5ngz_A_rec,mol_02,42.120006508825,22.518132183838905,19.601874324986095,0.0435886346098393,6,0,0,-1,success,
+output/svflow_core/5ngz_A_rec/mol_03.sdf,5ngz_A_rec,mol_03,229.09681070307124,-21.054783878289474,250.1515945813607,1.570270844278195,13,15,1,-1,success,
+output/svflow_core/5ngz_A_rec/mol_04.sdf,5ngz_A_rec,mol_04,48.76842854050611,21.288551129992438,27.47987741051367,0.6168427924896377,19,1,1,-1,success,
+output/svflow_core/5ngz_A_rec/mol_05.sdf,5ngz_A_rec,mol_05,484.114770223681,-15.238275608195051,499.35304583187605,1.003979853870016,11,9,0,-1,success,
+output/svflow_core/5ngz_A_rec/mol_06.sdf,5ngz_A_rec,mol_06,146.38317545370316,-25.770869704580157,172.1540451582833,0.9046625508264514,6,0,0,-1,success,
+output/svflow_core/5ngz_A_rec/mol_07.sdf,5ngz_A_rec,mol_07,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 4 6 8 9
+output/svflow_core/5ngz_A_rec/mol_08.sdf,5ngz_A_rec,mol_08,68.81858798234035,-136.0281430819565,204.84673106429685,1.9916979352115611,11,4,1,-1,success,
+output/svflow_core/5ngz_A_rec/mol_09.sdf,5ngz_A_rec,mol_09,124.18595962007203,37.90999957133855,86.27596004873348,0.9044585081877018,8,0,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_00.sdf,5q0k_A_rec,mol_00,354.45547517913553,-6.860956657183948,361.31643183631945,0.625633738186059,23,11,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_01.sdf,5q0k_A_rec,mol_01,145.7093231671231,42.38722257982525,103.32210058729785,1.154337988578338,20,4,2,-1,success,
+output/svflow_core/5q0k_A_rec/mol_02.sdf,5q0k_A_rec,mol_02,237.84714261914587,36.861120564080466,200.9860220550654,0.8561125803984644,20,4,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_03.sdf,5q0k_A_rec,mol_03,130.44394785355664,31.5203190955325,98.92362875802414,0.6326380710944951,25,3,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_04.sdf,5q0k_A_rec,mol_04,634.4792684600255,64.4316023669763,570.0476660930492,2.5314424240193176,26,13,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_05.sdf,5q0k_A_rec,mol_05,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 3 6 7 8 9 10 11 12 13 15 16 17 22
+output/svflow_core/5q0k_A_rec/mol_06.sdf,5q0k_A_rec,mol_06,150.93263746334523,12.732786110816797,138.19985135252844,2.384014319698644,24,1,0,-1,success,
+output/svflow_core/5q0k_A_rec/mol_07.sdf,5q0k_A_rec,mol_07,,,,,0,0,0,0,error,"Explicit valence for atom # 9 N, 4, is greater than permitted"
+output/svflow_core/5q0k_A_rec/mol_08.sdf,5q0k_A_rec,mol_08,,,,,0,0,0,0,error,Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 16
+output/svflow_core/5q0k_A_rec/mol_09.sdf,5q0k_A_rec,mol_09,246.7717946910858,41.610559196405625,205.16123549468017,0.7734006768870947,23,1,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_00.sdf,5tjn_A_rec,mol_00,80.56613243001367,33.78696048892115,46.779171941092514,1.6005948170411444,10,1,2,-1,success,
+output/svflow_core/5tjn_A_rec/mol_01.sdf,5tjn_A_rec,mol_01,37.12950023677031,4.363554828880735,32.765945407889575,0.2624223540493987,8,0,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_02.sdf,5tjn_A_rec,mol_02,119.4307057653913,-4.670151144380267,124.10085690977157,0.33304354880609094,11,0,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_03.sdf,5tjn_A_rec,mol_03,10.100107109924076,1.1548509196873353,8.94525619023674,0.2720269926371474,5,0,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_04.sdf,5tjn_A_rec,mol_04,,,,,0,0,0,0,error,"Explicit valence for atom # 3 N, 4, is greater than permitted"
+output/svflow_core/5tjn_A_rec/mol_05.sdf,5tjn_A_rec,mol_05,70.07409899818943,7.170970047372239,62.90312895081719,0.571964243219364,6,0,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_06.sdf,5tjn_A_rec,mol_06,122.89093673060802,28.862362608216614,94.0285741223914,1.0704938755297106,10,0,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_07.sdf,5tjn_A_rec,mol_07,80.73775405242176,15.732428073213631,65.00532597920814,0.4167785495601688,14,2,0,-1,success,
+output/svflow_core/5tjn_A_rec/mol_08.sdf,5tjn_A_rec,mol_08,132.27169889418587,3.039986870061595,129.23171202412428,1.3546274856415792,11,3,1,-1,success,
+output/svflow_core/5tjn_A_rec/mol_09.sdf,5tjn_A_rec,mol_09,117.59870778041852,33.43154444018444,84.16716334023408,0.8712550954192247,7,3,1,-1,success,
+output/svflow_core/5w2g_A_rec/mol_00.sdf,5w2g_A_rec,mol_00,678.75355185383,52.04349622816764,626.7100556256623,0.4050865614579534,20,9,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_01.sdf,5w2g_A_rec,mol_01,213.64904239855622,-38.767573913531166,252.4166163120874,2.431966521237333,21,3,4,-1,success,
+output/svflow_core/5w2g_A_rec/mol_02.sdf,5w2g_A_rec,mol_02,33.8586773889466,-0.48661624284729665,34.3452936317939,0.20045852280907334,9,1,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_03.sdf,5w2g_A_rec,mol_03,117.24620928770123,-58.55847321835982,175.80468250606106,0.9159144269402332,16,4,3,-1,success,
+output/svflow_core/5w2g_A_rec/mol_04.sdf,5w2g_A_rec,mol_04,4243.973745359721,-7.469775683553976,4251.443521043275,0.8677087444314774,15,5,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_05.sdf,5w2g_A_rec,mol_05,78.15971134892149,25.627967957876635,52.531743391044856,0.8301712484747746,10,0,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_06.sdf,5w2g_A_rec,mol_06,201.1113012000699,47.49473989424054,153.61656130582935,0.6167322845775699,15,4,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_07.sdf,5w2g_A_rec,mol_07,299.7187943924422,46.90142306975671,252.8173713226855,0.8868128730581449,14,2,0,-1,success,
+output/svflow_core/5w2g_A_rec/mol_08.sdf,5w2g_A_rec,mol_08,228.91064401243636,-100.22366934196356,329.1343133543999,0.4416151565514381,22,1,2,-1,success,
+output/svflow_core/5w2g_A_rec/mol_09.sdf,5w2g_A_rec,mol_09,93.64262020921379,-39.51099299965123,133.153613208865,0.6687837130870931,12,3,0,-1,success,

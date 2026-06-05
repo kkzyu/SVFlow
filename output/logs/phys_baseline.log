@@ -1,0 +1,399 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+Validating 100 pocket directories...
+Validating:   0%|          | 0/100 [00:00<?, ?it/s][11:43:08] Can't kekulize mol.  Unkekulized atoms: 3 6 7 8 9 11 13 15 16 17 18 21 24 25 26
+[11:43:08] ERROR: Could not sanitize molecule ending on line 63
+[11:43:08] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 6 7 8 9 11 13 15 16 17 18 21 24 25 26
+[11:43:08] Can't kekulize mol.  Unkekulized atoms: 0 2 3 5 6 7 8 9 10
+[11:43:08] ERROR: Could not sanitize molecule ending on line 35
+[11:43:08] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 2 3 5 6 7 8 9 10
+[11:43:08] Explicit valence for atom # 25 C, 5, is greater than permitted
+[11:43:08] ERROR: Could not sanitize molecule ending on line 67
+[11:43:08] ERROR: Explicit valence for atom # 25 C, 5, is greater than permitted
+Validating:   2%|▏         | 2/100 [00:00<00:06, 14.22it/s][11:43:08] Can't kekulize mol.  Unkekulized atoms: 0 5 6 8 13 14 16 18 19 20 21
+[11:43:08] ERROR: Could not sanitize molecule ending on line 52
+[11:43:08] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 5 6 8 13 14 16 18 19 20 21
+[11:43:08] Can't kekulize mol.  Unkekulized atoms: 1 4 6 9 11 18 19 21 23
+[11:43:08] ERROR: Could not sanitize molecule ending on line 64
+[11:43:08] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 4 6 9 11 18 19 21 23
+[11:43:08] Explicit valence for atom # 10 O, 3, is greater than permitted
+[11:43:08] ERROR: Could not sanitize molecule ending on line 74
+[11:43:08] ERROR: Explicit valence for atom # 10 O, 3, is greater than permitted
+[11:43:08] Explicit valence for atom # 23 N, 4, is greater than permitted
+[11:43:08] ERROR: Could not sanitize molecule ending on line 81
+[11:43:08] ERROR: Explicit valence for atom # 23 N, 4, is greater than permitted
+Validating:   4%|▍         | 4/100 [00:00<00:06, 15.78it/s][11:43:08] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:43:08] ERROR: Could not sanitize molecule ending on line 68
+[11:43:08] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+Validating:   6%|▌         | 6/100 [00:00<00:06, 14.55it/s][11:43:09] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:43:09] ERROR: Could not sanitize molecule ending on line 78
+[11:43:09] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:43:09] Can't kekulize mol.  Unkekulized atoms: 0 3 5 6 7 9 13 16 17 20
+[11:43:09] ERROR: Could not sanitize molecule ending on line 73
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 3 5 6 7 9 13 16 17 20
+[11:43:09] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 6 7 9 11 12 15 16 18 19
+[11:43:09] ERROR: Could not sanitize molecule ending on line 47
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 6 7 9 11 12 15 16 18 19
+Validating:   8%|▊         | 8/100 [00:00<00:05, 15.82it/s]Validating:  10%|█         | 10/100 [00:00<00:08, 10.84it/s][11:43:09] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7 8 10 12 14 15 16 17 18
+[11:43:09] ERROR: Could not sanitize molecule ending on line 45
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 7 8 10 12 14 15 16 17 18
+[11:43:09] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 5 8 13 15 16 18 19
+[11:43:09] ERROR: Could not sanitize molecule ending on line 51
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 5 8 13 15 16 18 19
+Validating:  12%|█▏        | 12/100 [00:00<00:08, 10.71it/s][11:43:09] Can't kekulize mol.  Unkekulized atoms: 13 16 21 24 38
+[11:43:09] ERROR: Could not sanitize molecule ending on line 92
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 13 16 21 24 38
+[11:43:09] Can't kekulize mol.  Unkekulized atoms: 2 5 7 10 13 20 24
+[11:43:09] ERROR: Could not sanitize molecule ending on line 62
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 5 7 10 13 20 24
+Validating:  14%|█▍        | 14/100 [00:01<00:07, 10.78it/s][11:43:09] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 6 7 8 9 11 12 13 14 15 16 17
+[11:43:09] ERROR: Could not sanitize molecule ending on line 44
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 6 7 8 9 11 12 13 14 15 16 17
+[11:43:09] Can't kekulize mol.  Unkekulized atoms: 0 2 4 7 8 9 15 16 17
+[11:43:09] ERROR: Could not sanitize molecule ending on line 45
+[11:43:09] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 2 4 7 8 9 15 16 17
+Validating:  16%|█▌        | 16/100 [00:01<00:06, 12.11it/s][11:43:10] Explicit valence for atom # 22 P, 6, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 70
+[11:43:10] ERROR: Explicit valence for atom # 22 P, 6, is greater than permitted
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 0 17 18
+[11:43:10] ERROR: Could not sanitize molecule ending on line 58
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 17 18
+Validating:  18%|█▊        | 18/100 [00:01<00:07, 11.46it/s][11:43:10] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 5 6 7 10 12 13 16 19 21 25 26 29 30 32 34 36 38
+[11:43:10] ERROR: Could not sanitize molecule ending on line 89
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 5 6 7 10 12 13 16 19 21 25 26 29 30 32 34 36 38
+[11:43:10] Explicit valence for atom # 2 O, 3, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 75
+[11:43:10] ERROR: Explicit valence for atom # 2 O, 3, is greater than permitted
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 4 6 9 15 21
+[11:43:10] ERROR: Could not sanitize molecule ending on line 52
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 4 6 9 15 21
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 10 16 18 25 26 27 29
+[11:43:10] ERROR: Could not sanitize molecule ending on line 69
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 3 4 5 10 16 18 25 26 27 29
+[11:43:10] Explicit valence for atom # 7 N, 6, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 56
+[11:43:10] ERROR: Explicit valence for atom # 7 N, 6, is greater than permitted
+[11:43:10] Explicit valence for atom # 2 N, 4, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 80
+[11:43:10] ERROR: Explicit valence for atom # 2 N, 4, is greater than permitted
+Validating:  20%|██        | 20/100 [00:01<00:10,  7.98it/s][11:43:10] Explicit valence for atom # 16 Cl, 2, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 69
+[11:43:10] ERROR: Explicit valence for atom # 16 Cl, 2, is greater than permitted
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 5 6 8 9 11 15 17
+[11:43:10] ERROR: Could not sanitize molecule ending on line 43
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 5 6 8 9 11 15 17
+Validating:  22%|██▏       | 22/100 [00:02<00:08,  9.23it/s][11:43:10] Explicit valence for atom # 5 O, 3, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 95
+[11:43:10] ERROR: Explicit valence for atom # 5 O, 3, is greater than permitted
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 1 5 11 12 13 14 15 17 20
+[11:43:10] ERROR: Could not sanitize molecule ending on line 56
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 5 11 12 13 14 15 17 20
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 0 2 5 7 9 10 13
+[11:43:10] ERROR: Could not sanitize molecule ending on line 43
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 2 5 7 9 10 13
+Validating:  25%|██▌       | 25/100 [00:02<00:06, 11.69it/s][11:43:10] Can't kekulize mol.  Unkekulized atoms: 1 6 12 15 23
+[11:43:10] ERROR: Could not sanitize molecule ending on line 69
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 6 12 15 23
+[11:43:10] Can't kekulize mol.  Unkekulized atoms: 1 3 8 12 13
+[11:43:10] ERROR: Could not sanitize molecule ending on line 36
+[11:43:10] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 3 8 12 13
+[11:43:10] Explicit valence for atom # 14 O, 3, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 48
+[11:43:10] ERROR: Explicit valence for atom # 14 O, 3, is greater than permitted
+[11:43:10] Explicit valence for atom # 16 O, 3, is greater than permitted
+[11:43:10] ERROR: Could not sanitize molecule ending on line 50
+[11:43:10] ERROR: Explicit valence for atom # 16 O, 3, is greater than permitted
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 0 3 5 6 8 10 11 12 15 16 17 19 21 22
+[11:43:11] ERROR: Could not sanitize molecule ending on line 56
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 3 5 6 8 10 11 12 15 16 17 19 21 22
+Validating:  28%|██▊       | 28/100 [00:02<00:05, 13.95it/s][11:43:11] Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:43:11] ERROR: Could not sanitize molecule ending on line 64
+[11:43:11] ERROR: Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 3 5 11 12 21
+[11:43:11] ERROR: Could not sanitize molecule ending on line 54
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 5 11 12 21
+Validating:  30%|███       | 30/100 [00:02<00:05, 12.71it/s][11:43:11] Explicit valence for atom # 3 C, 5, is greater than permitted
+[11:43:11] ERROR: Could not sanitize molecule ending on line 32
+[11:43:11] ERROR: Explicit valence for atom # 3 C, 5, is greater than permitted
+Validating:  32%|███▏      | 32/100 [00:02<00:04, 13.69it/s][11:43:11] Can't kekulize mol.  Unkekulized atoms: 7 11 15 17 20
+[11:43:11] ERROR: Could not sanitize molecule ending on line 55
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 7 11 15 17 20
+Validating:  34%|███▍      | 34/100 [00:02<00:04, 13.45it/s][11:43:11] Can't kekulize mol.  Unkekulized atoms: 0 8 10 15 18 21 28
+[11:43:11] ERROR: Could not sanitize molecule ending on line 71
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 8 10 15 18 21 28
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 5 6 11 15 17
+[11:43:11] ERROR: Could not sanitize molecule ending on line 42
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 5 6 11 15 17
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 0 12 16 22
+[11:43:11] ERROR: Could not sanitize molecule ending on line 67
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 12 16 22
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 6 7 8 11 16 22 30 32 40
+[11:43:11] ERROR: Could not sanitize molecule ending on line 92
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 6 7 8 11 16 22 30 32 40
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 2 4 8 10 25
+[11:43:11] ERROR: Could not sanitize molecule ending on line 61
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 4 8 10 25
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 4 6 7 11 19 20 22
+[11:43:11] ERROR: Could not sanitize molecule ending on line 61
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 4 6 7 11 19 20 22
+[11:43:11] Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:43:11] ERROR: Could not sanitize molecule ending on line 60
+[11:43:11] ERROR: Explicit valence for atom # 0 O, 3, is greater than permitted
+Validating:  36%|███▌      | 36/100 [00:02<00:04, 14.36it/s][11:43:11] Can't kekulize mol.  Unkekulized atoms: 0 1 4 5 6 9 13 14 19
+[11:43:11] ERROR: Could not sanitize molecule ending on line 48
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 4 5 6 9 13 14 19
+[11:43:11] Can't kekulize mol.  Unkekulized atoms: 2 7 9 10 12
+[11:43:11] ERROR: Could not sanitize molecule ending on line 31
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 7 9 10 12
+[11:43:11] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:11] ERROR: Could not sanitize molecule ending on line 68
+[11:43:11] ERROR: Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:11] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:11] ERROR: Could not sanitize molecule ending on line 53
+[11:43:11] ERROR: Explicit valence for atom # 13 C, 5, is greater than permitted
+Validating:  38%|███▊      | 38/100 [00:03<00:04, 15.13it/s][11:43:11] Can't kekulize mol.  Unkekulized atoms: 6 9 17 27 31
+[11:43:11] ERROR: Could not sanitize molecule ending on line 81
+[11:43:11] ERROR: Can't kekulize mol.  Unkekulized atoms: 6 9 17 27 31
+Validating:  40%|████      | 40/100 [00:03<00:06,  9.85it/s][11:43:12] Can't kekulize mol.  Unkekulized atoms: 0 1 3 6 13 14 16 17 19 20
+[11:43:12] ERROR: Could not sanitize molecule ending on line 50
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 3 6 13 14 16 17 19 20
+[11:43:12] Can't kekulize mol.  Unkekulized atoms: 0 10 12 18 20 22 28
+[11:43:12] ERROR: Could not sanitize molecule ending on line 71
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 10 12 18 20 22 28
+Validating:  42%|████▏     | 42/100 [00:03<00:05, 11.15it/s][11:43:12] Can't kekulize mol.  Unkekulized atoms: 14 15 23 30 33
+[11:43:12] ERROR: Could not sanitize molecule ending on line 75
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 14 15 23 30 33
+Validating:  44%|████▍     | 44/100 [00:03<00:04, 12.16it/s][11:43:12] Explicit valence for atom # 23 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 73
+[11:43:12] ERROR: Explicit valence for atom # 23 C, 5, is greater than permitted
+[11:43:12] Explicit valence for atom # 10 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 46
+[11:43:12] ERROR: Explicit valence for atom # 10 C, 5, is greater than permitted
+[11:43:12] Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 70
+[11:43:12] ERROR: Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:43:12] Can't kekulize mol.  Unkekulized atoms: 1 5 8 11
+[11:43:12] ERROR: Could not sanitize molecule ending on line 43
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 5 8 11
+[11:43:12] Can't kekulize mol.  Unkekulized atoms: 0 2 5 6 9
+[11:43:12] ERROR: Could not sanitize molecule ending on line 63
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 2 5 6 9
+Validating:  46%|████▌     | 46/100 [00:03<00:04, 13.44it/s][11:43:12] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 41
+[11:43:12] ERROR: Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:12] Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 53
+[11:43:12] ERROR: Explicit valence for atom # 11 C, 5, is greater than permitted
+[11:43:12] Explicit valence for atom # 0 C, 5, is greater than permitted
+[11:43:12] ERROR: Could not sanitize molecule ending on line 56
+[11:43:12] ERROR: Explicit valence for atom # 0 C, 5, is greater than permitted
+Validating:  48%|████▊     | 48/100 [00:03<00:03, 14.04it/s][11:43:12] Can't kekulize mol.  Unkekulized atoms: 1 9 23 25 27
+[11:43:12] ERROR: Could not sanitize molecule ending on line 75
+[11:43:12] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 9 23 25 27
+Validating:  50%|█████     | 50/100 [00:04<00:04, 10.20it/s][11:43:13] Explicit valence for atom # 7 N, 4, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 62
+[11:43:13] ERROR: Explicit valence for atom # 7 N, 4, is greater than permitted
+[11:43:13] Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 38
+[11:43:13] ERROR: Explicit valence for atom # 5 C, 5, is greater than permitted
+[11:43:13] Explicit valence for atom # 10 F, 2, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 28
+[11:43:13] ERROR: Explicit valence for atom # 10 F, 2, is greater than permitted
+[11:43:13] Explicit valence for atom # 4 C, 5, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 34
+[11:43:13] ERROR: Explicit valence for atom # 4 C, 5, is greater than permitted
+Validating:  52%|█████▏    | 52/100 [00:04<00:04, 11.42it/s]Validating:  54%|█████▍    | 54/100 [00:04<00:04, 11.34it/s][11:43:13] Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 14 19 23
+[11:43:13] ERROR: Could not sanitize molecule ending on line 57
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 3 5 6 14 19 23
+[11:43:13] Explicit valence for atom # 15 O, 3, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 50
+[11:43:13] ERROR: Explicit valence for atom # 15 O, 3, is greater than permitted
+Validating:  56%|█████▌    | 56/100 [00:04<00:03, 11.83it/s][11:43:13] Can't kekulize mol.  Unkekulized atoms: 0 3 4 5 7 8 12
+[11:43:13] ERROR: Could not sanitize molecule ending on line 32
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 3 4 5 7 8 12
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 3 10 12 24 25
+[11:43:13] ERROR: Could not sanitize molecule ending on line 80
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 10 12 24 25
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 1 5 18
+[11:43:13] ERROR: Could not sanitize molecule ending on line 51
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 5 18
+Validating:  59%|█████▉    | 59/100 [00:04<00:02, 14.68it/s][11:43:13] Can't kekulize mol.  Unkekulized atoms: 0 4 5 8 9 13 14 15 17 19 21
+[11:43:13] ERROR: Could not sanitize molecule ending on line 55
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 4 5 8 9 13 14 15 17 19 21
+[11:43:13] Explicit valence for atom # 18 N, 4, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 80
+[11:43:13] ERROR: Explicit valence for atom # 18 N, 4, is greater than permitted
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 24 25 30 31 35
+[11:43:13] ERROR: Could not sanitize molecule ending on line 80
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 24 25 30 31 35
+Validating:  61%|██████    | 61/100 [00:05<00:03, 11.61it/s][11:43:13] Can't kekulize mol.  Unkekulized atoms: 6 10 12 21 27
+[11:43:13] ERROR: Could not sanitize molecule ending on line 63
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 6 10 12 21 27
+[11:43:13] Explicit valence for atom # 17 O, 3, is greater than permitted
+[11:43:13] ERROR: Could not sanitize molecule ending on line 82
+[11:43:13] ERROR: Explicit valence for atom # 17 O, 3, is greater than permitted
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 3 7 8 12 13 14 15
+[11:43:13] ERROR: Could not sanitize molecule ending on line 50
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 7 8 12 13 14 15
+Validating:  63%|██████▎   | 63/100 [00:05<00:03, 11.73it/s][11:43:13] Can't kekulize mol.  Unkekulized atoms: 0 1 3 7 12 13 14 24
+[11:43:13] ERROR: Could not sanitize molecule ending on line 63
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 3 7 12 13 14 24
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 0 2 3 9 10 11 13 14 17 19 26 28 29 31 32 35
+[11:43:13] ERROR: Could not sanitize molecule ending on line 84
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 2 3 9 10 11 13 14 17 19 26 28 29 31 32 35
+[11:43:13] Can't kekulize mol.  Unkekulized atoms: 6 8 17 28 29
+[11:43:13] ERROR: Could not sanitize molecule ending on line 86
+[11:43:13] ERROR: Can't kekulize mol.  Unkekulized atoms: 6 8 17 28 29
+Validating:  65%|██████▌   | 65/100 [00:05<00:02, 12.92it/s][11:43:14] Can't kekulize mol.  Unkekulized atoms: 12 13 15 29 44
+[11:43:14] ERROR: Could not sanitize molecule ending on line 121
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 12 13 15 29 44
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 13 19
+[11:43:14] ERROR: Could not sanitize molecule ending on line 57
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 13 19
+Validating:  67%|██████▋   | 67/100 [00:05<00:02, 12.81it/s][11:43:14] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 6 8 9 13 14 16 17 20 23 24
+[11:43:14] ERROR: Could not sanitize molecule ending on line 57
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 6 8 9 13 14 16 17 20 23 24
+[11:43:14] Explicit valence for atom # 26 N, 4, is greater than permitted
+[11:43:14] ERROR: Could not sanitize molecule ending on line 69
+[11:43:14] ERROR: Explicit valence for atom # 26 N, 4, is greater than permitted
+Validating:  69%|██████▉   | 69/100 [00:05<00:03,  9.68it/s][11:43:14] Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6 7 9 10 11 12 13 14 16 18 19 20 21 23 24 25 26
+[11:43:14] ERROR: Could not sanitize molecule ending on line 62
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 2 3 4 6 7 9 10 11 12 13 14 16 18 19 20 21 23 24 25 26
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 1 7 10 15 18 19 23 28 30 31 32
+[11:43:14] ERROR: Could not sanitize molecule ending on line 80
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 7 10 15 18 19 23 28 30 31 32
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 8 22 26 27 31 36
+[11:43:14] ERROR: Could not sanitize molecule ending on line 87
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 4 5 6 8 22 26 27 31 36
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 0 4 7 12 13 15 21 27 28
+[11:43:14] ERROR: Could not sanitize molecule ending on line 66
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 4 7 12 13 15 21 27 28
+Validating:  71%|███████   | 71/100 [00:06<00:02, 10.67it/s][11:43:14] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 19 20 21 22 23 27 29 30 31 32 34 35
+[11:43:14] ERROR: Could not sanitize molecule ending on line 86
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 19 20 21 22 23 27 29 30 31 32 34 35
+Validating:  73%|███████▎  | 73/100 [00:06<00:02, 11.13it/s][11:43:14] Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:43:14] ERROR: Could not sanitize molecule ending on line 45
+[11:43:14] ERROR: Explicit valence for atom # 6 C, 5, is greater than permitted
+[11:43:14] Explicit valence for atom # 4 N, 4, is greater than permitted
+[11:43:14] ERROR: Could not sanitize molecule ending on line 92
+[11:43:14] ERROR: Explicit valence for atom # 4 N, 4, is greater than permitted
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 7 12 13 16 19
+[11:43:14] ERROR: Could not sanitize molecule ending on line 79
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 7 12 13 16 19
+[11:43:14] Can't kekulize mol.  Unkekulized atoms: 3 4 12 16 22 25
+[11:43:14] ERROR: Could not sanitize molecule ending on line 60
+[11:43:14] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 4 12 16 22 25
+Validating:  75%|███████▌  | 75/100 [00:06<00:02, 11.23it/s][11:43:15] Explicit valence for atom # 0 O, 4, is greater than permitted
+[11:43:15] ERROR: Could not sanitize molecule ending on line 78
+[11:43:15] ERROR: Explicit valence for atom # 0 O, 4, is greater than permitted
+Validating:  77%|███████▋  | 77/100 [00:06<00:02, 11.09it/s][11:43:15] Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:15] ERROR: Could not sanitize molecule ending on line 57
+[11:43:15] ERROR: Explicit valence for atom # 13 C, 5, is greater than permitted
+[11:43:15] Can't kekulize mol.  Unkekulized atoms: 3 7 8 9 13
+[11:43:15] ERROR: Could not sanitize molecule ending on line 49
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 7 8 9 13
+[11:43:15] Explicit valence for atom # 18 F, 2, is greater than permitted
+[11:43:15] ERROR: Could not sanitize molecule ending on line 119
+[11:43:15] ERROR: Explicit valence for atom # 18 F, 2, is greater than permitted
+Validating:  79%|███████▉  | 79/100 [00:06<00:02, 10.37it/s][11:43:15] Can't kekulize mol.  Unkekulized atoms: 3 4 5 8 16
+[11:43:15] ERROR: Could not sanitize molecule ending on line 48
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 4 5 8 16
+[11:43:15] Can't kekulize mol.  Unkekulized atoms: 20 28
+[11:43:15] ERROR: Could not sanitize molecule ending on line 75
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 20 28
+Validating:  81%|████████  | 81/100 [00:06<00:01, 10.85it/s][11:43:15] Can't kekulize mol.  Unkekulized atoms: 0 3 6 12 17
+[11:43:15] ERROR: Could not sanitize molecule ending on line 53
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 3 6 12 17
+[11:43:15] Can't kekulize mol.  Unkekulized atoms: 1 8 10 11 13 15 16 18 21
+[11:43:15] ERROR: Could not sanitize molecule ending on line 53
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 8 10 11 13 15 16 18 21
+[11:43:15] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:43:15] ERROR: Could not sanitize molecule ending on line 46
+[11:43:15] ERROR: Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:43:15] Can't kekulize mol.  Unkekulized atoms: 9 10 12 13 15 17 18 19 22 24 25
+[11:43:15] ERROR: Could not sanitize molecule ending on line 61
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 9 10 12 13 15 17 18 19 22 24 25
+[11:43:15] Can't kekulize mol.  Unkekulized atoms: 1 4 5 7 8 9 11 12 13 15 16 17 18 20 22 23 25 26 28 30 31 32 33 36 38
+[11:43:15] ERROR: Could not sanitize molecule ending on line 89
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 4 5 7 8 9 11 12 13 15 16 17 18 20 22 23 25 26 28 30 31 32 33 36 38
+Validating:  84%|████████▍ | 84/100 [00:07<00:01, 13.57it/s][11:43:15] Explicit valence for atom # 23 N, 4, is greater than permitted
+[11:43:15] ERROR: Could not sanitize molecule ending on line 61
+[11:43:15] ERROR: Explicit valence for atom # 23 N, 4, is greater than permitted
+Validating:  86%|████████▌ | 86/100 [00:07<00:01, 12.05it/s][11:43:15] Can't kekulize mol.  Unkekulized atoms: 2 8 13 15 16 17 21
+[11:43:15] ERROR: Could not sanitize molecule ending on line 73
+[11:43:15] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 8 13 15 16 17 21
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 3 14 19 21 23
+[11:43:16] ERROR: Could not sanitize molecule ending on line 58
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 14 19 21 23
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 0 10 15 21 22
+[11:43:16] ERROR: Could not sanitize molecule ending on line 60
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 10 15 21 22
+Validating:  88%|████████▊ | 88/100 [00:07<00:01, 10.37it/s][11:43:16] Can't kekulize mol.  Unkekulized atoms: 1 3 11 13 28
+[11:43:16] ERROR: Could not sanitize molecule ending on line 66
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 3 11 13 28
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 1 3 4 9 13 14 15 17 19 20
+[11:43:16] ERROR: Could not sanitize molecule ending on line 63
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 3 4 9 13 14 15 17 19 20
+[11:43:16] Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:43:16] ERROR: Could not sanitize molecule ending on line 70
+[11:43:16] ERROR: Explicit valence for atom # 9 C, 5, is greater than permitted
+[11:43:16] Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:43:16] ERROR: Could not sanitize molecule ending on line 71
+[11:43:16] ERROR: Explicit valence for atom # 0 O, 3, is greater than permitted
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 3 9 14 16 17 20 21
+[11:43:16] ERROR: Could not sanitize molecule ending on line 53
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 9 14 16 17 20 21
+Validating:  90%|█████████ | 90/100 [00:07<00:00, 11.34it/s][11:43:16] Can't kekulize mol.  Unkekulized atoms: 4 5 8 12 14 19 22
+[11:43:16] ERROR: Could not sanitize molecule ending on line 65
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 4 5 8 12 14 19 22
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 5 14 19
+[11:43:16] ERROR: Could not sanitize molecule ending on line 64
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 5 14 19
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 3 8 9 13 17
+[11:43:16] ERROR: Could not sanitize molecule ending on line 43
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 8 9 13 17
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 3 4 14 15 19 21 22 23 29
+[11:43:16] ERROR: Could not sanitize molecule ending on line 69
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 3 4 14 15 19 21 22 23 29
+Validating:  92%|█████████▏| 92/100 [00:07<00:00, 12.17it/s][11:43:16] Can't kekulize mol.  Unkekulized atoms: 7 8 11 22
+[11:43:16] ERROR: Could not sanitize molecule ending on line 65
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 7 8 11 22
+Validating:  94%|█████████▍| 94/100 [00:07<00:00, 12.63it/s][11:43:16] Can't kekulize mol.  Unkekulized atoms: 1 3 12
+[11:43:16] ERROR: Could not sanitize molecule ending on line 32
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 3 12
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 2 9 11
+[11:43:16] ERROR: Could not sanitize molecule ending on line 32
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 2 9 11
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 5 10 14
+[11:43:16] ERROR: Could not sanitize molecule ending on line 37
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 3 5 10 14
+[11:43:16] Can't kekulize mol.  Unkekulized atoms: 0 1 2 4 6
+[11:43:16] ERROR: Could not sanitize molecule ending on line 29
+[11:43:16] ERROR: Can't kekulize mol.  Unkekulized atoms: 0 1 2 4 6
+Validating:  97%|█████████▋| 97/100 [00:08<00:00, 15.55it/s][11:43:16] Explicit valence for atom # 26 C, 5, is greater than permitted
+[11:43:16] ERROR: Could not sanitize molecule ending on line 62
+[11:43:16] ERROR: Explicit valence for atom # 26 C, 5, is greater than permitted
+[11:43:16] Explicit valence for atom # 17 Cl, 2, is greater than permitted
+[11:43:16] ERROR: Could not sanitize molecule ending on line 60
+[11:43:16] ERROR: Explicit valence for atom # 17 Cl, 2, is greater than permitted
+[11:43:17] Can't kekulize mol.  Unkekulized atoms: 1 2 7 8 10 11 14
+[11:43:17] ERROR: Could not sanitize molecule ending on line 49
+[11:43:17] ERROR: Can't kekulize mol.  Unkekulized atoms: 1 2 7 8 10 11 14
+Validating:  99%|█████████▉| 99/100 [00:08<00:00, 12.24it/s][11:43:17] Explicit valence for atom # 13 O, 3, is greater than permitted
+[11:43:17] ERROR: Could not sanitize molecule ending on line 54
+[11:43:17] ERROR: Explicit valence for atom # 13 O, 3, is greater than permitted
+[11:43:17] Explicit valence for atom # 21 O, 3, is greater than permitted
+[11:43:17] ERROR: Could not sanitize molecule ending on line 68
+[11:43:17] ERROR: Explicit valence for atom # 21 O, 3, is greater than permitted
+Validating: 100%|██████████| 100/100 [00:08<00:00, 11.93it/s]
+
+============================================================
+Physical Validity Summary (100 pockets)
+============================================================
+  clashes_per_mol               : 16.725 ± 29.084
+  clash_rate                    : 0.857 ± 1.575
+  bond_anomalies_per_mol        : 0.593 ± 0.466
+  bond_anomaly_rate             : 0.024 ± 0.020
+  broken_rings_per_mol          : 0.019 ± 0.047
+
+Results saved to ./output/results/drugflow_physical.csv

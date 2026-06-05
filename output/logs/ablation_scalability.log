@@ -1,0 +1,43 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+/root/miniconda3/lib/python3.12/site-packages/MDAnalysis/topology/tables.py:52: DeprecationWarning: Deprecated in version 2.8.0
+MDAnalysis.topology.tables has been moved to MDAnalysis.guesser.tables. This import point will be removed in MDAnalysis version 3.0.0
+  warnings.warn(wmsg, category=DeprecationWarning)
+Device: cuda:0
+Testing N ∈ [2, 4, 8, 16, 32] on 3 pockets
+Marginal Prior MB
+
+--- N=2 ---
+N=2:   0%|          | 0/3 [00:00<?, ?it/s]N=2:  33%|███▎      | 1/3 [01:04<02:09, 64.66s/it]N=2:  67%|██████▋   | 2/3 [02:33<01:18, 78.86s/it]N=2: 100%|██████████| 3/3 [03:37<00:00, 72.03s/it]N=2: 100%|██████████| 3/3 [03:37<00:00, 72.45s/it]
+
+--- N=4 ---
+N=4:   0%|          | 0/3 [00:00<?, ?it/s]N=4:  33%|███▎      | 1/3 [01:04<02:08, 64.05s/it]N=4:  67%|██████▋   | 2/3 [01:48<00:52, 52.49s/it]N=4: 100%|██████████| 3/3 [03:30<00:00, 75.30s/it]N=4: 100%|██████████| 3/3 [03:30<00:00, 70.30s/it]
+
+--- N=8 ---
+N=8:   0%|          | 0/3 [00:00<?, ?it/s]N=8:  33%|███▎      | 1/3 [01:31<03:02, 91.42s/it]N=8:  67%|██████▋   | 2/3 [02:51<01:24, 84.93s/it]N=8: 100%|██████████| 3/3 [04:10<00:00, 82.08s/it]N=8: 100%|██████████| 3/3 [04:10<00:00, 83.50s/it]
+
+--- N=16 ---
+N=16:   0%|          | 0/3 [00:00<?, ?it/s]N=16:  33%|███▎      | 1/3 [01:15<02:31, 75.79s/it]N=16:  67%|██████▋   | 2/3 [03:19<01:44, 104.02s/it]N=16: 100%|██████████| 3/3 [04:55<00:00, 100.18s/it]N=16: 100%|██████████| 3/3 [04:55<00:00, 98.39s/it] 
+
+--- N=32 ---
+N=32:   0%|          | 0/3 [00:00<?, ?it/s]N=32:  33%|███▎      | 1/3 [01:04<02:08, 64.43s/it]N=32:  67%|██████▋   | 2/3 [02:07<01:03, 63.35s/it]N=32: 100%|██████████| 3/3 [03:10<00:00, 63.31s/it]N=32: 100%|██████████| 3/3 [03:10<00:00, 63.43s/it]
+
+============================================================
+Scalability Summary
+============================================================
+  N=2: centroid_var=0.0219, pair_dist=0.3384, time=217.4s
+  N=4: centroid_var=0.0359, pair_dist=0.4222, time=210.9s
+  N=8: centroid_var=0.0661, pair_dist=0.5987, time=250.5s
+  N=16: centroid_var=0.0150, pair_dist=0.2645, time=295.2s
+  N=32: centroid_var=0.6469, pair_dist=1.5481, time=190.3s
+
+============================================================
+Marginal Diversity Gain
+============================================================
+  N=4: Δ centroid_var = +63.8%
+  N=8: Δ centroid_var = +84.0%
+  N=16: Δ centroid_var = -77.4%
+  N=32: Δ centroid_var = +4225.3%
+Saved to output/ablation_study/scalability_results.json

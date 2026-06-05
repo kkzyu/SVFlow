@@ -1,0 +1,36 @@
+% Table 1: Method comparison after MMFF94 minimization
+\begin{table}[t]
+\centering
+\caption{Chemical diversity and quality metrics after energy minimization.
+         All metrics are per-pocket means $\pm$ standard deviation over
+         \texttt{N}=100 CrossDocked test pockets.}
+\label{tab:main}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Method} & \textbf{Tanimoto $\uparrow$} & \textbf{QED $\uparrow$} &
+\textbf{SA $\downarrow$} & \textbf{Clashes $\downarrow$} &
+\textbf{Bond Anom. $\downarrow$} & \textbf{MW} \\
+\midrule
+DrugFlow (N=10)
+    & 0.848 ± 0.080
+    & 0.547 ± 0.160
+    & 3.617 ± 0.809
+    & 0.0 ± 0.0
+    & 0.017 ± 0.017
+    & 318.2 \\
+SV-Flow Core (N=10)
+    & 0.882 ± 0.030
+    & 0.504 ± 0.109
+    & 3.610 ± 0.770
+    & 0.0 ± 0.0
+    & 0.025 ± 0.024
+    & 235.5 \\
+MaxMin (N=50$\to$10)
+    & 0.902 ± 0.035
+    & 0.535 ± 0.136
+    & 3.965 ± 0.740
+    & — & — &
+    328.4 \\
+\bottomrule
+\end{tabular}
+\end{table}

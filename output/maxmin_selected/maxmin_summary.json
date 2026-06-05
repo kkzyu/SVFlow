@@ -1,0 +1,702 @@
+[
+  {
+    "pocket": "14gs_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8991108158197298,
+    "selected_diversity": 0.9257480361176071
+  },
+  {
+    "pocket": "1a2g_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.818827952462731,
+    "selected_diversity": 0.9133012812183599
+  },
+  {
+    "pocket": "1afs_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.892265758466227,
+    "selected_diversity": 0.9192428463478907
+  },
+  {
+    "pocket": "1ai4_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8496415688623541,
+    "selected_diversity": 0.9107287701235207
+  },
+  {
+    "pocket": "1coy_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.882849984460046,
+    "selected_diversity": 0.9186358778981503
+  },
+  {
+    "pocket": "1d7j_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8662285003513331,
+    "selected_diversity": 0.9039397674010979
+  },
+  {
+    "pocket": "1djy_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8877853491750978,
+    "selected_diversity": 0.9107772634772672
+  },
+  {
+    "pocket": "1dxo_C_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.893664912665585,
+    "selected_diversity": 0.9183574429422483
+  },
+  {
+    "pocket": "1e8h_A_rec",
+    "n_available": 34,
+    "n_selected": 10,
+    "full_diversity": 0.6853203700089203,
+    "selected_diversity": 0.8150538433604889
+  },
+  {
+    "pocket": "1fmc_B_rec",
+    "n_available": 50,
+    "n_selected": 10,
+    "full_diversity": 0.8622488077774219,
+    "selected_diversity": 0.9078303631704749
+  },
+  {
+    "pocket": "1gg5_A_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.8774875378651726,
+    "selected_diversity": 0.9118648728299155
+  },
+  {
+    "pocket": "1h0i_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8701396779690972,
+    "selected_diversity": 0.903096866975007
+  },
+  {
+    "pocket": "1h36_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8588617983242193,
+    "selected_diversity": 0.8920779894179816
+  },
+  {
+    "pocket": "1jn2_P_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8654063234757741,
+    "selected_diversity": 0.9054157119953512
+  },
+  {
+    "pocket": "1k9t_A_rec",
+    "n_available": 49,
+    "n_selected": 10,
+    "full_diversity": 0.9009339379351236,
+    "selected_diversity": 0.9383449076754986
+  },
+  {
+    "pocket": "1l3l_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8739564703707468,
+    "selected_diversity": 0.9087691498323861
+  },
+  {
+    "pocket": "1phk_A_rec",
+    "n_available": 38,
+    "n_selected": 10,
+    "full_diversity": 0.5663582821313269,
+    "selected_diversity": 0.7463124670101676
+  },
+  {
+    "pocket": "1r1h_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8405579772834904,
+    "selected_diversity": 0.8899026296282255
+  },
+  {
+    "pocket": "1rs9_A_rec",
+    "n_available": 49,
+    "n_selected": 10,
+    "full_diversity": 0.8785015692353264,
+    "selected_diversity": 0.9153371450795422
+  },
+  {
+    "pocket": "1umd_B_rec",
+    "n_available": 42,
+    "n_selected": 10,
+    "full_diversity": 0.7625383018093415,
+    "selected_diversity": 0.846457078352683
+  },
+  {
+    "pocket": "2azy_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8845700990023639,
+    "selected_diversity": 0.9174850752086608
+  },
+  {
+    "pocket": "2cy0_A_rec",
+    "n_available": 38,
+    "n_selected": 10,
+    "full_diversity": 0.873885296313541,
+    "selected_diversity": 0.9146070846541909
+  },
+  {
+    "pocket": "2e24_A_rec",
+    "n_available": 50,
+    "n_selected": 10,
+    "full_diversity": 0.8818904636641931,
+    "selected_diversity": 0.9273118411808876
+  },
+  {
+    "pocket": "2e6d_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8587070818451408,
+    "selected_diversity": 0.913853606308484
+  },
+  {
+    "pocket": "2f2c_B_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8837676761799041,
+    "selected_diversity": 0.91859161674845
+  },
+  {
+    "pocket": "2gns_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8638087458934739,
+    "selected_diversity": 0.9249713001550738
+  },
+  {
+    "pocket": "2hcj_B_rec",
+    "n_available": 37,
+    "n_selected": 10,
+    "full_diversity": 0.6421956790159518,
+    "selected_diversity": 0.7942884927913999
+  },
+  {
+    "pocket": "2jjg_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8673700449437064,
+    "selected_diversity": 0.9163483910873925
+  },
+  {
+    "pocket": "2pc8_A_rec",
+    "n_available": 38,
+    "n_selected": 10,
+    "full_diversity": 0.8843570675267997,
+    "selected_diversity": 0.9195094623008824
+  },
+  {
+    "pocket": "2pqw_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8893556097189556,
+    "selected_diversity": 0.9403374183905644
+  },
+  {
+    "pocket": "2rhy_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8989474559338715,
+    "selected_diversity": 0.9466307016460651
+  },
+  {
+    "pocket": "2rma_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8436003590233596,
+    "selected_diversity": 0.8995535352091388
+  },
+  {
+    "pocket": "2v3r_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8915334846005174,
+    "selected_diversity": 0.9251410307283465
+  },
+  {
+    "pocket": "2z3h_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8951719698963251,
+    "selected_diversity": 0.9285159666706312
+  },
+  {
+    "pocket": "2zen_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8409929381616821,
+    "selected_diversity": 0.9125514239836298
+  },
+  {
+    "pocket": "3af2_A_rec",
+    "n_available": 33,
+    "n_selected": 10,
+    "full_diversity": 0.7543486499273969,
+    "selected_diversity": 0.8534880137594079
+  },
+  {
+    "pocket": "3b6h_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8988516594149356,
+    "selected_diversity": 0.9266061596808597
+  },
+  {
+    "pocket": "3chc_B_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.9017699319888145,
+    "selected_diversity": 0.9304851865593307
+  },
+  {
+    "pocket": "3daf_A_rec",
+    "n_available": 31,
+    "n_selected": 10,
+    "full_diversity": 0.7814309451807979,
+    "selected_diversity": 0.8616164902571257
+  },
+  {
+    "pocket": "3dzh_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8625359268596051,
+    "selected_diversity": 0.8957665030096525
+  },
+  {
+    "pocket": "3ej8_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.9161030012798835,
+    "selected_diversity": 0.9567626557493034
+  },
+  {
+    "pocket": "3g51_A_rec",
+    "n_available": 39,
+    "n_selected": 10,
+    "full_diversity": 0.7159392868223396,
+    "selected_diversity": 0.8327156823195974
+  },
+  {
+    "pocket": "3gs6_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.7744687360274558,
+    "selected_diversity": 0.8663499942835723
+  },
+  {
+    "pocket": "3hy9_B_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8427539937600358,
+    "selected_diversity": 0.8779226227410949
+  },
+  {
+    "pocket": "3jyh_A_rec",
+    "n_available": 42,
+    "n_selected": 10,
+    "full_diversity": 0.8891110322295699,
+    "selected_diversity": 0.9246740874319714
+  },
+  {
+    "pocket": "3kc1_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8521438316352389,
+    "selected_diversity": 0.8869118329542998
+  },
+  {
+    "pocket": "3l3n_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.889738651051899,
+    "selected_diversity": 0.923895253764248
+  },
+  {
+    "pocket": "3li4_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8466707025719051,
+    "selected_diversity": 0.9088176208759644
+  },
+  {
+    "pocket": "3nfb_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8674151519113231,
+    "selected_diversity": 0.909229542645848
+  },
+  {
+    "pocket": "3o96_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8507265038879795,
+    "selected_diversity": 0.8874537882149246
+  },
+  {
+    "pocket": "3pdh_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8734767452454328,
+    "selected_diversity": 0.9171852247118772
+  },
+  {
+    "pocket": "3pnm_A_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.8807571886340653,
+    "selected_diversity": 0.9261725982748106
+  },
+  {
+    "pocket": "3tym_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.876264954750617,
+    "selected_diversity": 0.9191884194211997
+  },
+  {
+    "pocket": "3u5y_B_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.862824696906613,
+    "selected_diversity": 0.9004495287671389
+  },
+  {
+    "pocket": "3u9f_C_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8955211997403438,
+    "selected_diversity": 0.92597485662289
+  },
+  {
+    "pocket": "3v4t_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.858913833828076,
+    "selected_diversity": 0.8909051319436184
+  },
+  {
+    "pocket": "3w83_B_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8666297979815627,
+    "selected_diversity": 0.9133755115557243
+  },
+  {
+    "pocket": "4aaw_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8839839844674475,
+    "selected_diversity": 0.9396746151218006
+  },
+  {
+    "pocket": "4aua_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8390786791834772,
+    "selected_diversity": 0.895320499758787
+  },
+  {
+    "pocket": "4azf_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8823494154611699,
+    "selected_diversity": 0.9071126976181327
+  },
+  {
+    "pocket": "4bel_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8438872270431825,
+    "selected_diversity": 0.8859011079614093
+  },
+  {
+    "pocket": "4d7o_A_rec",
+    "n_available": 42,
+    "n_selected": 10,
+    "full_diversity": 0.8811839463904927,
+    "selected_diversity": 0.9124934684102177
+  },
+  {
+    "pocket": "4f1m_A_rec",
+    "n_available": 35,
+    "n_selected": 10,
+    "full_diversity": 0.644577787180344,
+    "selected_diversity": 0.8224759133688153
+  },
+  {
+    "pocket": "4g3d_B_rec",
+    "n_available": 42,
+    "n_selected": 10,
+    "full_diversity": 0.8769222860556295,
+    "selected_diversity": 0.9144596812474031
+  },
+  {
+    "pocket": "4gvd_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8839099716043315,
+    "selected_diversity": 0.9405492000607474
+  },
+  {
+    "pocket": "4h3c_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8592982707034054,
+    "selected_diversity": 0.9036003660638646
+  },
+  {
+    "pocket": "4iiy_A_rec",
+    "n_available": 32,
+    "n_selected": 10,
+    "full_diversity": 0.8468570025276404,
+    "selected_diversity": 0.8992175902398881
+  },
+  {
+    "pocket": "4iwq_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8872404741834847,
+    "selected_diversity": 0.9131092705680504
+  },
+  {
+    "pocket": "4ja8_B_rec",
+    "n_available": 39,
+    "n_selected": 10,
+    "full_diversity": 0.8758407470789131,
+    "selected_diversity": 0.9009478552662211
+  },
+  {
+    "pocket": "4kcq_A_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.8760931542498515,
+    "selected_diversity": 0.9041053610601454
+  },
+  {
+    "pocket": "4keu_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8685167801754744,
+    "selected_diversity": 0.9249045819810275
+  },
+  {
+    "pocket": "4lfu_A_rec",
+    "n_available": 42,
+    "n_selected": 10,
+    "full_diversity": 0.9014054831748779,
+    "selected_diversity": 0.9229045365719669
+  },
+  {
+    "pocket": "4m7t_A_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.887270626705525,
+    "selected_diversity": 0.907885190385554
+  },
+  {
+    "pocket": "4p6p_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8638460065457498,
+    "selected_diversity": 0.9080146217920585
+  },
+  {
+    "pocket": "4pxz_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8720902812979063,
+    "selected_diversity": 0.8949478498640856
+  },
+  {
+    "pocket": "4q8b_B_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8683880222053179,
+    "selected_diversity": 0.9152371091395123
+  },
+  {
+    "pocket": "4qlk_A_rec",
+    "n_available": 37,
+    "n_selected": 10,
+    "full_diversity": 0.8708745897113138,
+    "selected_diversity": 0.8937955828444994
+  },
+  {
+    "pocket": "4rlu_A_rec",
+    "n_available": 40,
+    "n_selected": 10,
+    "full_diversity": 0.8856990193414961,
+    "selected_diversity": 0.9169428757841697
+  },
+  {
+    "pocket": "4rn0_B_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.857226533874561,
+    "selected_diversity": 0.9422651417987851
+  },
+  {
+    "pocket": "4rv4_A_rec",
+    "n_available": 39,
+    "n_selected": 10,
+    "full_diversity": 0.7258965445144141,
+    "selected_diversity": 0.8676791884765156
+  },
+  {
+    "pocket": "4tos_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8549624163162801,
+    "selected_diversity": 0.8937233902750269
+  },
+  {
+    "pocket": "4tqr_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8697646155188945,
+    "selected_diversity": 0.9244722131334011
+  },
+  {
+    "pocket": "4u5s_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8647698923870876,
+    "selected_diversity": 0.9132074503749659
+  },
+  {
+    "pocket": "4xli_B_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8361145051320066,
+    "selected_diversity": 0.8842184112232506
+  },
+  {
+    "pocket": "4yhj_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8346250058323014,
+    "selected_diversity": 0.8762300640880888
+  },
+  {
+    "pocket": "4z2g_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8678379357852384,
+    "selected_diversity": 0.8901968067401116
+  },
+  {
+    "pocket": "4zfa_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8901944489677103,
+    "selected_diversity": 0.9137220459425549
+  },
+  {
+    "pocket": "5aeh_A_rec",
+    "n_available": 46,
+    "n_selected": 10,
+    "full_diversity": 0.8721729140536457,
+    "selected_diversity": 0.9078521502790647
+  },
+  {
+    "pocket": "5b08_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.8678203081920784,
+    "selected_diversity": 0.9149417910400699
+  },
+  {
+    "pocket": "5bur_A_rec",
+    "n_available": 37,
+    "n_selected": 10,
+    "full_diversity": 0.5831865816797095,
+    "selected_diversity": 0.7520786147108176
+  },
+  {
+    "pocket": "5d7n_D_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8774722570801428,
+    "selected_diversity": 0.9118908240287154
+  },
+  {
+    "pocket": "5i0b_A_rec",
+    "n_available": 43,
+    "n_selected": 10,
+    "full_diversity": 0.8763100993484213,
+    "selected_diversity": 0.9067921761602822
+  },
+  {
+    "pocket": "5l1v_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8892169671867627,
+    "selected_diversity": 0.9251460731272726
+  },
+  {
+    "pocket": "5liu_X_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.891829571757873,
+    "selected_diversity": 0.9209205338807276
+  },
+  {
+    "pocket": "5mgl_A_rec",
+    "n_available": 38,
+    "n_selected": 10,
+    "full_diversity": 0.8750657652933796,
+    "selected_diversity": 0.9103414078572283
+  },
+  {
+    "pocket": "5mma_A_rec",
+    "n_available": 47,
+    "n_selected": 10,
+    "full_diversity": 0.8733627365354595,
+    "selected_diversity": 0.9239093828802826
+  },
+  {
+    "pocket": "5ngz_A_rec",
+    "n_available": 48,
+    "n_selected": 10,
+    "full_diversity": 0.8502813229161169,
+    "selected_diversity": 0.9187390133388067
+  },
+  {
+    "pocket": "5q0k_A_rec",
+    "n_available": 41,
+    "n_selected": 10,
+    "full_diversity": 0.8629119656231774,
+    "selected_diversity": 0.8955972206645927
+  },
+  {
+    "pocket": "5tjn_A_rec",
+    "n_available": 45,
+    "n_selected": 10,
+    "full_diversity": 0.8741329192923537,
+    "selected_diversity": 0.9176204182382758
+  },
+  {
+    "pocket": "5w2g_A_rec",
+    "n_available": 44,
+    "n_selected": 10,
+    "full_diversity": 0.6632354805974919,
+    "selected_diversity": 0.8717190785661897
+  }
+]

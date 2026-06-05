@@ -1,0 +1,23 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+/root/miniconda3/lib/python3.12/site-packages/MDAnalysis/topology/tables.py:52: DeprecationWarning: Deprecated in version 2.8.0
+MDAnalysis.topology.tables has been moved to MDAnalysis.guesser.tables. This import point will be removed in MDAnalysis version 3.0.0
+  warnings.warn(wmsg, category=DeprecationWarning)
+Device: cuda:0
+Testing t_on ∈ {0.5, 1.0} on 10 pockets
+Marginal Prior MB
+
+--- t_on=0.5 ---
+t_on=0.5:   0%|          | 0/10 [00:00<?, ?it/s]t_on=0.5:  10%|█         | 1/10 [01:18<11:46, 78.48s/it]t_on=0.5:  20%|██        | 2/10 [02:55<11:55, 89.44s/it]t_on=0.5:  30%|███       | 3/10 [04:06<09:28, 81.16s/it]t_on=0.5:  40%|████      | 4/10 [05:03<07:09, 71.55s/it]t_on=0.5:  50%|█████     | 5/10 [06:30<06:25, 77.18s/it]t_on=0.5:  60%|██████    | 6/10 [08:12<05:42, 85.62s/it]t_on=0.5:  70%|███████   | 7/10 [09:33<04:12, 84.08s/it]t_on=0.5:  80%|████████  | 8/10 [11:02<02:51, 85.52s/it]t_on=0.5:  90%|█████████ | 9/10 [12:20<01:23, 83.17s/it]t_on=0.5: 100%|██████████| 10/10 [13:59<00:00, 88.04s/it]t_on=0.5: 100%|██████████| 10/10 [13:59<00:00, 83.93s/it]
+
+--- t_on=1.0 ---
+t_on=1.0:   0%|          | 0/10 [00:00<?, ?it/s]t_on=1.0:  10%|█         | 1/10 [01:55<17:20, 115.56s/it]t_on=1.0:  20%|██        | 2/10 [02:46<10:19, 77.48s/it] t_on=1.0:  30%|███       | 3/10 [03:37<07:36, 65.25s/it]t_on=1.0:  40%|████      | 4/10 [04:28<05:59, 59.94s/it]t_on=1.0:  50%|█████     | 5/10 [05:19<04:42, 56.55s/it]t_on=1.0:  60%|██████    | 6/10 [06:58<04:43, 70.95s/it]t_on=1.0:  70%|███████   | 7/10 [08:50<04:13, 84.37s/it]t_on=1.0:  80%|████████  | 8/10 [09:56<02:37, 78.63s/it]t_on=1.0:  90%|█████████ | 9/10 [11:11<01:17, 77.47s/it]t_on=1.0: 100%|██████████| 10/10 [12:16<00:00, 73.63s/it]t_on=1.0: 100%|██████████| 10/10 [12:16<00:00, 73.66s/it]
+
+============================================================
+No-Annealing Ablation Summary
+============================================================
+  t_on=0.5: validity=10.0, centroid_var=0.1619
+  t_on=1.0: validity=10.0, centroid_var=0.5311
+Saved to output/ablation_study/no_annealing_results.json

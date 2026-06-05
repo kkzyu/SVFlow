@@ -1,0 +1,42 @@
+SV-Flow Paper — Figure Statistical Notes
+=======================================================
+
+Figure 2: Chemical Diversity Comparison
+----------------------------------------
+Paired t-test (Core vs DrugFlow Tanimoto Diversity):
+  t(99) = 4.3459, p = 3.36e-05 ***
+  Cohen's d = 0.4346 (medium effect)
+  Mean difference = 0.0346
+  Core: 0.8821, DrugFlow: 0.8475
+
+QED paired t-test:
+  t(99) = -3.8099, p = 2.41e-04 ***
+  Cohen's d = -0.3810
+  DrugFlow QED slightly higher (expected trade-off for diversity)
+
+Centroid Variance paired t-test:
+  t(99) = 1.0034, p = 0.3181 n.s.
+  Cohen's d = 0.1003 (negligible)
+
+Figure 3: Pareto Frontier
+----------------------------------------
+SV-Flow Core achieves higher diversity at similar QED levels.
+The Pareto frontier visualizes the quality-diversity trade-off.
+
+Figure 4: Physical Validity
+----------------------------------------
+MMFF94 minimization eliminates virtually all internal clashes.
+Bond anomalies and broken rings are substantially reduced.
+Post-minimization, Core and DrugFlow have comparable physical validity.
+
+Figure 5: RMSD Distribution
+----------------------------------------
+Median RMSD < 0.8 Å for both methods after minimization.
+<5% of molecules have RMSD > 2.0 Å (acceptable conformational change).
+
+Figure 6: Case Studies
+----------------------------------------
+Three pockets selected by diversity gain (Core − DrugFlow).
+Colored sticks: SV-Flow Core. Gray sticks: DrugFlow baseline.
+
+Significance: *** p<0.001, ** p<0.01, * p<0.05, n.s. = not significant

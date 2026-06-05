@@ -1,0 +1,3 @@
+sdf_file,pocket,mol_name,initial_energy,final_energy,energy_reduction,rmsd,n_atoms_heavy,clashes_before,clashes_after,n_iterations,status,error
+output/svflow_core/14gs_A_rec/mol_00.sdf,14gs_A_rec,mol_00,1252.1230408619645,75.65062248915316,1176.4724183728113,0.48104261607401944,16,6,0,-1,success,
+output/svflow_core/14gs_A_rec/mol_01.sdf,14gs_A_rec,mol_01,54.36081425642523,-7.795031101028644,62.15584535745387,0.7557956230176203,6,0,0,-1,success,

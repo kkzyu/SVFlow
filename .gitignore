@@ -7,21 +7,21 @@ dist/
 build/
 
 # SV-Flow — paper outline and process files (internal only)
-README/
-过程文件/
+# README/
+# 过程文件/
 
 # SV-Flow — generated output directories
-output/
-svflow_samples*/
-drugflow_baseline*/
-svflow_core_samples/
-svflow_full_samples/
-maxmin_selected/
-posthoc_results/
-ablation_study/
-ablation_extras/
-results/
-figures/
+# output/
+# svflow_samples*/
+# drugflow_baseline*/
+# svflow_core_samples/
+# svflow_full_samples/
+# maxmin_selected/
+# posthoc_results/
+# ablation_study/
+# ablation_extras/
+# results/
+# figures/
 
 # SV-Flow — auxiliary data
 processed_crossdocked/

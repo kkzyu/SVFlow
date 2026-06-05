@@ -1,0 +1,5 @@
+Case: median
+Pocket: 3nfb_A_rec
+Diversity gain (Core - DrugFlow): +0.0159
+Core diversity: 0.8846
+DrugFlow diversity: 0.8686

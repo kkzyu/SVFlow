@@ -1,0 +1,5 @@
+Case: highest_gain
+Pocket: 1phk_A_rec
+Diversity gain (Core - DrugFlow): +0.4466
+Core diversity: 0.8766
+DrugFlow diversity: 0.4300

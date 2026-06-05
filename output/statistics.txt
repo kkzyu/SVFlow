@@ -1,0 +1,63 @@
+=================================================================
+SV-Flow Statistical Tests (N=100 CrossDocked pockets)
+=================================================================
+
+───────────────────────────────────────────────────────
+  Tanimoto Chemical Diversity (↑ higher is better)
+───────────────────────────────────────────────────────
+  Core mean:        0.8821 ± 0.0300
+  DrugFlow mean:    0.8475 ± 0.0802
+  Mean difference:  +0.0346 [95% CI: 0.0190, 0.0502]
+  Paired t-test:    t(99) = 4.3459, p = 3.36e-05  ***
+  Cohen's d:        0.4346  (small)
+  Wilcoxon:         W = 1093.0, p = 8.49e-07
+  Shapiro-Wilk:     W = 0.7237, p = 0.0000  (non-normal)
+
+───────────────────────────────────────────────────────
+  QED (Drug-likeness) (↑ higher is better)
+───────────────────────────────────────────────────────
+  Core mean:        0.5041 ± 0.1091
+  DrugFlow mean:    0.5469 ± 0.1600
+  Mean difference:  -0.0429 [95% CI: -0.0649, -0.0208]
+  Paired t-test:    t(99) = -3.8099, p = 2.41e-04  ***
+  Cohen's d:        -0.3810  (small)
+  Wilcoxon:         W = 1455.0, p = 2.34e-04
+  Shapiro-Wilk:     W = 0.9958, p = 0.9904  (normal)
+
+───────────────────────────────────────────────────────
+  Centroid Spatial Variance (↑ higher is better)
+───────────────────────────────────────────────────────
+  Core mean:        0.1345 ± 0.2222
+  DrugFlow mean:    0.1080 ± 0.1398
+  Mean difference:  +0.0266 [95% CI: -0.0253, 0.0784]
+  Paired t-test:    t(99) = 1.0034, p = 3.18e-01  n.s.
+  Cohen's d:        0.1003  (small)
+  Wilcoxon:         W = 2523.0, p = 9.95e-01
+  Shapiro-Wilk:     W = 0.7549, p = 0.0000  (non-normal)
+
+───────────────────────────────────────────────────────
+  Minimization RMSD Statistics
+───────────────────────────────────────────────────────
+  SV-Flow Core:
+    N = 796 molecules
+    Mean = 0.8509 Å
+    Median = 0.7218 Å
+    Std = 0.5749 Å
+    IQR = 0.6340 Å
+    Min–Max = 0.0136–4.6833 Å
+    > 1.0 Å: 28.4%
+    > 2.0 Å: 4.9%
+    Energy reduction: 638.1 ± 4413.0 kJ/mol
+
+  DrugFlow:
+    N = 869 molecules
+    Mean = 0.8709 Å
+    Median = 0.7401 Å
+    Std = 0.6046 Å
+    IQR = 0.6808 Å
+    Min–Max = 0.0304–6.0221 Å
+    > 1.0 Å: 31.4%
+    > 2.0 Å: 5.3%
+    Energy reduction: 434.0 ± 2101.5 kJ/mol
+
+  Core vs DrugFlow RMSD: Mann-Whitney U=340640.0, p=0.5942, d=-0.034
